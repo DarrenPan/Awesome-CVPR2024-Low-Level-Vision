@@ -10,12 +10,12 @@ A Collection of Papers and Codes in CVPR2022 about low level vision
 
 ## 
 
-- [Image Restoration](#Image Retoration)
+- [Image Restoration](#ImageRetoration)
 
 
 
 
-<a name="Image Retoration"></a>
+<a name="ImageRetoration"></a>
 # Image Restoration - 图像恢复
 
 **Restormer: Efficient Transformer for High-Resolution Image Restoration**
