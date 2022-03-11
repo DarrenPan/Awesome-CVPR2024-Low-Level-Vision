@@ -1,5 +1,5 @@
 # CVPR2022-Low-Level-Vision
-A Collection of Papers and Codes in CVPR2022 about low level vision
+A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 
 ## Related collection for low level vision
