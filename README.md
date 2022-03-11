@@ -14,6 +14,9 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 - [Super Resolution](#SuperResolution)
 
+- [Denoising](#Denoising)
+
+- [Image Completion/Inpainting](#Inpainting)
 
 <a name="ImageRetoration"></a>
 # Image Restoration - 图像恢复
@@ -49,3 +52,17 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2104.13371
 - Code: https://github.com/ckkelvinchan/BasicVSR_PlusPlus
 
+<a name="Denoising"></a>
+# Denoising - 去噪
+
+**Self-Supervised Image Denoising via Iterative Data Refinement**
+- Paper: https://arxiv.org/abs/2111.14358
+- Code: https://github.com/zhangyi-3/IDR
+- Tags: Self-Supervised
+
+<a name="Inpainting"></a>
+# Image Completion/Inpainting - 图像修复
+
+**Bridging Global Context Interactions for High-Fidelity Image Completion**
+- Paper: https://arxiv.org/abs/2104.00845
+- Code: https://github.com/lyndonzheng/TFill
