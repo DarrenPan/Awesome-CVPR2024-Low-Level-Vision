@@ -21,12 +21,12 @@ A Collection of Papers and Codes in CVPR2022 about low level vision
 **Restormer: Efficient Transformer for High-Resolution Image Restoration**
 - Paper: https://arxiv.org/abs/2111.09881
 - Code: https://github.com/swz30/Restormer
-- Key words: Transformer
+- Tags: Transformer
 
 **Uformer: A General U-Shaped Transformer for Image Restoration**
 - Paper: https://arxiv.org/abs/2106.03106
 - Code: https://github.com/ZhendongWang6/Uformer
-- Key words: Transformer
+- Tags: Transformer
 
 
 
@@ -34,6 +34,9 @@ A Collection of Papers and Codes in CVPR2022 about low level vision
 # Super Resolution - 超分辨率
 ## Image Super Resolution
 
+**Reflash Dropout in Image Super-Resolution**
+- Paper: https://arxiv.org/abs/2112.12089
+- Code: https://github.com/Xiangtaokong/Reflash-Dropout-in-Image-Super-Resolution
 
 ## Video Super Resolution
 
