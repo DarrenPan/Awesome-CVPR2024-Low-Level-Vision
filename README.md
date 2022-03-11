@@ -38,7 +38,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2112.12089
 - Code: https://github.com/Xiangtaokong/Reflash-Dropout-in-Image-Super-Resolution
 
-**Learning the Degradation Distribution for Blind Image Super-Resolution **
+**Learning the Degradation Distribution for Blind Image Super-Resolution**
 - Paper: https://arxiv.org/abs/2203.04962
 - Code: https://github.com/greatlog/UnpairedSR
 - Tags: Blind SR
