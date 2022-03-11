@@ -12,7 +12,7 @@ A Collection of Papers and Codes in CVPR2022 about low level vision
 
 - [Image Restoration](#ImageRetoration)
 
-
+- [Super Resolution](#SuperResolution)
 
 
 <a name="ImageRetoration"></a>
@@ -27,4 +27,17 @@ A Collection of Papers and Codes in CVPR2022 about low level vision
 - Paper: https://arxiv.org/abs/2106.03106
 - Code: https://github.com/ZhendongWang6/Uformer
 - Key words: Transformer
+
+
+
+<a name="SuperResolution"></a>
+# Super Resolution - 超分辨率
+## Image Super Resolution
+
+
+## Video Super Resolution
+
+**BasicVSR++: Improving Video Super-Resolution with Enhanced Propagation and Alignment**
+- Paper: https://arxiv.org/abs/2104.13371
+- Code: https://github.com/ckkelvinchan/BasicVSR_PlusPlus
 
