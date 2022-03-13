@@ -18,6 +18,8 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 - [Image Completion/Inpainting](#Inpainting)
 
+- [Image Compression](#ImageCompression)
+
 <a name="ImageRetoration"></a>
 # Image Restoration - 图像恢复
 
@@ -66,3 +68,16 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Bridging Global Context Interactions for High-Fidelity Image Completion**
 - Paper: https://arxiv.org/abs/2104.00845
 - Code: https://github.com/lyndonzheng/TFill
+
+**Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding**
+- Paper: https://arxiv.org/abs/2203.00867
+- Code: https://github.com/DQiaole/ZITS_inpainting
+
+
+<a name="ImageCompression"></a>
+# Image Compression - 图像压缩
+
+**Neural Data-Dependent Transform for Learned Image Compression**
+- Paper: https://arxiv.org/abs/2203.04963v1
+
+
