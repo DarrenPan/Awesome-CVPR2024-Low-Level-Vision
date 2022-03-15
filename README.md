@@ -48,6 +48,12 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/greatlog/UnpairedSR
 - Tags: Blind SR
 
+**GCFSR: a Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors**
+- Paper: https://arxiv.org/abs/2203.07319
+- Code: 
+- Tags: Face SR
+
+
 ## Video Super Resolution
 
 **BasicVSR++: Improving Video Super-Resolution with Enhanced Propagation and Alignment**
@@ -61,6 +67,12 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2111.14358
 - Code: https://github.com/zhangyi-3/IDR
 - Tags: Self-Supervised
+
+**Blind2Unblind: Self-Supervised Image Denoising with Visible Blind Spots**
+- Paper: https://arxiv.org/abs/2203.06967
+- Code: 
+- Tags: Self-Supervised
+
 
 <a name="Inpainting"></a>
 # Image Completion/Inpainting - 图像修复
