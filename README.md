@@ -14,6 +14,8 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 - [Super Resolution](#SuperResolution)
 
+- [Image Rescaling](#Rescaling)
+
 - [Denoising](#Denoising)
 
 - [Image Completion/Inpainting](#Inpainting)
@@ -59,6 +61,13 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **BasicVSR++: Improving Video Super-Resolution with Enhanced Propagation and Alignment**
 - Paper: https://arxiv.org/abs/2104.13371
 - Code: https://github.com/ckkelvinchan/BasicVSR_PlusPlus
+
+
+<a name="Rescaling"></a>
+# Image Rescaling 
+
+**Towards Bidirectional Arbitrary Image Rescaling: Joint Optimization and Cycle Idempotence**
+- Paper: https://arxiv.org/abs/2203.00911
 
 <a name="Denoising"></a>
 # Denoising - 去噪
