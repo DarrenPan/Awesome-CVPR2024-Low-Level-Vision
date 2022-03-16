@@ -97,6 +97,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/DQiaole/ZITS_inpainting
 
 
+**MISF: Multi-level Interactive Siamese Filtering for High-Fidelity Image Inpainting**
+- Paper: https://arxiv.org/abs/2203.06304
+- Code: https://github.com/tsingqguo/misf
+
 <a name="ImageCompression"></a>
 # Image Compression - 图像压缩
 
