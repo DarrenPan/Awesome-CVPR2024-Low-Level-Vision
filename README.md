@@ -107,4 +107,8 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Neural Data-Dependent Transform for Learned Image Compression**
 - Paper: https://arxiv.org/abs/2203.04963v1
 
+**The Devil Is in the Details: Window-based Attention for Image Compression**
+- Paper: https://arxiv.org/abs/2203.08450
+- Code: https://github.com/Googolxx/STF
+
 
