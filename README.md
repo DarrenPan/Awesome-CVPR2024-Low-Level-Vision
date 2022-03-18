@@ -11,7 +11,8 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 ## 
 
 - [Image Restoration](#ImageRetoration)
-
+  - [Burst Restoration](#BurstRestoration)
+  - [Video Restoration](#VideoRestoration)
 - [Super Resolution](#SuperResolution)
   - [Image Super Resolution](#ImageSuperResolution)
   - [Video Super Resolution](#VideoSuperResolution)
@@ -36,6 +37,19 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/ZhendongWang6/Uformer
 - Tags: Transformer
 
+<a name="BurstRestoration"></a>
+## Burst Restoration
+
+**A Differentiable Two-stage Alignment Scheme for Burst Image Reconstruction with Large Shift**
+- Paper: https://arxiv.org/abs/2203.09294
+- Code: https://github.com/GuoShi28/2StageAlign
+- Tags: joint denoising and demosaicking
+
+<a name="VideoRestoration"></a>
+## Video Restoration
+
+**Neural Compression-Based Feature Learning for Video Restoration**
+- Paper:https://arxiv.org/abs/2203.09208
 
 
 <a name="SuperResolution"></a>
@@ -51,6 +65,11 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.04962
 - Code: https://github.com/greatlog/UnpairedSR
 - Tags: Blind SR
+
+**Details or Artifacts: A Locally Discriminative Learning Approach to Realistic Image Super-Resolution**
+- Paper: https://arxiv.org/abs/2203.09195
+- Code: https://github.com/csjliang/LDL
+- Tags: Real SR
 
 **GCFSR: a Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors**
 - Paper: https://arxiv.org/abs/2203.07319
