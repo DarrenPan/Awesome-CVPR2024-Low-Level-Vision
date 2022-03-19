@@ -73,8 +73,13 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 **GCFSR: a Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors**
 - Paper: https://arxiv.org/abs/2203.07319
-- Code: 
 - Tags: Face SR
+
+**A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution**
+- Paper: https://arxiv.org/abs/2203.09388
+- Code: https://github.com/mjq11302010044/TATT
+- Tags: Text SR
+
 
 <a name="VideoSuperResolution"></a>
 ## Video Super Resolution
@@ -85,7 +90,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 
 <a name="Rescaling"></a>
-# Image Rescaling 
+# Image Rescaling - 图像缩放
 
 **Towards Bidirectional Arbitrary Image Rescaling: Joint Optimization and Cycle Idempotence**
 - Paper: https://arxiv.org/abs/2203.00911
