@@ -24,6 +24,8 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 - [Image Compression](#ImageCompression)
 
+- [Style Transfer](#StyleTransfer)
+
 <a name="ImageRetoration"></a>
 # Image Restoration - 图像恢复
 
@@ -36,6 +38,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2106.03106
 - Code: https://github.com/ZhendongWang6/Uformer
 - Tags: Transformer
+
+**Fourier Document Restoration for Robust Document Dewarping and Recognition**
+- Paper: https://arxiv.org/abs/2203.09910
+- Tags: Document Restoration
 
 <a name="BurstRestoration"></a>
 ## Burst Restoration
@@ -134,5 +140,25 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **The Devil Is in the Details: Window-based Attention for Image Compression**
 - Paper: https://arxiv.org/abs/2203.08450
 - Code: https://github.com/Googolxx/STF
+
+<a name="StyleTransfer"></a>
+# Style Transfer - 风格迁移
+
+**CLIPstyler: Image Style Transfer with a Single Text Condition**
+- Paper: https://arxiv.org/abs/2112.00374
+- Code: https://github.com/cyclomon/CLIPstyler
+- Tags: CLIP
+
+**Style-ERD: Responsive and Coherent Online Motion Style Transfer**
+- Paper: https://arxiv.org/abs/2203.02574
+- Code: https://github.com/tianxintao/Online-Motion-Style-Transfer
+
+**Exact Feature Distribution Matching for Arbitrary Style Transfer and Domain Generalization**
+- Paper: https://arxiv.org/abs/2203.07740
+- Code: https://github.com/YBZh/EFDM
+
+**Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer**
+- Paper: 
+- Code: https://github.com/williamyang1991/DualStyleGAN
 
 
