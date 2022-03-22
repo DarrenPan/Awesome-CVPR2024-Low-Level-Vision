@@ -39,6 +39,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/ZhendongWang6/Uformer
 - Tags: Transformer
 
+**All-In-One Image Restoration for Unknown Corruption**
+- Paper: http://pengxi.me/wp-content/uploads/2022/03/All-In-One-Image-Restoration-for-Unknown-Corruption.pdf
+- Code: https://github.com/XLearning-SCU/2022-CVPR-AirNet
+
 **Fourier Document Restoration for Robust Document Dewarping and Recognition**
 - Paper: https://arxiv.org/abs/2203.09910
 - Tags: Document Restoration
@@ -140,6 +144,12 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **The Devil Is in the Details: Window-based Attention for Image Compression**
 - Paper: https://arxiv.org/abs/2203.08450
 - Code: https://github.com/Googolxx/STF
+
+**ELIC: Efficient Learned Image Compression with Unevenly Grouped Space-Channel Contextual Adaptive Coding**
+- Paper: https://arxiv.org/abs/2203.10886
+
+**Unified Multivariate Gaussian Mixture for Efficient Neural Image Compression**
+- Paper: https://arxiv.org/abs/2203.10897
 
 <a name="StyleTransfer"></a>
 # Style Transfer - 风格迁移
