@@ -26,6 +26,8 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 - [Style Transfer](#StyleTransfer)
 
+- [Image Editing](#ImageEditing)
+
 <a name="ImageRetoration"></a>
 # Image Restoration - 图像恢复
 
@@ -171,4 +173,28 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: 
 - Code: https://github.com/williamyang1991/DualStyleGAN
 
+<a name="ImageEditing"></a>
+# Image Editing - 图像编辑
 
+**High-Fidelity GAN Inversion for Image Attribute Editing**
+- Paper: https://arxiv.org/abs/2109.06590
+- Code: https://github.com/Tengfei-Wang/HFGI
+
+**Style Transformer for Image Inversion and Editing**
+- Paper: https://arxiv.org/abs/2203.07932
+- Code: https://github.com/sapphire497/style-transformer
+
+**HairCLIP: Design Your Hair by Text and Reference Image**
+- Paper: https://arxiv.org/abs/2112.05142
+- Code: https://github.com/wty-ustc/HairCLIP
+
+**HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing**
+- Paper: https://arxiv.org/abs/2111.15666
+- Code: https://github.com/yuval-alaluf/hyperstyle
+
+**Blended Diffusion for Text-driven Editing of Natural Images**
+- Paper: https://arxiv.org/abs/2111.14818
+- Code: https://github.com/omriav/blended-diffusion
+
+**FlexIT: Towards Flexible Semantic Image Translation**
+- Paper: https://arxiv.org/abs/2203.04705 
