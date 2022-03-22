@@ -187,6 +187,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **HairCLIP: Design Your Hair by Text and Reference Image**
 - Paper: https://arxiv.org/abs/2112.05142
 - Code: https://github.com/wty-ustc/HairCLIP
+- Tags: CLIP
 
 **HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing**
 - Paper: https://arxiv.org/abs/2111.15666
@@ -195,6 +196,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Blended Diffusion for Text-driven Editing of Natural Images**
 - Paper: https://arxiv.org/abs/2111.14818
 - Code: https://github.com/omriav/blended-diffusion
+- Tags: CLIP
 
 **FlexIT: Towards Flexible Semantic Image Translation**
 - Paper: https://arxiv.org/abs/2203.04705 
+
+**SemanticStyleGAN: Learning Compositonal Generative Priors for Controllable Image Synthesis and Editing**
+- Paper: https://arxiv.org/abs/2112.02236
