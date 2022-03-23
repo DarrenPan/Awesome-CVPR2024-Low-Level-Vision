@@ -28,6 +28,8 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 - [Image Editing](#ImageEditing)
 
+- [Image Generation/Synthesis](#ImageGeneration)
+
 <a name="ImageRetoration"></a>
 # Image Restoration - 图像恢复
 
@@ -123,6 +125,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/demonsjin/Blind2Unblind
 - Tags: Self-Supervised
 
+**AP-BSN: Self-Supervised Denoising for Real-World Images via Asymmetric PD and Blind-Spot Network**
+- Paper: https://arxiv.org/abs/2203.11799
+- Code: https://github.com/wooseoklee4/AP-BSN
+- Tags: Self-Supervised
 
 <a name="Inpainting"></a>
 # Image Completion/Inpainting - 图像修复
@@ -206,3 +212,41 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 **SemanticStyleGAN: Learning Compositonal Generative Priors for Controllable Image Synthesis and Editing**
 - Paper: https://arxiv.org/abs/2112.02236
+
+<a name=ImageGeneration></a>
+# Image Generation/Synthesis - 图像生成/合成
+
+**Text to Image Generation with Semantic-Spatial Aware GAN**
+- Paper: https://arxiv.org/abs/2104.00567
+- Code: https://github.com/wtliao/text2image
+
+**Attribute Group Editing for Reliable Few-shot Image Generation**
+- Paper: https://arxiv.org/abs/2203.08422
+- Code: https://github.com/UniBester/AGE
+
+**Modulated Contrast for Versatile Image Synthesis**
+- Paper: https://arxiv.org/abs/2203.09333
+- Code: https://github.com/UniBester/AGE
+
+**Interactive Image Synthesis with Panoptic Layout Generation**
+- Paper: https://arxiv.org/abs/2203.02104
+
+**Autoregressive Image Generation using Residual Quantization**
+- Paper: https://arxiv.org/abs/2203.01941
+- Code: https://github.com/lucidrains/RQ-Transformer
+
+**Dynamic Dual-Output Diffusion Models**
+- Paper: https://arxiv.org/abs/2203.04304
+
+**Exploring Dual-task Correlation for Pose Guided Person Image Generation**
+- Paper: https://arxiv.org/abs/2203.02910
+- Code: https://github.com/PangzeCheung/Dual-task-Pose-Transformer-Network
+
+**StyleSwin: Transformer-based GAN for High-resolution Image Generation**
+- Paper: https://arxiv.org/abs/2112.10762
+- Code: https://github.com/microsoft/StyleSwin
+
+**LAFITE: Towards Language-Free Training for Text-to-Image Generation**
+- Paper: https://arxiv.org/abs/2111.13792
+- Code: https://github.com/drboog/Lafite
+
