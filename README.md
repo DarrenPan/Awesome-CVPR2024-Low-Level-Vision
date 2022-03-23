@@ -49,6 +49,9 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.09910
 - Tags: Document Restoration
 
+**Exploring and Evaluating Image Restoration Potential in Dynamic Scenes**
+- Paper: https://arxiv.org/abs/2203.11754
+
 <a name="BurstRestoration"></a>
 ## Burst Restoration
 
