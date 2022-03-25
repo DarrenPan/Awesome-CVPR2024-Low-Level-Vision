@@ -20,6 +20,8 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 - [Denoising](#Denoising)
 
+- [Image Harmonization](#Harmonization)
+
 - [Image Completion/Inpainting](#Inpainting)
 
 - [Image Compression](#ImageCompression)
@@ -130,6 +132,20 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/wooseoklee4/AP-BSN
 - Tags: Self-Supervised
 
+**CVF-SID: Cyclic multi-Variate Function for Self-Supervised Image Denoising by Disentangling Noise from Image**
+- Paper: https://arxiv.org/abs/2203.13009
+- Code: https://github.com/Reyhanehne/CVF-SID_PyTorch
+- Tags: Self-Supervised
+
+
+<a name="Harmonization "></a>
+# Image Harmonization/Composition - 图像协调/图像合成
+
+**High-Resolution Image Harmonization via Collaborative Dual Transformationsg**
+- Paper: https://arxiv.org/abs/2109.06671
+- Code: https://github.com/bcmi/CDTNet-High-Resolution-Image-Harmonization
+
+
 <a name="Inpainting"></a>
 # Image Completion/Inpainting - 图像修复
 
@@ -141,10 +157,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.00867
 - Code: https://github.com/DQiaole/ZITS_inpainting
 
-
 **MISF: Multi-level Interactive Siamese Filtering for High-Fidelity Image Inpainting**
 - Paper: https://arxiv.org/abs/2203.06304
 - Code: https://github.com/tsingqguo/misf
+
 
 <a name="ImageCompression"></a>
 # Image Compression - 图像压缩
@@ -179,8 +195,13 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/YBZh/EFDM
 
 **Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer**
-- Paper: 
+- Paper: https://arxiv.org/abs/2203.13248
 - Code: https://github.com/williamyang1991/DualStyleGAN
+
+**Industrial Style Transfer with Large-scale Geometric Warping and Content Preservation**
+- Paper: https://arxiv.org/abs/2203.12835
+- Code: https://github.com/jcyang98/InST
+
 
 <a name="ImageEditing"></a>
 # Image Editing - 图像编辑
@@ -214,7 +235,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2112.02236
 
 <a name=ImageGeneration></a>
-# Image Generation/Synthesis - 图像生成/合成
+# Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
 
 **Text to Image Generation with Semantic-Spatial Aware GAN**
 - Paper: https://arxiv.org/abs/2104.00567
@@ -250,3 +271,5 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2111.13792
 - Code: https://github.com/drboog/Lafite
 
+**Maximum Spatial Perturbation Consistency for Unpaired Image-to-Image Translation**
+- Paper: https://arxiv.org/abs/2203.12707
