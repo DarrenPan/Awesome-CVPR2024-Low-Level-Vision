@@ -143,7 +143,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Tags: Self-Supervised
 
 
-<a name="Harmonization "></a>
+<a name="Harmonization"></a>
 # Image Harmonization/Composition - 图像协调/图像合成
 
 **High-Resolution Image Harmonization via Collaborative Dual Transformationsg**
