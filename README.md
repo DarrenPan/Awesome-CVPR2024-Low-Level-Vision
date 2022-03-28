@@ -85,6 +85,11 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/greatlog/UnpairedSR
 - Tags: Blind SR
 
+**Deep Constrained Least Squares for Blind Image Super-Resolution**
+- Paper: https://arxiv.org/abs/2202.07508
+- Code: https://github.com/Algolzw/DCLS
+- Tags: Blind SR
+
 **Details or Artifacts: A Locally Discriminative Learning Approach to Realistic Image Super-Resolution**
 - Paper: https://arxiv.org/abs/2203.09195
 - Code: https://github.com/csjliang/LDL
