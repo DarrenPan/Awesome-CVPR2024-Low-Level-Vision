@@ -3,6 +3,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 
 ## Related collections for low-level vision
+- [Awesome-AAAI2022-Low-Level-Vision](https://github.com/DarrenPan/Awesome-AAAI2022-Low-Level-Vision)
 - [Awesome-ICCV2021-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Vision)
 - [Awesome-CVPR2021/CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2021-CVPR2020-Low-Level-Vision)
 - [Awesome-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2020-Low-Level-Vision)
@@ -19,6 +20,8 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - [Image Rescaling](#Rescaling)
 
 - [Denoising](#Denoising)
+
+- [Frame Interpolation](#FrameInterpolation)
 
 - [Image Harmonization](#Harmonization)
 
@@ -44,6 +47,11 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2106.03106
 - Code: https://github.com/ZhendongWang6/Uformer
 - Tags: Transformer
+
+**MAXIM: Multi-Axis MLP for Image Processing**
+- Paper: https://arxiv.org/abs/2201.02973
+- Code: https://github.com/google-research/maxim
+- Tags: MLP, also do image enhancement
 
 **All-In-One Image Restoration for Unknown Corruption**
 - Paper: http://pengxi.me/wp-content/uploads/2022/03/All-In-One-Image-Restoration-for-Unknown-Corruption.pdf
@@ -104,6 +112,13 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/mjq11302010044/TATT
 - Tags: Text SR
 
+**Learning Graph Regularisation for Guided Super-Resolution**
+- Paper: https://arxiv.org/abs/2203.09388
+- Tags: Guided SR
+
+**Transformer-empowered Multi-scale Contextual Matching and Aggregation for Multi-contrast MRI Super-resolution**
+- Paper: https://arxiv.org/abs/2203.09388
+- Tags: MRI SR
 
 <a name="VideoSuperResolution"></a>
 ## Video Super Resolution
@@ -111,6 +126,11 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **BasicVSR++: Improving Video Super-Resolution with Enhanced Propagation and Alignment**
 - Paper: https://arxiv.org/abs/2104.13371
 - Code: https://github.com/ckkelvinchan/BasicVSR_PlusPlus
+
+**Reference-based Video Super-Resolution Using Multi-Camera Video Triplets**
+- Paper: https://arxiv.org/abs/2203.14537
+- Code: https://github.com/codeslake/RefVSR
+- Tags: Reference-based VSR
 
 
 <a name="Rescaling"></a>
@@ -142,6 +162,12 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/Reyhanehne/CVF-SID_PyTorch
 - Tags: Self-Supervised
 
+<a name="FrameInterpolation"></a>
+# Frame Interpolation - 插帧
+
+**TimeReplayer: Unlocking the Potential of Event Cameras for Video Interpolation**
+- Paper: https://arxiv.org/abs/2203.13859
+- Tags: Event Camera
 
 <a name="Harmonization"></a>
 # Image Harmonization/Composition - 图像协调/图像合成
@@ -278,3 +304,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 **Maximum Spatial Perturbation Consistency for Unpaired Image-to-Image Translation**
 - Paper: https://arxiv.org/abs/2203.12707
+
+**DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation**
+- Paper: https://arxiv.org/abs/2110.02711
+- Code: https://github.com/gwang-kim/DiffusionCLIP
