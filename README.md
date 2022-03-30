@@ -165,6 +165,9 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 <a name="FrameInterpolation"></a>
 # Frame Interpolation - 插帧
 
+**Long-term Video Frame Interpolation via Feature Propagation**
+- Paper: https://arxiv.org/abs/2203.15427
+
 **TimeReplayer: Unlocking the Potential of Event Cameras for Video Interpolation**
 - Paper: https://arxiv.org/abs/2203.13859
 - Tags: Event Camera
@@ -192,6 +195,9 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.06304
 - Code: https://github.com/tsingqguo/misf
 
+**MAT: Mask-Aware Transformer for Large Hole Image Inpainting**
+- Paper: https://arxiv.org/abs/2203.15270
+- Code: https://github.com/fenglinglwb/MAT
 
 <a name="ImageCompression"></a>
 # Image Compression - 图像压缩
@@ -265,12 +271,32 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **SemanticStyleGAN: Learning Compositonal Generative Priors for Controllable Image Synthesis and Editing**
 - Paper: https://arxiv.org/abs/2112.02236
 
+**SketchEdit: Mask-Free Local Image Manipulation with Partial Sketches**
+- Paper: https://arxiv.org/abs/2111.15078
+- Code: https://github.com/zengxianyu/sketchedit
+
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
 
 **Text to Image Generation with Semantic-Spatial Aware GAN**
 - Paper: https://arxiv.org/abs/2104.00567
 - Code: https://github.com/wtliao/text2image
+
+**LAFITE: Towards Language-Free Training for Text-to-Image Generation**
+- Paper: https://arxiv.org/abs/2111.13792
+- Code: https://github.com/drboog/Lafite
+
+**DF-GAN: Deep Fusion Generative Adversarial Networks for Text-to-Image Synthesis**
+- Paper: https://arxiv.org/abs/2008.05865
+- Code: https://github.com/tobran/DF-GAN
+
+**StyleT2I: Toward Compositional and High-Fidelity Text-to-Image Synthesis**
+- Paper: https://arxiv.org/abs/2203.15799
+- Code: https://github.com/zhihengli-UR/StyleT2I
+
+**DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation**
+- Paper: https://arxiv.org/abs/2110.02711
+- Code: https://github.com/gwang-kim/DiffusionCLIP
 
 **Attribute Group Editing for Reliable Few-shot Image Generation**
 - Paper: https://arxiv.org/abs/2203.08422
@@ -298,13 +324,13 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2112.10762
 - Code: https://github.com/microsoft/StyleSwin
 
-**LAFITE: Towards Language-Free Training for Text-to-Image Generation**
-- Paper: https://arxiv.org/abs/2111.13792
-- Code: https://github.com/drboog/Lafite
-
 **Maximum Spatial Perturbation Consistency for Unpaired Image-to-Image Translation**
 - Paper: https://arxiv.org/abs/2203.12707
 
-**DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation**
-- Paper: https://arxiv.org/abs/2110.02711
-- Code: https://github.com/gwang-kim/DiffusionCLIP
+**A Style-aware Discriminator for Controllable Image Translation**
+- Paper: https://arxiv.org/abs/2203.15375
+- Code: https://github.com/kunheek/style-aware-discriminator
+
+**QS-Attn: Query-Selected Attention for Contrastive Learning in I2I Translation**
+- Paper: https://arxiv.org/abs/2203.08483
+- Code: https://github.com/sapphire497/query-selected-attention
