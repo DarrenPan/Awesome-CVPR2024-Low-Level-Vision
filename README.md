@@ -215,6 +215,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Unified Multivariate Gaussian Mixture for Efficient Neural Image Compression**
 - Paper: https://arxiv.org/abs/2203.10897
 
+**Practical Learned Lossless JPEG Recompression with Multi-Level Cross-Channel Entropy Model in the DCT Domain**
+- Paper: https://arxiv.org/abs/2203.16357
+- Tags: Compress JPEG 
+
 <a name="StyleTransfer"></a>
 # Style Transfer - 风格迁移
 
@@ -298,6 +302,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2110.02711
 - Code: https://github.com/gwang-kim/DiffusionCLIP
 
+**Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model**
+- Paper: https://arxiv.org/abs/2111.13333
+- Code: https://github.com/zipengxuc/PPE-Pytorch
+
 **Attribute Group Editing for Reliable Few-shot Image Generation**
 - Paper: https://arxiv.org/abs/2203.08422
 - Code: https://github.com/UniBester/AGE
@@ -334,3 +342,6 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **QS-Attn: Query-Selected Attention for Contrastive Learning in I2I Translation**
 - Paper: https://arxiv.org/abs/2203.08483
 - Code: https://github.com/sapphire497/query-selected-attention
+
+**InstaFormer: Instance-Aware Image-to-Image Translation with Transformer**
+- Paper: https://arxiv.org/abs/2203.16248
