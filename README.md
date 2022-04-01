@@ -23,11 +23,18 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 - [Frame Interpolation](#FrameInterpolation)
 
+- [Image Enhancement](#Enhancement)
+  - [Low-Light Image Enhancement](#LowLight)
+
 - [Image Harmonization](#Harmonization)
 
 - [Image Completion/Inpainting](#Inpainting)
 
+- [Relighting](#Relighting)
+
 - [Image Compression](#ImageCompression)
+
+- [Image Quality Assessment](#ImageQualityAssessment)
 
 - [Style Transfer](#StyleTransfer)
 
@@ -78,6 +85,9 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Neural Compression-Based Feature Learning for Video Restoration**
 - Paper:https://arxiv.org/abs/2203.09208
 
+**Bringing Old Films Back to Life**
+- Paper: https://arxiv.org/abs/2203.17276
+- Code: https://github.com/raywzy/Bringing-Old-Films-Back-to-Life
 
 <a name="SuperResolution"></a>
 # Super Resolution - 超分辨率
@@ -172,6 +182,21 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.13859
 - Tags: Event Camera
 
+**Time Lens++: Event-based Frame Interpolation with Parametric Non-linear Flow and Multi-scale Fusion**
+- Paper: https://arxiv.org/abs/2203.17191
+- Tags: Event-based 
+
+
+<a name="Enhancement"></a>
+# Image Enhancement - 图像增强
+
+<a name="LowLight"></a>
+## Low-Light Image Enhancement
+
+**Abandoning the Bayer-Filter to See in the Dark**
+- Paper: https://arxiv.org/abs/2203.04042
+- Code: https://github.com/TCL-AILab/Abandon_Bayer-Filter_See_in_the_Dark
+
 <a name="Harmonization"></a>
 # Image Harmonization/Composition - 图像协调/图像合成
 
@@ -199,6 +224,16 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.15270
 - Code: https://github.com/fenglinglwb/MAT
 
+
+<a name="Relighting"></a>
+# Relighting
+
+**Face Relighting with Geometrically Consistent Shadows**
+- Paper: https://arxiv.org/abs/2203.16681
+- Code: https://github.com/andrewhou1/GeomConsistentFR
+- Tags: Face Relighting
+
+
 <a name="ImageCompression"></a>
 # Image Compression - 图像压缩
 
@@ -218,6 +253,15 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Practical Learned Lossless JPEG Recompression with Multi-Level Cross-Channel Entropy Model in the DCT Domain**
 - Paper: https://arxiv.org/abs/2203.16357
 - Tags: Compress JPEG 
+
+
+<a name="ImageQualityAssessment"></a>
+# Image Quality Assessment - 图像质量评价
+
+**Personalized Image Aesthetics Assessment with Rich Attributes**
+- Paper: https://arxiv.org/abs/2203.16754
+- Tags: Aesthetics Assessment
+
 
 <a name="StyleTransfer"></a>
 # Style Transfer - 风格迁移
@@ -279,6 +323,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2111.15078
 - Code: https://github.com/zengxianyu/sketchedit
 
+**TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing**
+- Paper: https://arxiv.org/abs/2203.17266
+- Code: https://github.com/BillyXYB/TransEditor
+
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
 
@@ -331,6 +379,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **StyleSwin: Transformer-based GAN for High-resolution Image Generation**
 - Paper: https://arxiv.org/abs/2112.10762
 - Code: https://github.com/microsoft/StyleSwin
+
+**Semantic-shape Adaptive Feature Modulation for Semantic Image Synthesis**
+- Paper: https://arxiv.org/abs/2203.16898
+- Code: https://github.com/cszy98/SAFM
 
 **Maximum Spatial Perturbation Consistency for Unpaired Image-to-Image Translation**
 - Paper: https://arxiv.org/abs/2203.12707
