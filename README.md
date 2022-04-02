@@ -32,6 +32,8 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 - [Relighting](#Relighting)
 
+- [Image Stitching](#Stitching)
+
 - [Image Compression](#ImageCompression)
 
 - [Image Quality Assessment](#ImageQualityAssessment)
@@ -41,6 +43,8 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - [Image Editing](#ImageEditing)
 
 - [Image Generation/Synthesis](#ImageGeneration)
+  - [Video Generation/Synthesis](#VideoGeneartion)
+
 
 <a name="ImageRetoration"></a>
 # Image Restoration - 图像恢复
@@ -233,6 +237,12 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/andrewhou1/GeomConsistentFR
 - Tags: Face Relighting
 
+<a name="Stitching"></a>
+# Image Stitching - 图像拼接
+
+**Deep Rectangling for Image Stitching: A Learning Baseline**
+- Paper: https://arxiv.org/abs/2203.03831
+- Code: https://github.com/nie-lang/DeepRectangling
 
 <a name="ImageCompression"></a>
 # Image Compression - 图像压缩
@@ -397,3 +407,14 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 **InstaFormer: Instance-Aware Image-to-Image Translation with Transformer**
 - Paper: https://arxiv.org/abs/2203.16248
+
+<a name=VideoGeneration></a>
+## Video Generation/Synthesis
+
+**Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning**
+- Paper: https://arxiv.org/abs/2203.02573
+- Code: https://github.com/snap-research/MMVID
+
+**Playable Environments: Video Manipulation in Space and Time**
+- Paper: https://arxiv.org/abs/2203.01914
+- Code: https://github.com/willi-menapace/PlayableEnvironments
