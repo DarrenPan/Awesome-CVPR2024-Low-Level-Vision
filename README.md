@@ -43,7 +43,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - [Image Editing](#ImageEditing)
 
 - [Image Generation/Synthesis](#ImageGeneration)
-  - [Video Generation/Synthesis](#VideoGeneartion)
+  - [Video Generation/Synthesis](#VideoGeneration)
 
 
 <a name="ImageRetoration"></a>
@@ -178,6 +178,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 <a name="FrameInterpolation"></a>
 # Frame Interpolation - 插帧
+
+**ST-MFNet: A Spatio-Temporal Multi-Flow Network for Frame Interpolation**
+- Paper: https://arxiv.org/abs/2111.15483
+- Code: https://github.com/danielism97/ST-MFNet
 
 **Long-term Video Frame Interpolation via Feature Propagation**
 - Paper: https://arxiv.org/abs/2203.15427
