@@ -100,6 +100,12 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.17276
 - Code: https://github.com/raywzy/Bringing-Old-Films-Back-to-Life
 
+**Neural Global Shutter: Learn to Restore Video from a Rolling Shutter Camera with Global Reset Feature**
+- Paper: https://arxiv.org/abs/2204.00974
+- Code: https://github.com/lightChaserX/neural-global-shutter
+- Tags: restore clean global shutter (GS) videos
+
+
 <a name="SuperResolution"></a>
 # Super Resolution - 超分辨率
 <a name="ImageSuperResolution"></a>
@@ -361,6 +367,8 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
 
+## Text-to-Image
+
 **Text to Image Generation with Semantic-Spatial Aware GAN**
 - Paper: https://arxiv.org/abs/2104.00567
 - Code: https://github.com/wtliao/text2image
@@ -384,6 +392,27 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model**
 - Paper: https://arxiv.org/abs/2111.13333
 - Code: https://github.com/zipengxuc/PPE-Pytorch
+
+## Image-to-Image
+
+**Maximum Spatial Perturbation Consistency for Unpaired Image-to-Image Translation**
+- Paper: https://arxiv.org/abs/2203.12707
+
+**A Style-aware Discriminator for Controllable Image Translation**
+- Paper: https://arxiv.org/abs/2203.15375
+- Code: https://github.com/kunheek/style-aware-discriminator
+
+**QS-Attn: Query-Selected Attention for Contrastive Learning in I2I Translation**
+- Paper: https://arxiv.org/abs/2203.08483
+- Code: https://github.com/sapphire497/query-selected-attention
+
+**InstaFormer: Instance-Aware Image-to-Image Translation with Transformer**
+- Paper: https://arxiv.org/abs/2203.16248
+
+**Marginal Contrastive Correspondence for Guided Image Generation**
+- Paper: https://arxiv.org/abs/2204.00442
+
+## Others
 
 **Attribute Group Editing for Reliable Few-shot Image Generation**
 - Paper: https://arxiv.org/abs/2203.08422
@@ -415,22 +444,9 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.16898
 - Code: https://github.com/cszy98/SAFM
 
-**Maximum Spatial Perturbation Consistency for Unpaired Image-to-Image Translation**
-- Paper: https://arxiv.org/abs/2203.12707
-
-**A Style-aware Discriminator for Controllable Image Translation**
-- Paper: https://arxiv.org/abs/2203.15375
-- Code: https://github.com/kunheek/style-aware-discriminator
-
-**QS-Attn: Query-Selected Attention for Contrastive Learning in I2I Translation**
-- Paper: https://arxiv.org/abs/2203.08483
-- Code: https://github.com/sapphire497/query-selected-attention
-
-**InstaFormer: Instance-Aware Image-to-Image Translation with Transformer**
-- Paper: https://arxiv.org/abs/2203.16248
-
-**Marginal Contrastive Correspondence for Guided Image Generation**
-- Paper: https://arxiv.org/abs/2204.00442
+**Arbitrary-Scale Image Synthesis**
+- Paper: https://arxiv.org/abs/2204.02273
+- Code: https://github.com/vglsd/ScaleParty
 
 <a name=VideoGeneration></a>
 ## Video Generation/Synthesis
@@ -442,3 +458,8 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Playable Environments: Video Manipulation in Space and Time**
 - Paper: https://arxiv.org/abs/2203.01914
 - Code: https://github.com/willi-menapace/PlayableEnvironments
+
+**StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2**
+- Paper: https://kaust-cair.s3.amazonaws.com/stylegan-v/stylegan-v-paper.pdf
+- Code: https://github.com/universome/stylegan-v
+
