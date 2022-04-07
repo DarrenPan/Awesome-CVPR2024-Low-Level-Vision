@@ -4,6 +4,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 ## Related collections for low-level vision
 - [Awesome-AAAI2022-Low-Level-Vision](https://github.com/DarrenPan/Awesome-AAAI2022-Low-Level-Vision)
+- [Awesome-NeurIPS2021-Low-Level-Vision](https://github.com/DarrenPan/Awesome-NeurIPS2021-Low-Level-Vision)
 - [Awesome-ICCV2021-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Vision)
 - [Awesome-CVPR2021/CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2021-CVPR2020-Low-Level-Vision)
 - [Awesome-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2020-Low-Level-Vision)
@@ -31,7 +32,8 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - [Image Harmonization](#Harmonization)
 
 - [Image Completion/Inpainting](#Inpainting)
-
+  - [Video Inpainting](#VideoInpainting)
+  
 - [Relighting](#Relighting)
 
 - [Image Stitching](#Stitching)
@@ -255,6 +257,13 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.15270
 - Code: https://github.com/fenglinglwb/MAT
 
+<a name="VideoInpainting"></a>
+## Video Inpainting
+
+**Towards An End-to-End Framework for Flow-Guided Video Inpainting**
+- Paper: https://arxiv.org/abs/2204.02663
+- Code: https://github.com/MCG-NKU/E2FGVI
+
 
 <a name="Relighting"></a>
 # Relighting
@@ -448,6 +457,9 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2204.02273
 - Code: https://github.com/vglsd/ScaleParty
 
+**InsetGAN for Full-Body Image Generation**
+- Paper: https://arxiv.org/abs/2203.07293
+
 <a name=VideoGeneration></a>
 ## Video Generation/Synthesis
 
@@ -463,3 +475,9 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://kaust-cair.s3.amazonaws.com/stylegan-v/stylegan-v-paper.pdf
 - Code: https://github.com/universome/stylegan-v
 
+
+# Others
+
+**GAN-Supervised Dense Visual Alignment**
+- Paper: https://arxiv.org/abs/2112.05143
+- Code: https://github.com/wpeebles/gangealing
