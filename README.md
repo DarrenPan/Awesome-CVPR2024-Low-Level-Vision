@@ -211,6 +211,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Long-term Video Frame Interpolation via Feature Propagation**
 - Paper: https://arxiv.org/abs/2203.15427
 
+**Many-to-many Splatting for Efficient Video Frame Interpolation**
+- Paper: https://arxiv.org/abs/2204.03513
+- Code: https://github.com/feinanshan/M2M_VFI
+
 **TimeReplayer: Unlocking the Potential of Event Cameras for Video Interpolation**
 - Paper: https://arxiv.org/abs/2203.13859
 - Tags: Event Camera
@@ -376,7 +380,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
 
-## Text-to-Image
+## Text-to-Image / Text Guided / Multi-Modal
 
 **Text to Image Generation with Semantic-Spatial Aware GAN**
 - Paper: https://arxiv.org/abs/2104.00567
@@ -402,7 +406,11 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2111.13333
 - Code: https://github.com/zipengxuc/PPE-Pytorch
 
-## Image-to-Image
+**Sound-Guided Semantic Image Manipulation**
+- Paper: https://arxiv.org/abs/2112.00007
+- Code: https://github.com/kuai-lab/sound-guided-semantic-image-manipulation
+
+## Image-to-Image / Image Guided
 
 **Maximum Spatial Perturbation Consistency for Unpaired Image-to-Image Translation**
 - Paper: https://arxiv.org/abs/2203.12707
@@ -421,7 +429,12 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Marginal Contrastive Correspondence for Guided Image Generation**
 - Paper: https://arxiv.org/abs/2204.00442
 
-## Others
+**Unsupervised Image-to-Image Translation with Generative Prior**
+- Paper: https://arxiv.org/abs/2204.03641
+- Code: https://github.com/williamyang1991/GP-UNIT
+
+
+## Others for image generation
 
 **Attribute Group Editing for Reliable Few-shot Image Generation**
 - Paper: https://arxiv.org/abs/2203.08422
@@ -459,6 +472,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 **InsetGAN for Full-Body Image Generation**
 - Paper: https://arxiv.org/abs/2203.07293
+
 
 <a name=VideoGeneration></a>
 ## Video Generation/Synthesis
