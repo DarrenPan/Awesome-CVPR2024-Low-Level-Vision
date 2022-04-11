@@ -21,6 +21,8 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - [Image Rescaling](#Rescaling)
 
 - [Denoising](#Denoising)
+  - [Image Denoising](#ImageDenoising)
+  - [Video Denoising](#VideoDenoising)
 
 - [Deblurring](#Deblurring)
 
@@ -171,6 +173,9 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 <a name="Denoising"></a>
 # Denoising - 去噪
 
+<a name="ImageDenoising"></a>
+## Image Denoising
+
 **Self-Supervised Image Denoising via Iterative Data Refinement**
 - Paper: https://arxiv.org/abs/2111.14358
 - Code: https://github.com/zhangyi-3/IDR
@@ -190,6 +195,14 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.13009
 - Code: https://github.com/Reyhanehne/CVF-SID_PyTorch
 - Tags: Self-Supervised
+
+<a name="VideoDenoising"></a>
+## Video Denoising 
+
+**Dancing under the stars: video denoising in starlight**
+- Paper: https://arxiv.org/abs/2204.04210
+- Code: https://github.com/monakhova/starlight_denoising/
+- Tags: video denoising in starlight
 
 
 <a name="Deblurring"></a>
@@ -377,6 +390,11 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.17266
 - Code: https://github.com/BillyXYB/TransEditor
 
+**HyperInverter: Improving StyleGAN Inversion via Hypernetwork**
+- Paper: https://arxiv.org/abs/2112.00719
+- Code: https://github.com/VinAIResearch/HyperInverter
+
+
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
 
@@ -472,6 +490,11 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 **InsetGAN for Full-Body Image Generation**
 - Paper: https://arxiv.org/abs/2203.07293
+
+**HairMapper: Removing Hair from Portraits Using GANs**
+- Paper: http://www.cad.zju.edu.cn/home/jin/cvpr2022/HairMapper.pdf
+- Code: https://github.com/oneThousand1000/non-hair-FFHQ
+
 
 
 <a name=VideoGeneration></a>
