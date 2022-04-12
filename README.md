@@ -22,6 +22,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 - [Denoising](#Denoising)
   - [Image Denoising](#ImageDenoising)
+  - [Burst Denoising](#BurstDenoising)
   - [Video Denoising](#VideoDenoising)
 
 - [Deblurring](#Deblurring)
@@ -158,6 +159,11 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2104.13371
 - Code: https://github.com/ckkelvinchan/BasicVSR_PlusPlus
 
+**Learning Trajectory-Aware Transformer for Video Super-Resolution**
+- Paper: https://arxiv.org/abs/2204.04216
+- Code: https://github.com/researchmm/TTVSR
+- Tags: Transformer
+
 **Reference-based Video Super-Resolution Using Multi-Camera Video Triplets**
 - Paper: https://arxiv.org/abs/2203.14537
 - Code: https://github.com/codeslake/RefVSR
@@ -195,6 +201,13 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.13009
 - Code: https://github.com/Reyhanehne/CVF-SID_PyTorch
 - Tags: Self-Supervised
+
+<a name="BurstDenoising"></a>
+## BurstDenoising
+
+**NAN: Noise-Aware NeRFs for Burst-Denoising**
+- Paper: https://arxiv.org/abs/2204.04668
+- Tags: NeRFs 
 
 <a name="VideoDenoising"></a>
 ## Video Denoising 
@@ -427,6 +440,9 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Sound-Guided Semantic Image Manipulation**
 - Paper: https://arxiv.org/abs/2112.00007
 - Code: https://github.com/kuai-lab/sound-guided-semantic-image-manipulation
+
+**ManiTrans: Entity-Level Text-Guided Image Manipulation via Token-wise Semantic Alignment and Generation**
+- Paper: https://arxiv.org/abs/2204.04428
 
 ## Image-to-Image / Image Guided
 
