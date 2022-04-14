@@ -130,6 +130,11 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/Algolzw/DCLS
 - Tags: Blind SR
 
+**Blind Image Super-resolution with Elaborate Degradation Modeling on Noise and Kernel**
+- Paper: https://arxiv.org/abs/2107.00986
+- Code: https://github.com/zsyOAOA/BSRDM
+- Tags: Blind SR
+
 **Details or Artifacts: A Locally Discriminative Learning Approach to Realistic Image Super-Resolution**
 - Paper: https://arxiv.org/abs/2203.09195
 - Code: https://github.com/csjliang/LDL
@@ -226,6 +231,15 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/lingyanruan/DRBNet
 - Tags: Defocus deblurring
 
+**Unifying Motion Deblurring and Frame Interpolation with Events**
+- Paper: https://arxiv.org/abs/2203.12178
+- Tags: event-based
+
+**E-CIR: Event-Enhanced Continuous Intensity Recovery**
+- Paper: https://arxiv.org/abs/2203.01935
+- Code: https://github.com/chensong1995/E-CIR
+- Tags: event-based
+
 
 <a name="FrameInterpolation"></a>
 # Frame Interpolation - 插帧
@@ -249,6 +263,9 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.17191
 - Tags: Event-based 
 
+**Unifying Motion Deblurring and Frame Interpolation with Events**
+- Paper: https://arxiv.org/abs/2203.12178
+- Tags: event-based
 
 <a name="Enhancement"></a>
 # Image Enhancement - 图像增强
