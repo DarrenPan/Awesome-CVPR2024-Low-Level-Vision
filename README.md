@@ -169,6 +169,9 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/researchmm/TTVSR
 - Tags: Transformer
 
+**Look Back and Forth: Video Super-Resolution with Explicit Temporal Difference Modeling**
+- Paper: https://arxiv.org/abs/2204.07114
+
 **Reference-based Video Super-Resolution Using Multi-Camera Video Triplets**
 - Paper: https://arxiv.org/abs/2203.14537
 - Code: https://github.com/codeslake/RefVSR
