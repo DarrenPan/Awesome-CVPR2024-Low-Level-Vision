@@ -52,6 +52,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - [Image Generation/Synthesis](#ImageGeneration)
   - [Video Generation/Synthesis](#VideoGeneration)
 
+- [Others](#Others)
 
 <a name="ImageRetoration"></a>
 # Image Restoration - 图像恢复
@@ -345,6 +346,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 **Unified Multivariate Gaussian Mixture for Efficient Neural Image Compression**
 - Paper: https://arxiv.org/abs/2203.10897
+- Code: https://github.com/xiaosu-zhu/McQuic
 
 **Practical Learned Lossless JPEG Recompression with Multi-Level Cross-Channel Entropy Model in the DCT Domain**
 - Paper: https://arxiv.org/abs/2203.16357
@@ -482,11 +484,15 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 **Marginal Contrastive Correspondence for Guided Image Generation**
 - Paper: https://arxiv.org/abs/2204.00442
+- Code: https://github.com/fnzhan/UNITE
 
 **Unsupervised Image-to-Image Translation with Generative Prior**
 - Paper: https://arxiv.org/abs/2204.03641
 - Code: https://github.com/williamyang1991/GP-UNIT
 
+**Exploring Patch-wise Semantic Relation for Contrastive Learning in Image-to-Image Translation Tasks**
+- Paper: https://arxiv.org/abs/2203.01532
+- Code: https://github.com/jcy132/Hneg_SRC
 
 ## Others for image generation
 
@@ -533,7 +539,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 
 
-<a name=VideoGeneration></a>
+<a name="VideoGeneration"></a>
 ## Video Generation/Synthesis
 
 **Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning**
@@ -549,8 +555,14 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/universome/stylegan-v
 
 
+<a name="Others"></a>
 # Others
 
 **GAN-Supervised Dense Visual Alignment**
 - Paper: https://arxiv.org/abs/2112.05143
 - Code: https://github.com/wpeebles/gangealing
+
+**Patch-wise Contrastive Style Learning for Instagram Filter Removal**
+- Paper: https://arxiv.org/abs/2204.07486
+- Code: https://github.com/birdortyedi/cifr-pytorch
+- Tags: [Workshop]
