@@ -566,3 +566,33 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2204.07486
 - Code: https://github.com/birdortyedi/cifr-pytorch
 - Tags: [Workshop]
+
+
+<a name="NTIRE"></a>
+# NTIRE2022
+New Trends in Image Restoration and Enhancement workshop and challenges on image and video processing.
+
+##  Spectral Reconstruction from RGB
+
+**MST++: Multi-stage Spectral-wise Transformer for Efficient Spectral Reconstruction**
+- Paper: https://arxiv.org/abs/2204.07908
+- Code: https://github.com/caiyuanhao1998/MST-plus-plus
+- Tags: 1st place
+
+## Efficient Super-Resolution
+
+**MobileSR: A Mobile-friendly Transformer for Efficient Image Super-Resolution**
+- Code: https://github.com/sunny2109/MobileSR-NTIRE2022
+
+## Stereo Super-Resolution
+
+**Parallel Interactive Transformer**
+- Code: https://github.com/chaineypung/CVPR-NTIRE2022-Parallel-Interactive-Transformer-PAIT
+- Tags: 7st place 
+
+## Burst Super-Resolution: Track 2 Real
+
+**BSRT: Improving Burst Super-Resolution with Swin Transformer and Flow-Guided Deformable Alignment**
+- Code: https://github.com/Algolzw/BSRT
+- Tags: 1st place 
+
