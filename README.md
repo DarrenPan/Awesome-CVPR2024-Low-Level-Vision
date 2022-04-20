@@ -362,6 +362,11 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.16754
 - Tags: Aesthetics Assessment
 
+**Incorporating Semi-Supervised and Positive-Unlabeled Learning for Boosting Full Reference Image Quality Assessment**
+- Paper: https://arxiv.org/abs/2204.08763
+- Code: https://github.com/happycaoyue/JSPL
+- Tags: FR-IQA
+
 
 <a name="StyleTransfer"></a>
 # Style Transfer - 风格迁移
@@ -539,7 +544,9 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: http://www.cad.zju.edu.cn/home/jin/cvpr2022/HairMapper.pdf
 - Code: https://github.com/oneThousand1000/non-hair-FFHQ
 
-
+**Dual-Domain Image Synthesis using Segmentation-Guided GAN**
+- Paper: https://arxiv.org/abs/2204.09015
+- Tags: [Workshop]
 
 <a name="VideoGeneration"></a>
 ## Video Generation/Synthesis
@@ -581,10 +588,20 @@ New Trends in Image Restoration and Enhancement workshop and challenges on image
 - Code: https://github.com/caiyuanhao1998/MST-plus-plus
 - Tags: 1st place
 
+## Perceptual Image Quality Assessment: Track 2 No-Reference
+
+**MANIQA: Multi-dimension Attention Network for No-Reference Image Quality Assessment**
+- Code: https://github.com/IIGROUP/MANIQA
+- Tags: 1st place
+
 ## Efficient Super-Resolution
 
 **MobileSR: A Mobile-friendly Transformer for Efficient Image Super-Resolution**
 - Code: https://github.com/sunny2109/MobileSR-NTIRE2022
+
+**Edge-enhanced Feature Distillation Network for Efficient Super-Resolution**
+- Paper: https://arxiv.org/abs/2204.08759
+- Code: https://github.com/icandle/EFDN
 
 ## Stereo Super-Resolution
 
