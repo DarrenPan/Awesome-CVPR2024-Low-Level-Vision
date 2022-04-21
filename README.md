@@ -591,6 +591,7 @@ New Trends in Image Restoration and Enhancement workshop and challenges on image
 ## Perceptual Image Quality Assessment: Track 2 No-Reference
 
 **MANIQA: Multi-dimension Attention Network for No-Reference Image Quality Assessment**
+- Paper: https://arxiv.org/abs/2204.08958
 - Code: https://github.com/IIGROUP/MANIQA
 - Tags: 1st place
 
@@ -603,7 +604,32 @@ New Trends in Image Restoration and Enhancement workshop and challenges on image
 - Paper: https://arxiv.org/abs/2204.08759
 - Code: https://github.com/icandle/EFDN
 
+**Fast and Memory-Efficient Network Towards Efficient Image Super-Resolution**
+- Paper: https://arxiv.org/abs/2204.08759
+- Code: https://github.com/NJU-Jet/FMEN
+- Tags: Lowest memory consumption and second shortest runtime
+
+## Night Photography Rendering
+
+**Rendering Nighttime Image Via Cascaded Color and Brightness Compensation**
+- Paper: https://arxiv.org/abs/2204.08970
+- Code: https://github.com/NJUVISION/CBUnet
+- Tags: 2nd place
+
+## NTIRE 2022 Challenge on Super-Resolution and Quality Enhancement of Compressed Video
+
+- **Report**: https://arxiv.org/abs/2204.09314
+- **Homepage**: https://github.com/RenYang-home/NTIRE22_VEnh_SR
+
+## High Dynamic Range (HDR): Track 1 Low-complexity (fidelity constrain) / Track 2 Fidelity (low-complexity constrain)
+
+**Efficient Progressive High Dynamic Range Image Restoration via Attention and Alignment Network**
+- Paper: https://arxiv.org/abs/2204.09213
+- Tags: 2nd palce of both two tracks
+
 ## Stereo Super-Resolution
+
+- **Report**: https://arxiv.org/abs/2204.09197
 
 **Parallel Interactive Transformer**
 - Code: https://github.com/chaineypung/CVPR-NTIRE2022-Parallel-Interactive-Transformer-PAIT
