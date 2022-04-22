@@ -15,6 +15,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - [Image Restoration](#ImageRetoration)
   - [Burst Restoration](#BurstRestoration)
   - [Video Restoration](#VideoRestoration)
+  - [Hyperspectral Image Reconstruction](#HSIR)
 - [Super Resolution](#SuperResolution)
   - [Image Super Resolution](#ImageSuperResolution)
   - [Video Super Resolution](#VideoSuperResolution)
@@ -113,6 +114,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/lightChaserX/neural-global-shutter
 - Tags: restore clean global shutter (GS) videos
 
+<a name="HSIR"></a>
 ## Hyperspectral Image Reconstruction
 
 **Mask-guided Spectral-wise Transformer for Efficient Hyperspectral Image Reconstruction**
@@ -635,7 +637,7 @@ New Trends in Image Restoration and Enhancement workshop and challenges on image
 - Code: https://github.com/NJUVISION/CBUnet
 - Tags: 2nd place
 
-## NTIRE 2022 Challenge on Super-Resolution and Quality Enhancement of Compressed Video: Track1 (Quality enhancement) / Track2 (Quality enhancement and x2 SR) / Track3 (Quality enhancement and x4 SR)
+## Super-Resolution and Quality Enhancement of Compressed Video: Track1 (Quality enhancement) / Track2 (Quality enhancement and x2 SR) / Track3 (Quality enhancement and x4 SR)
 
 - **Report**: https://arxiv.org/abs/2204.09314
 - **Homepage**: https://github.com/RenYang-home/NTIRE22_VEnh_SR
