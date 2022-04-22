@@ -113,6 +113,15 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/lightChaserX/neural-global-shutter
 - Tags: restore clean global shutter (GS) videos
 
+## Hyperspectral Image Reconstruction
+
+**Mask-guided Spectral-wise Transformer for Efficient Hyperspectral Image Reconstruction**
+- Paper: https://arxiv.org/abs/2111.07910
+- Code: https://github.com/caiyuanhao1998/MST
+
+**HDNet: High-resolution Dual-domain Learning for Spectral Compressive Imaging**
+- Paper: https://arxiv.org/abs/2203.02149
+
 
 <a name="SuperResolution"></a>
 # Super Resolution - 超分辨率
@@ -179,6 +188,11 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.14537
 - Code: https://github.com/codeslake/RefVSR
 - Tags: Reference-based VSR
+
+**A New Dataset and Transformer for Stereoscopic Video Super-Resolution**
+- Paper: https://arxiv.org/abs/2204.10039
+- Code: https://github.com/H-deep/Trans-SVSR/
+- Tags: Stereoscopic Video Super-Resolution
 
 
 <a name="Rescaling"></a>
@@ -282,6 +296,11 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Abandoning the Bayer-Filter to See in the Dark**
 - Paper: https://arxiv.org/abs/2203.04042
 - Code: https://github.com/TCL-AILab/Abandon_Bayer-Filter_See_in_the_Dark
+
+**Toward Fast, Flexible, and Robust Low-Light Image Enhancement**
+- Paper: https://arxiv.org/abs/2204.10137
+- Code: https://github.com/vis-opt-group/SCI
+
 
 <a name="Harmonization"></a>
 # Image Harmonization/Composition - 图像协调/图像合成
@@ -616,10 +635,16 @@ New Trends in Image Restoration and Enhancement workshop and challenges on image
 - Code: https://github.com/NJUVISION/CBUnet
 - Tags: 2nd place
 
-## NTIRE 2022 Challenge on Super-Resolution and Quality Enhancement of Compressed Video
+## NTIRE 2022 Challenge on Super-Resolution and Quality Enhancement of Compressed Video: Track1 (Quality enhancement) / Track2 (Quality enhancement and x2 SR) / Track3 (Quality enhancement and x4 SR)
 
 - **Report**: https://arxiv.org/abs/2204.09314
 - **Homepage**: https://github.com/RenYang-home/NTIRE22_VEnh_SR
+
+**Progressive Training of A Two-Stage Framework for Video Restoration**
+- Paper: https://arxiv.org/abs/2204.09924
+- Code: https://github.com/ryanxingql/winner-ntire22-vqe
+- Tags: 1st place in track1 and track2, 2nd place in track3
+
 
 ## High Dynamic Range (HDR): Track 1 Low-complexity (fidelity constrain) / Track 2 Fidelity (low-complexity constrain)
 
