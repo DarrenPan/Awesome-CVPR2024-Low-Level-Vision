@@ -102,6 +102,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 <a name="VideoRestoration"></a>
 ## Video Restoration
 
+**Revisiting Temporal Alignment for Video Restoration**
+- Paper: https://arxiv.org/abs/2111.15288
+- Code: https://github.com/redrock303/Revisiting-Temporal-Alignment-for-Video-Restoration
+
 **Neural Compression-Based Feature Learning for Video Restoration**
 - Paper:https://arxiv.org/abs/2203.09208
 
@@ -177,10 +181,6 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **BasicVSR++: Improving Video Super-Resolution with Enhanced Propagation and Alignment**
 - Paper: https://arxiv.org/abs/2104.13371
 - Code: https://github.com/ckkelvinchan/BasicVSR_PlusPlus
-
-**Revisiting Temporal Alignment for Video Restoration**
-- Paper: https://arxiv.org/abs/2111.15288
-- Code: https://github.com/redrock303/Revisiting-Temporal-Alignment-for-Video-Restoration
 
 **Learning Trajectory-Aware Transformer for Video Super-Resolution**
 - Paper: https://arxiv.org/abs/2204.04216
@@ -296,6 +296,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **RSTT: Real-time Spatial Temporal Transformer for Space-Time Video Super-Resolution**
 - Paper: https://arxiv.org/abs/2203.14186
 - Code: https://github.com/llmpass/RSTT
+- Tags: Space-Time Video Super-Resolution
 
 <a name="Enhancement"></a>
 # Image Enhancement - 图像增强
