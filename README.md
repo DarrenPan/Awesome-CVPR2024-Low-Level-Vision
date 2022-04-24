@@ -178,6 +178,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2104.13371
 - Code: https://github.com/ckkelvinchan/BasicVSR_PlusPlus
 
+**Revisiting Temporal Alignment for Video Restoration**
+- Paper: https://arxiv.org/abs/2111.15288
+- Code: https://github.com/redrock303/Revisiting-Temporal-Alignment-for-Video-Restoration
+
 **Learning Trajectory-Aware Transformer for Video Super-Resolution**
 - Paper: https://arxiv.org/abs/2204.04216
 - Code: https://github.com/researchmm/TTVSR
@@ -288,6 +292,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Unifying Motion Deblurring and Frame Interpolation with Events**
 - Paper: https://arxiv.org/abs/2203.12178
 - Tags: event-based
+
+**RSTT: Real-time Spatial Temporal Transformer for Space-Time Video Super-Resolution**
+- Paper: https://arxiv.org/abs/2203.14186
+- Code: https://github.com/llmpass/RSTT
 
 <a name="Enhancement"></a>
 # Image Enhancement - 图像增强
