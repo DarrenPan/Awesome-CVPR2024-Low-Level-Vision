@@ -301,6 +301,11 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 <a name="Enhancement"></a>
 # Image Enhancement - 图像增强
 
+**Exposure Correction Model to Enhance Image Quality**
+- Paper: https://arxiv.org/abs/2204.10648
+- Code: https://github.com/yamand16/ExposureCorrection
+- Tags: [Workshop]
+
 <a name="LowLight"></a>
 ## Low-Light Image Enhancement
 
@@ -618,12 +623,17 @@ New Trends in Image Restoration and Enhancement workshop and challenges on image
 - Code: https://github.com/caiyuanhao1998/MST-plus-plus
 - Tags: 1st place
 
-## Perceptual Image Quality Assessment: Track 2 No-Reference
+## Perceptual Image Quality Assessment: Track 1 Full-Reference / Track 2 No-Reference
 
 **MANIQA: Multi-dimension Attention Network for No-Reference Image Quality Assessment**
 - Paper: https://arxiv.org/abs/2204.08958
 - Code: https://github.com/IIGROUP/MANIQA
-- Tags: 1st place
+- Tags: 1st place for track2
+
+**Attentions Help CNNs See Better: Attention-based Hybrid Image Quality Assessment Network**
+- Paper: https://arxiv.org/abs/2204.10485
+- Code: https://github.com/IIGROUP/AHIQ
+- Tags: 1st place for track1
 
 ## Efficient Super-Resolution
 
