@@ -175,6 +175,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.09388
 - Tags: MRI SR
 
+**IMDeception: Grouped Information Distilling Super-Resolution Network**
+- Paper: https://arxiv.org/abs/2204.11463
+- Tags: [Workshop], lightweight
+
 <a name="VideoSuperResolution"></a>
 ## Video Super Resolution
 
