@@ -28,6 +28,8 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 - [Deblurring](#Deblurring)
 
+- [Deraining](#Deraining)
+
 - [Frame Interpolation](#FrameInterpolation)
 
 - [Image Enhancement](#Enhancement)
@@ -270,6 +272,20 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/chensong1995/E-CIR
 - Tags: event-based
 
+<a name="Deraining"></a>
+# Deraining - 去雨
+
+**Towards Robust Rain Removal Against Adversarial Attacks: A Comprehensive Benchmark Analysis and Beyond**
+- Paper: https://arxiv.org/abs/2203.16931
+- Code: https://github.com/yuyi-sd/Robust_Rain_Removal
+
+**Unpaired Deep Image Deraining Using Dual Contrastive Learning**
+- Paper: https://arxiv.org/abs/2109.02973
+- Tags: Contrastive Learning, Unpaired
+
+**Unsupervised Deraining: Where Contrastive Learning Meets Self-similarity**
+- Paper: https://arxiv.org/abs/2203.11509
+- Tags: Contrastive Learning, Unsupervised
 
 <a name="FrameInterpolation"></a>
 # Frame Interpolation - 插帧
@@ -609,6 +625,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **GAN-Supervised Dense Visual Alignment**
 - Paper: https://arxiv.org/abs/2112.05143
 - Code: https://github.com/wpeebles/gangealing
+
+**ClothFormer:Taming Video Virtual Try-on in All Module**
+- Paper: https://arxiv.org/abs/2204.12151
+- Tags: Video Virtual Try-on
 
 **Patch-wise Contrastive Style Learning for Instagram Filter Removal**
 - Paper: https://arxiv.org/abs/2204.07486
