@@ -618,6 +618,9 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://kaust-cair.s3.amazonaws.com/stylegan-v/stylegan-v-paper.pdf
 - Code: https://github.com/universome/stylegan-v
 
+**Thin-Plate Spline Motion Model for Image Animation**
+- Paper: https://arxiv.org/abs/2203.14367
+- Code: https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model
 
 <a name="Others"></a>
 # Others
@@ -658,6 +661,9 @@ New Trends in Image Restoration and Enhancement workshop and challenges on image
 - Paper: https://arxiv.org/abs/2204.10485
 - Code: https://github.com/IIGROUP/AHIQ
 - Tags: 1st place for track1
+
+**Conformer and Blind Noisy Students for Improved Image Quality Assessment**
+- Paper: https://arxiv.org/abs/2204.12819
 
 ## Efficient Super-Resolution
 
