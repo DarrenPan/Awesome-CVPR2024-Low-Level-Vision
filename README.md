@@ -93,6 +93,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/ozgurkara99/ISNAS-DIP
 - Tags: DIP, NAS
 
+**Deep Generalized Unfolding Networks for Image Restoration**
+- Paper: https://arxiv.org/abs/2204.13348
+- Code: https://github.com/MC-E/Deep-Generalized-Unfolding-Networks-for-Image-Restoration
+
 <a name="BurstRestoration"></a>
 ## Burst Restoration
 
