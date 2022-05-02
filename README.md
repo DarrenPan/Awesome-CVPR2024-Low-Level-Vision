@@ -243,6 +243,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/Reyhanehne/CVF-SID_PyTorch
 - Tags: Self-Supervised
 
+**Multiple Degradation and Reconstruction Network for Single Image Denoising via Knowledge Distillation**
+- Paper: https://arxiv.org/abs/2204.13873
+- Tags: [Workshop]
+
 <a name="BurstDenoising"></a>
 ## BurstDenoising
 
@@ -325,6 +329,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 <a name="Enhancement"></a>
 # Image Enhancement - 图像增强
 
+**AdaInt: Learning Adaptive Intervals for 3D Lookup Tables on Real-time Image Enhancement**
+- Paper: https://arxiv.org/abs/2204.13983
+- Code: https://github.com/ImCharlesY/AdaInt
+
 **Exposure Correction Model to Enhance Image Quality**
 - Paper: https://arxiv.org/abs/2204.10648
 - Code: https://github.com/yamand16/ExposureCorrection
@@ -349,6 +357,9 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2109.06671
 - Code: https://github.com/bcmi/CDTNet-High-Resolution-Image-Harmonization
 
+**SCS-Co: Self-Consistent Style Contrastive Learning for Image Harmonization**
+- Paper: https://arxiv.org/abs/2204.13962
+- Code: https://github.com/YCHang686/SCS-Co-CVPR2022
 
 <a name="Inpainting"></a>
 # Image Completion/Inpainting - 图像修复
@@ -602,6 +613,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **HairMapper: Removing Hair from Portraits Using GANs**
 - Paper: http://www.cad.zju.edu.cn/home/jin/cvpr2022/HairMapper.pdf
 - Code: https://github.com/oneThousand1000/non-hair-FFHQ
+
+**OSSGAN: Open-Set Semi-Supervised Image Generation**
+- Paper: https://arxiv.org/abs/2204.14249
+- Code: https://github.com/raven38/OSSGAN
 
 **Dual-Domain Image Synthesis using Segmentation-Guided GAN**
 - Paper: https://arxiv.org/abs/2204.09015
