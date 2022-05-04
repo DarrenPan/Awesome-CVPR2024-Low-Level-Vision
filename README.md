@@ -618,6 +618,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2204.14249
 - Code: https://github.com/raven38/OSSGAN
 
+**Retrieval-based Spatially Adaptive Normalization for Semantic Image Synthesis**
+- Paper: https://arxiv.org/abs/2204.02854
+- Code: https://github.com/Shi-Yupeng/RESAIL-For-SIS
+
 **Dual-Domain Image Synthesis using Segmentation-Guided GAN**
 - Paper: https://arxiv.org/abs/2204.09015
 - Tags: [Workshop]
