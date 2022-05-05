@@ -97,6 +97,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2204.13348
 - Code: https://github.com/MC-E/Deep-Generalized-Unfolding-Networks-for-Image-Restoration
 
+**Attentive Fine-Grained Structured Sparsity for Image Restoration**
+- Paper: https://arxiv.org/abs/2204.12266
+- Code: https://github.com/JungHunOh/SLS_CVPR2022
+
 <a name="BurstRestoration"></a>
 ## Burst Restoration
 
@@ -185,6 +189,13 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2204.11463
 - Tags: [Workshop], lightweight
 
+## Burst/Multi-frame Super Resolution
+
+**Self-Supervised Super-Resolution for Multi-Exposure Push-Frame Satellites**
+- Paper: https://arxiv.org/abs/2205.02031
+- Code: https://github.com/centreborelli/HDR-DSP-SR/
+- Tags: Self-Supervised, multi-exposure
+
 <a name="VideoSuperResolution"></a>
 ## Video Super Resolution
 
@@ -199,6 +210,11 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 **Look Back and Forth: Video Super-Resolution with Explicit Temporal Difference Modeling**
 - Paper: https://arxiv.org/abs/2204.07114
+
+**Investigating Tradeoffs in Real-World Video Super-Resolution**
+- Paper: https://arxiv.org/abs/2111.12704
+- Code: https://github.com/ckkelvinchan/RealBasicVSR
+- Tags: Real-world, RealBaiscVSR
 
 **Reference-based Video Super-Resolution Using Multi-Camera Video Triplets**
 - Paper: https://arxiv.org/abs/2203.14537
