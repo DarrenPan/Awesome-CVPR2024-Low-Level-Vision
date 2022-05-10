@@ -27,8 +27,8 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
   - [Video Denoising](#VideoDenoising)
 
 - [Deblurring](#Deblurring)
-- [Image Deblurring](#ImageDeblurring)
-- [Video Deblurring](#VideoDeblurring)
+  - [Image Deblurring](#ImageDeblurring)
+  - [Video Deblurring](#VideoDeblurring)
 
 - [Deraining](#Deraining)
 
