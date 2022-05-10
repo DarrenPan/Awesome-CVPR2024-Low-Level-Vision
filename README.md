@@ -101,6 +101,15 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2204.12266
 - Code: https://github.com/JungHunOh/SLS_CVPR2022
 
+**End-to-End Rubbing Restoration Using Generative Adversarial Networks**
+- Paper: https://arxiv.org/abs/2205.03743
+- Code: https://github.com/qingfengtommy/RubbingGAN
+- Tags: Rubbing Restoration
+
+**GenISP: Neural ISP for Low-Light Machine Cognition**
+- Paper: https://arxiv.org/abs/2205.03688
+- Tags: ISP
+
 <a name="BurstRestoration"></a>
 ## Burst Restoration
 
@@ -296,6 +305,13 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/chensong1995/E-CIR
 - Tags: event-based
 
+<a name="VideoDeblurring"></a>
+## Video Deblurring
+
+**Multi-Scale Memory-Based Video Deblurring**
+- Paper: https://arxiv.org/abs/2203.01935
+- Code: https://github.com/jibo27/MemDeblur
+
 <a name="Deraining"></a>
 # Deraining - 去雨
 
@@ -452,6 +468,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2204.08763
 - Code: https://github.com/happycaoyue/JSPL
 - Tags: FR-IQA
+
+**SwinIQA: Learned Swin Distance for Compressed Image Quality Assessment**
+- Paper: https://arxiv.org/abs/2205.04264
+- Tags: [Workshop], compressed IQA
 
 
 <a name="StyleTransfer"></a>
@@ -638,8 +658,24 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2204.02854
 - Code: https://github.com/Shi-Yupeng/RESAIL-For-SIS
 
-**Dual-Domain Image Synthesis using Segmentation-Guided GAN**
-- Paper: https://arxiv.org/abs/2204.09015
+**Retrieval-based Spatially Adaptive Normalization for Semantic Image Synthesis**
+- Paper: https://arxiv.org/abs/2204.02854
+- Code: https://github.com/Shi-Yupeng/RESAIL-For-SIS
+
+**A Closer Look at Few-shot Image Generation**
+- Paper: https://arxiv.org/abs/2205.03805
+- Tags: Few-shot
+
+**Ensembling Off-the-shelf Models for GAN Training**
+- Paper: https://arxiv.org/abs/2112.09130
+- Code: https://github.com/nupurkmr9/vision-aided-gan
+
+**On Conditioning the Input Noise for Controlled Image Generation with Diffusion Models**
+- Paper: https://arxiv.org/abs/2205.03859
+- Tags: [Workshop]
+
+**Generate and Edit Your Own Character in a Canonical View**
+- Paper: https://arxiv.org/abs/2205.02974
 - Tags: [Workshop]
 
 <a name="VideoGeneration"></a>
