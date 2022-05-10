@@ -27,6 +27,8 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
   - [Video Denoising](#VideoDenoising)
 
 - [Deblurring](#Deblurring)
+- [Image Deblurring](#ImageDeblurring)
+- [Video Deblurring](#VideoDeblurring)
 
 - [Deraining](#Deraining)
 
@@ -104,11 +106,11 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **End-to-End Rubbing Restoration Using Generative Adversarial Networks**
 - Paper: https://arxiv.org/abs/2205.03743
 - Code: https://github.com/qingfengtommy/RubbingGAN
-- Tags: Rubbing Restoration
+- Tags: [Workshop], Rubbing Restoration
 
 **GenISP: Neural ISP for Low-Light Machine Cognition**
 - Paper: https://arxiv.org/abs/2205.03688
-- Tags: ISP
+- Tags: [Workshop], ISP
 
 <a name="BurstRestoration"></a>
 ## Burst Restoration
@@ -290,6 +292,8 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 <a name="Deblurring"></a>
 # Deblurring - 去模糊
+<a name="ImageDeblurring"></a>
+## Image Deblurring
 
 **Learning to Deblur using Light Field Generated and Real Defocus Images**
 - Paper: https://arxiv.org/abs/2204.00367
