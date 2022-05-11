@@ -200,6 +200,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2204.11463
 - Tags: [Workshop], lightweight
 
+**A Closer Look at Blind Super-Resolution: Degradation Models, Baselines, and Performance Upper Bounds**
+- Paper: https://arxiv.org/abs/2205.04910
+- Tags: [Workshop], Blind SR
+
 ## Burst/Multi-frame Super Resolution
 
 **Self-Supervised Super-Resolution for Multi-Exposure Push-Frame Satellites**
@@ -415,6 +419,9 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **MAT: Mask-Aware Transformer for Large Hole Image Inpainting**
 - Paper: https://arxiv.org/abs/2203.15270
 - Code: https://github.com/fenglinglwb/MAT
+
+**Reduce Information Loss in Transformers for Pluralistic Image Inpainting**
+- Paper: https://arxiv.org/abs/2205.05076
 
 <a name="VideoInpainting"></a>
 ## Video Inpainting
