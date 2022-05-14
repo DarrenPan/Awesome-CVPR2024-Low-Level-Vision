@@ -713,6 +713,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.14367
 - Code: https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model
 
+**Diverse Video Generation from a Single Video**
+- Paper: https://arxiv.org/abs/2205.05725
+- Tags: [Workshop]
+
 <a name="Others"></a>
 # Others
 
@@ -758,6 +762,8 @@ New Trends in Image Restoration and Enhancement workshop and challenges on image
 
 ## Efficient Super-Resolution
 
+- **Report**: https://arxiv.org/abs/2205.05675
+
 **MobileSR: A Mobile-friendly Transformer for Efficient Image Super-Resolution**
 - Code: https://github.com/sunny2109/MobileSR-NTIRE2022
 
@@ -769,6 +775,11 @@ New Trends in Image Restoration and Enhancement workshop and challenges on image
 - Paper: https://arxiv.org/abs/2204.08759
 - Code: https://github.com/NJU-Jet/FMEN
 - Tags: Lowest memory consumption and second shortest runtime
+
+**Blueprint Separable Residual Network for Efficient Image Super-Resolution**
+- Paper: https://arxiv.org/abs/2205.05996
+- Code: https://github.com/xiaom233/BSRN
+- Tags: 1st place in model complexity track
 
 ## Night Photography Rendering
 
