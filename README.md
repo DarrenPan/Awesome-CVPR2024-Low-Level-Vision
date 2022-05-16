@@ -371,6 +371,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2205.05264
 - Tags: Spatial Temporal Video Super-Resolution
 
+**Multi-encoder Network for Parameter Reduction of a Kernel-based Interpolation Architecture**
+- Paper: https://arxiv.org/abs/2205.06723
+- Tags: [Workshop]
+
 <a name="Enhancement"></a>
 # Image Enhancement - 图像增强
 
@@ -692,6 +696,14 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 **Generate and Edit Your Own Character in a Canonical View**
 - Paper: https://arxiv.org/abs/2205.02974
+- Tags: [Workshop]
+
+**StyLandGAN: A StyleGAN based Landscape Image Synthesis using Depth-map**
+- Paper: https://arxiv.org/abs/2205.06611
+- Tags: [Workshop]
+
+**Overparameterization Improves StyleGAN Inversion*
+- Paper: https://arxiv.org/abs/2205.06304
 - Tags: [Workshop]
 
 <a name="VideoGeneration"></a>
