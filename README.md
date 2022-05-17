@@ -350,6 +350,11 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2204.03513
 - Code: https://github.com/feinanshan/M2M_VFI
 
+**Video Frame Interpolation with Transformer**
+- Paper: https://arxiv.org/abs/2205.07230
+- Code: https://github.com/dvlab-research/VFIformer
+- Tags: Transformer
+
 **TimeReplayer: Unlocking the Potential of Event Cameras for Video Interpolation**
 - Paper: https://arxiv.org/abs/2203.13859
 - Tags: Event Camera
@@ -431,6 +436,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 **Reduce Information Loss in Transformers for Pluralistic Image Inpainting**
 - Paper: https://arxiv.org/abs/2205.05076
+
+**SaiNet: Stereo aware inpainting behind objects with generative networks**
+- Paper: https://arxiv.org/abs/2205.07014
+- Tags: [Workshop]
 
 <a name="VideoInpainting"></a>
 ## Video Inpainting
@@ -772,6 +781,12 @@ New Trends in Image Restoration and Enhancement workshop and challenges on image
 **Conformer and Blind Noisy Students for Improved Image Quality Assessment**
 - Paper: https://arxiv.org/abs/2204.12819
 
+## Inpainting: Track 1 Unsupervised / Track 2 Semantic
+
+**GLaMa: Joint Spatial and Frequency Loss for General Image Inpainting**
+- Paper: https://arxiv.org/abs/2205.07162
+- Tags:  ranked first in terms of PSNR, LPIPS and SSIM in the track1
+
 ## Efficient Super-Resolution
 
 - **Report**: https://arxiv.org/abs/2205.05675
@@ -792,6 +807,11 @@ New Trends in Image Restoration and Enhancement workshop and challenges on image
 - Paper: https://arxiv.org/abs/2205.05996
 - Code: https://github.com/xiaom233/BSRN
 - Tags: 1st place in model complexity track
+
+**Residual Local Feature Network for Efficient Super-Resolution**
+- Paper: https://arxiv.org/abs/2205.07514
+- Code: https://github.com/fyan111/RLFN
+- Tags: 1st place in the runtime track
 
 ## Night Photography Rendering
 
