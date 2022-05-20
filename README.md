@@ -485,6 +485,11 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.16357
 - Tags: Compress JPEG 
 
+## Video Compression
+
+**Enhancing VVC with Deep Learning based Multi-Frame Post-Processing**
+- Paper: https://arxiv.org/abs/2205.09458
+- Tags: [Workshop]
 
 <a name="ImageQualityAssessment"></a>
 # Image Quality Assessment - 图像质量评价
