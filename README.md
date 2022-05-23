@@ -704,6 +704,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2112.09130
 - Code: https://github.com/nupurkmr9/vision-aided-gan
 
+**Few-Shot Font Generation by Learning Fine-Grained Local Styles**
+- Paper: https://arxiv.org/abs/2205.09965
+- Tags: Few-shot
+
 **On Conditioning the Input Noise for Controlled Image Generation with Diffusion Models**
 - Paper: https://arxiv.org/abs/2205.03859
 - Tags: [Workshop]
@@ -782,6 +786,10 @@ New Trends in Image Restoration and Enhancement workshop and challenges on image
 - Paper: https://arxiv.org/abs/2204.10485
 - Code: https://github.com/IIGROUP/AHIQ
 - Tags: 1st place for track1
+
+**MSTRIQ: No Reference Image Quality Assessment Based on Swin Transformer with Multi-Stage Fusion**
+- Paper: https://arxiv.org/abs/2205.10101
+- Tags: 2nd place in track2
 
 **Conformer and Blind Noisy Students for Improved Image Quality Assessment**
 - Paper: https://arxiv.org/abs/2204.12819
