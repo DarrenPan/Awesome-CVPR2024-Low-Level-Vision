@@ -32,6 +32,8 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 - [Deraining](#Deraining)
 
+- [Dehazing](#Dehazing)
+
 - [Frame Interpolation](#FrameInterpolation)
 
 - [Image Enhancement](#Enhancement)
@@ -139,6 +141,11 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/lightChaserX/neural-global-shutter
 - Tags: restore clean global shutter (GS) videos
 
+**Context-Aware Video Reconstruction for Rolling Shutter Cameras**
+- Paper: https://arxiv.org/abs/2205.12912
+- Code: https://github.com/GitCVfb/CVR
+- Tags: Rolling Shutter Cameras
+
 <a name="HSIR"></a>
 ## Hyperspectral Image Reconstruction
 
@@ -158,6 +165,11 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Reflash Dropout in Image Super-Resolution**
 - Paper: https://arxiv.org/abs/2112.12089
 - Code: https://github.com/Xiangtaokong/Reflash-Dropout-in-Image-Super-Resolution
+
+**Residual Local Feature Network for Efficient Super-Resolution**
+- Paper: https://arxiv.org/abs/2205.07514
+- Code: https://github.com/fyan111/RLFN
+- Tags: won the first place in the runtime track of the NTIRE 2022 efficient super-resolution challenge
 
 **Learning the Degradation Distribution for Blind Image Super-Resolution**
 - Paper: https://arxiv.org/abs/2203.04962
@@ -335,6 +347,15 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Unsupervised Deraining: Where Contrastive Learning Meets Self-similarity**
 - Paper: https://arxiv.org/abs/2203.11509
 - Tags: Contrastive Learning, Unsupervised
+
+
+<a name="Dehazing"></a>
+# Dehazing - 去雾
+
+**elf-augmented Unpaired Image Dehazing via Density and Depth Decomposition**
+- Paper:
+- Code: https://github.com/YaN9-Y/D4
+- Tags: Unpaired
 
 <a name="FrameInterpolation"></a>
 # Frame Interpolation - 插帧
@@ -720,7 +741,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2205.06611
 - Tags: [Workshop]
 
-**Overparameterization Improves StyleGAN Inversion*
+**Overparameterization Improves StyleGAN Inversion**
 - Paper: https://arxiv.org/abs/2205.06304
 - Tags: [Workshop]
 
@@ -757,6 +778,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **ClothFormer:Taming Video Virtual Try-on in All Module**
 - Paper: https://arxiv.org/abs/2204.12151
 - Tags: Video Virtual Try-on
+
+**Iterative Deep Homography Estimation**
+- Paper: https://arxiv.org/abs/2203.15982
+- Code: https://github.com/imdumpl78/IHN
 
 **Patch-wise Contrastive Style Learning for Instagram Filter Removal**
 - Paper: https://arxiv.org/abs/2204.07486
@@ -821,10 +846,7 @@ New Trends in Image Restoration and Enhancement workshop and challenges on image
 - Code: https://github.com/xiaom233/BSRN
 - Tags: 1st place in model complexity track
 
-**Residual Local Feature Network for Efficient Super-Resolution**
-- Paper: https://arxiv.org/abs/2205.07514
-- Code: https://github.com/fyan111/RLFN
-- Tags: 1st place in the runtime track
+
 
 ## Night Photography Rendering
 
@@ -845,6 +867,8 @@ New Trends in Image Restoration and Enhancement workshop and challenges on image
 
 
 ## High Dynamic Range (HDR): Track 1 Low-complexity (fidelity constrain) / Track 2 Fidelity (low-complexity constrain)
+
+- **Report**: https://arxiv.org/abs/2205.12633
 
 **Efficient Progressive High Dynamic Range Image Restoration via Attention and Alignment Network**
 - Paper: https://arxiv.org/abs/2204.09213
