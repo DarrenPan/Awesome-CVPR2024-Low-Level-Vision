@@ -376,6 +376,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/dvlab-research/VFIformer
 - Tags: Transformer
 
+**IFRNet: Intermediate Feature Refine Network for Efficient Frame Interpolation**
+- Paper: https://arxiv.org/abs/2205.14620
+- Code: https://github.com/ltkong218/IFRNet
+
 **TimeReplayer: Unlocking the Potential of Event Cameras for Video Interpolation**
 - Paper: https://arxiv.org/abs/2203.13859
 - Tags: Event Camera
@@ -505,6 +509,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Practical Learned Lossless JPEG Recompression with Multi-Level Cross-Channel Entropy Model in the DCT Domain**
 - Paper: https://arxiv.org/abs/2203.16357
 - Tags: Compress JPEG 
+
+**PO-ELIC: Perception-Oriented Efficient Learned Image Coding**
+- Paper: https://arxiv.org/abs/2205.14501
+- Tags: [Workshop]
 
 ## Video Compression
 
@@ -829,8 +837,10 @@ New Trends in Image Restoration and Enhancement workshop and challenges on image
 
 - **Report**: https://arxiv.org/abs/2205.05675
 
-**MobileSR: A Mobile-friendly Transformer for Efficient Image Super-Resolution**
+**ShuffleMixer: An Efficient ConvNet for Image Super-Resolution**
+- Paper: https://arxiv.org/abs/2205.15175
 - Code: https://github.com/sunny2109/MobileSR-NTIRE2022
+- Tags: Winner of the model complexity track 
 
 **Edge-enhanced Feature Distillation Network for Efficient Super-Resolution**
 - Paper: https://arxiv.org/abs/2204.08759
