@@ -34,6 +34,8 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 - [Dehazing](#Dehazing)
 
+- [Demoireing](#Demoireing)
+
 - [Frame Interpolation](#FrameInterpolation)
 
 - [Image Enhancement](#Enhancement)
@@ -352,10 +354,18 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 <a name="Dehazing"></a>
 # Dehazing - 去雾
 
-**elf-augmented Unpaired Image Dehazing via Density and Depth Decomposition**
+**Self-augmented Unpaired Image Dehazing via Density and Depth Decomposition**
 - Paper:
 - Code: https://github.com/YaN9-Y/D4
 - Tags: Unpaired
+
+<a name="Demoireing"></a>
+# Demoireing - 去摩尔纹
+
+**Video Demoireing with Relation-Based Temporal Consistency**
+- Paper: https://arxiv.org/abs/2204.02957
+- Code: https://github.com/CVMI-Lab/VideoDemoireing
+
 
 <a name="FrameInterpolation"></a>
 # Frame Interpolation - 插帧
