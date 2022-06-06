@@ -289,6 +289,14 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/Reyhanehne/CVF-SID_PyTorch
 - Tags: Self-Supervised
 
+**Noise2NoiseFlow: Realistic Camera Noise Modeling without Clean Images**
+- Paper: https://arxiv.org/abs/2206.01103
+- Tags: Noise Modeling, Normalizing Flow
+
+**Modeling sRGB Camera Noise with Normalizing Flows**
+- Paper: https://arxiv.org/abs/2206.00812
+- Tags: Noise Modeling, Normalizing Flow
+
 **Multiple Degradation and Reconstruction Network for Single Image Denoising via Knowledge Distillation**
 - Paper: https://arxiv.org/abs/2204.13873
 - Tags: [Workshop]
@@ -688,7 +696,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 **Modulated Contrast for Versatile Image Synthesis**
 - Paper: https://arxiv.org/abs/2203.09333
-- Code: https://github.com/UniBester/AGE
+- Code: https://github.com/fnzhan/MoNCE
 
 **Interactive Image Synthesis with Panoptic Layout Generation**
 - Paper: https://arxiv.org/abs/2203.02104
@@ -746,6 +754,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Few-Shot Font Generation by Learning Fine-Grained Local Styles**
 - Paper: https://arxiv.org/abs/2205.09965
 - Tags: Few-shot
+
+**Modeling Image Composition for Complex Scene Generation**
+- Paper: https://arxiv.org/abs/2206.00923
+- Code: https://github.com/JohnDreamer/TwFA
 
 **On Conditioning the Input Noise for Controlled Image Generation with Diffusion Models**
 - Paper: https://arxiv.org/abs/2205.03859
