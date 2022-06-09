@@ -124,6 +124,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/GuoShi28/2StageAlign
 - Tags: joint denoising and demosaicking
 
+**Burst Image Restoration and Enhancement**
+- Paper: https://arxiv.org/abs/2110.03680
+- Code: https://github.com/akshaydudhane16/BIPNet
+
 <a name="VideoRestoration"></a>
 ## Video Restoration
 
