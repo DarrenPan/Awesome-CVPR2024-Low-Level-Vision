@@ -37,7 +37,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - [Demoireing](#Demoireing)
 
 - [Frame Interpolation](#FrameInterpolation)
-
+  - [Spatial-Temporal Video Super-Resolution](#STVSR)
 - [Image Enhancement](#Enhancement)
   - [Low-Light Image Enhancement](#LowLight)
 
@@ -414,18 +414,23 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.12178
 - Tags: event-based
 
-**RSTT: Real-time Spatial Temporal Transformer for Space-Time Video Super-Resolution**
-- Paper: https://arxiv.org/abs/2203.14186
-- Code: https://github.com/llmpass/RSTT
-- Tags: Spatial Temporal Video Super-Resolution
-
-**Spatial-Temporal Space Hand-in-Hand: Spatial-Temporal Video Super-Resolution via Cycle-Projected Mutual Learning**
-- Paper: https://arxiv.org/abs/2205.05264
-- Tags: Spatial Temporal Video Super-Resolution
-
 **Multi-encoder Network for Parameter Reduction of a Kernel-based Interpolation Architecture**
 - Paper: https://arxiv.org/abs/2205.06723
 - Tags: [Workshop]
+
+<a name="STVSR"></a>
+## Spatial-Temporal Video Super-Resolution
+
+**RSTT: Real-time Spatial Temporal Transformer for Space-Time Video Super-Resolution**
+- Paper: https://arxiv.org/abs/2203.14186
+- Code: https://github.com/llmpass/RSTT
+
+**Spatial-Temporal Space Hand-in-Hand: Spatial-Temporal Video Super-Resolution via Cycle-Projected Mutual Learning**
+- Paper: https://arxiv.org/abs/2205.05264
+
+**VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution**
+- Paper: https://arxiv.org/abs/2206.04647
+- Code: https://github.com/Picsart-AI-Research/VideoINR-Continuous-Space-Time-Super-Resolution
 
 <a name="Enhancement"></a>
 # Image Enhancement - 图像增强
