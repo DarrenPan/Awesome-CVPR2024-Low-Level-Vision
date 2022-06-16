@@ -152,6 +152,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/GitCVfb/CVR
 - Tags: Rolling Shutter Cameras
 
+**E2V-SDE: From Asynchronous Events to Fast and Continuous Video Reconstruction via Neural Stochastic Differential Equations**
+- Paper: https://arxiv.org/abs/2206.07578
+- Tags: Event camera
+
 <a name="HSIR"></a>
 ## Hyperspectral Image Reconstruction
 
@@ -362,6 +366,11 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.11509
 - Tags: Contrastive Learning, Unsupervised
 
+**Learning Multiple Adverse Weather Removal via Two-stage Knowledge Learning and Multi-contrastive Regularization: Toward a Unified Model**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Learning_Multiple_Adverse_Weather_Removal_via_Two-Stage_Knowledge_Learning_and_CVPR_2022_paper.pdf
+- Code: https://github.com/fingerk28/Two-stage-Knowledge-For-Multiple-Adverse-Weather-Removal
+- Tags: Also do dehazing, desnowing
+
 
 <a name="Dehazing"></a>
 # Dehazing - 去雾
@@ -542,6 +551,9 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Tags: [Workshop]
 
 ## Video Compression
+
+**Coarse-to-fine Deep Video Coding with Hyperprior-guided Mode Prediction**
+- Paper: https://arxiv.org/abs/2206.07460
 
 **Enhancing VVC with Deep Learning based Multi-Frame Post-Processing**
 - Paper: https://arxiv.org/abs/2205.09458
