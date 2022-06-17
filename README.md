@@ -644,6 +644,9 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2112.00719
 - Code: https://github.com/VinAIResearch/HyperInverter
 
+**Spatially-Adaptive Multilayer Selection for GAN Inversion and Editing**
+- Paper: https://arxiv.org/abs/2206.08357
+- Code: https://github.com/adobe-research/sam_inversion
 
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
