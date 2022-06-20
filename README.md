@@ -837,6 +837,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.15982
 - Code: https://github.com/imdumpl78/IHN
 
+**Style-Structure Disentangled Features and Normalizing Flows for Diverse Icon Colorization**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Style-Structure_Disentangled_Features_and_Normalizing_Flows_for_Diverse_Icon_Colorization_CVPR_2022_paper.pdf
+- Code: https://github.com/djosix/IconFlow
+
 **Patch-wise Contrastive Style Learning for Instagram Filter Removal**
 - Paper: https://arxiv.org/abs/2204.07486
 - Code: https://github.com/birdortyedi/cifr-pytorch
