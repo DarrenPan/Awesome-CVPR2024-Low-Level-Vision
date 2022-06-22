@@ -661,7 +661,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2111.13792
 - Code: https://github.com/drboog/Lafite
 
-**DF-GAN: Deep Fusion Generative Adversarial Networks for Text-to-Image Synthesis**
+**DF-GAN: A Simple and Effective Baseline for Text-to-Image Synthesis**
 - Paper: https://arxiv.org/abs/2008.05865
 - Code: https://github.com/tobran/DF-GAN
 
