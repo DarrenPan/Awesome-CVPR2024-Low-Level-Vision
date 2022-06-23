@@ -647,12 +647,21 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/andrewhou1/GeomConsistentFR
 - Tags: Face Relighting
 
+**SIMBAR: Single Image-Based Scene Relighting For Effective Data Augmentation For Automated Driving Vision Tasks**
+- Paper: https://arxiv.org/abs/2204.00644
+
 <a name="Stitching"></a>
 # Image Stitching - 图像拼接
 
 **Deep Rectangling for Image Stitching: A Learning Baseline**
 - Paper: https://arxiv.org/abs/2203.03831
 - Code: https://github.com/nie-lang/DeepRectangling
+
+**Automatic Color Image Stitching Using Quaternion Rank-1 Alignment**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Li_Automatic_Color_Image_Stitching_Using_Quaternion_Rank-1_Alignment_CVPR_2022_paper.html
+
+**Geometric Structure Preserving Warp for Natural Image Stitching **
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Du_Geometric_Structure_Preserving_Warp_for_Natural_Image_Stitching_CVPR_2022_paper.html
 
 <a name="ImageCompression"></a>
 # Image Compression - 图像压缩
