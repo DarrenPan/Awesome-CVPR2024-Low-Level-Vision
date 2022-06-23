@@ -372,6 +372,16 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/lingyanruan/DRBNet
 - Tags: Defocus deblurring
 
+**Pixel Screening Based Intermediate Correction for Blind Deblurring**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Pixel_Screening_Based_Intermediate_Correction_for_Blind_Deblurring_CVPR_2022_paper.html
+- Tags: Blind
+
+**Deblurring via Stochastic Refinement**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Whang_Deblurring_via_Stochastic_Refinement_CVPR_2022_paper.html
+
+**XYDeblur: Divide and Conquer for Single Image Deblurring**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Ji_XYDeblur_Divide_and_Conquer_for_Single_Image_Deblurring_CVPR_2022_paper.html
+
 **Unifying Motion Deblurring and Frame Interpolation with Events**
 - Paper: https://arxiv.org/abs/2203.12178
 - Tags: event-based
