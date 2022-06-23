@@ -451,13 +451,24 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Dreaming To Prune Image Deraining Networks**
 - Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Zou_Dreaming_To_Prune_Image_Deraining_Networks_CVPR_2022_paper.html
 
+
 <a name="Dehazing"></a>
 # Dehazing - 去雾
 
 **Self-augmented Unpaired Image Dehazing via Density and Depth Decomposition**
-- Paper:
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Yang_Self-Augmented_Unpaired_Image_Dehazing_via_Density_and_Depth_Decomposition_CVPR_2022_paper.html
 - Code: https://github.com/YaN9-Y/D4
 - Tags: Unpaired
+
+**Towards Multi-Domain Single Image Dehazing via Test-Time Training**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Liu_Towards_Multi-Domain_Single_Image_Dehazing_via_Test-Time_Training_CVPR_2022_paper.html
+
+**Image Dehazing Transformer With Transmission-Aware 3D Position Embedding**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Guo_Image_Dehazing_Transformer_With_Transmission-Aware_3D_Position_Embedding_CVPR_2022_paper.html
+
+**Physically Disentangled Intra- and Inter-Domain Adaptation for Varicolored Haze Removal**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Li_Physically_Disentangled_Intra-_and_Inter-Domain_Adaptation_for_Varicolored_Haze_Removal_CVPR_2022_paper.html
+
 
 <a name="Demoireing"></a>
 # Demoireing - 去摩尔纹
