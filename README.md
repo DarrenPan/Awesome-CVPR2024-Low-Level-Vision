@@ -297,7 +297,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/Reyhanehne/CVF-SID_PyTorch
 - Tags: Self-Supervised
 
-**Noise Distribution Adaptive Self-Supervised Image Denoising Using Tweedie Distribution and Score Matching **
+**Noise Distribution Adaptive Self-Supervised Image Denoising Using Tweedie Distribution and Score Matching**
 - Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Kim_Noise_Distribution_Adaptive_Self-Supervised_Image_Denoising_Using_Tweedie_Distribution_and_CVPR_2022_paper.html
 - Tags: Self-Supervised
 
@@ -505,6 +505,15 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 **Reduce Information Loss in Transformers for Pluralistic Image Inpainting**
 - Paper: https://arxiv.org/abs/2205.05076
+- Code: https://github.com/liuqk3/PUT
+
+**RePaint: Inpainting using Denoising Diffusion Probabilistic Models**
+- Paper: https://arxiv.org/abs/2201.09865
+- Code: https://github.com/andreas128/RePaint
+- Tags: DDPM
+
+**Dual-Path Image Inpainting With Auxiliary GAN Inversion**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Dual-Path_Image_Inpainting_With_Auxiliary_GAN_Inversion_CVPR_2022_paper.html
 
 **SaiNet: Stereo aware inpainting behind objects with generative networks**
 - Paper: https://arxiv.org/abs/2205.07014
@@ -516,6 +525,16 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Towards An End-to-End Framework for Flow-Guided Video Inpainting**
 - Paper: https://arxiv.org/abs/2204.02663
 - Code: https://github.com/MCG-NKU/E2FGVI
+
+**The DEVIL Is in the Details: A Diagnostic Evaluation Benchmark for Video Inpainting**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Szeto_The_DEVIL_Is_in_the_Details_A_Diagnostic_Evaluation_Benchmark_CVPR_2022_paper.html
+- Code: https://github.com/MichiganCOG/devil
+
+**DLFormer: Discrete Latent Transformer for Video Inpainting**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Ren_DLFormer_Discrete_Latent_Transformer_for_Video_Inpainting_CVPR_2022_paper.html
+
+**Inertia-Guided Flow Completion and Style Fusion for Video Inpainting**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Inertia-Guided_Flow_Completion_and_Style_Fusion_for_Video_Inpainting_CVPR_2022_paper.htmll
 
 
 <a name="Relighting"></a>
