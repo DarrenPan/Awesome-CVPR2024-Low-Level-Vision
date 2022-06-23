@@ -448,6 +448,9 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.11509
 - Tags: Contrastive Learning, Unsupervised
 
+**Dreaming To Prune Image Deraining Networks**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Zou_Dreaming_To_Prune_Image_Deraining_Networks_CVPR_2022_paper.html
+
 <a name="Dehazing"></a>
 # Dehazing - 去雾
 
