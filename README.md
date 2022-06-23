@@ -111,7 +111,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2204.12266
 - Code: https://github.com/JungHunOh/SLS_CVPR2022
 
-**Self-Supervised Deep Image Restoration via Adaptive Stochastic Gradient Langevin Dynamics **
+**Self-Supervised Deep Image Restoration via Adaptive Stochastic Gradient Langevin Dynamics**
 - Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Self-Supervised_Deep_Image_Restoration_via_Adaptive_Stochastic_Gradient_Langevin_Dynamics_CVPR_2022_paper.html
 - Tags: Self-Supervised
 
