@@ -297,6 +297,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/Reyhanehne/CVF-SID_PyTorch
 - Tags: Self-Supervised
 
+**Noise Distribution Adaptive Self-Supervised Image Denoising Using Tweedie Distribution and Score Matching **
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Kim_Noise_Distribution_Adaptive_Self-Supervised_Image_Denoising_Using_Tweedie_Distribution_and_CVPR_2022_paper.html
+- Tags: Self-Supervised
+
 **Noise2NoiseFlow: Realistic Camera Noise Modeling without Clean Images**
 - Paper: https://arxiv.org/abs/2206.01103
 - Tags: Noise Modeling, Normalizing Flow
@@ -304,6 +308,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Modeling sRGB Camera Noise with Normalizing Flows**
 - Paper: https://arxiv.org/abs/2206.00812
 - Tags: Noise Modeling, Normalizing Flow
+
+**Estimating Fine-Grained Noise Model via Contrastive Learning**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Zou_Estimating_Fine-Grained_Noise_Model_via_Contrastive_Learning_CVPR_2022_paper.html
+- Tags: Noise Modeling, Constrastive Learning
 
 **Multiple Degradation and Reconstruction Network for Single Image Denoising via Knowledge Distillation**
 - Paper: https://arxiv.org/abs/2204.13873
