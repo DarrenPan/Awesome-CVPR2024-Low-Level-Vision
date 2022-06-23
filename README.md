@@ -107,6 +107,37 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2204.12266
 - Code: https://github.com/JungHunOh/SLS_CVPR2022
 
+**Self-Supervised Deep Image Restoration via Adaptive Stochastic Gradient Langevin Dynamics **
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Self-Supervised_Deep_Image_Restoration_via_Adaptive_Stochastic_Gradient_Langevin_Dynamics_CVPR_2022_paper.html
+- Tags: Self-Supervised
+
+**KNN Local Attention for Image Restoration**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Lee_KNN_Local_Attention_for_Image_Restoration_CVPR_2022_paper.html
+- Code: https://sites.google.com/view/cvpr22-kit
+
+**TransWeather: Transformer-based Restoration of Images Degraded by Adverse Weather Conditions**
+- Paper: https://arxiv.org/abs/2111.14813
+- Code: https://github.com/jeya-maria-jose/TransWeather
+- Tags: Adverse Weather
+
+**Learning Multiple Adverse Weather Removal via Two-stage Knowledge Learning and Multi-contrastive Regularization: Toward a Unified Model**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Learning_Multiple_Adverse_Weather_Removal_via_Two-Stage_Knowledge_Learning_and_CVPR_2022_paper.pdf
+- Code: https://github.com/fingerk28/Two-stage-Knowledge-For-Multiple-Adverse-Weather-Removal
+- Tags: Adverse Weathe(deraining, desnowing, dehazing)
+
+**Rethinking Deep Face Restoration**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_Rethinking_Deep_Face_Restoration_CVPR_2022_paper.html
+- Tags: Face
+
+**RestoreFormer: High-Quality Blind Face Restoration From Undegraded Key-Value Pairs**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Wang_RestoreFormer_High-Quality_Blind_Face_Restoration_From_Undegraded_Key-Value_Pairs_CVPR_2022_paper.html
+- Code: https://github.com/wzhouxiff/RestoreFormer
+- Tags: Face
+
+**Blind Face Restoration via Integrating Face Shape and Generative Priors**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Blind_Face_Restoration_via_Integrating_Face_Shape_and_Generative_Priors_CVPR_2022_paper.html
+- Tags: Face
+
 **End-to-End Rubbing Restoration Using Generative Adversarial Networks**
 - Paper: https://arxiv.org/abs/2205.03743
 - Code: https://github.com/qingfengtommy/RubbingGAN
@@ -416,12 +447,6 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Unsupervised Deraining: Where Contrastive Learning Meets Self-similarity**
 - Paper: https://arxiv.org/abs/2203.11509
 - Tags: Contrastive Learning, Unsupervised
-
-**Learning Multiple Adverse Weather Removal via Two-stage Knowledge Learning and Multi-contrastive Regularization: Toward a Unified Model**
-- Paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Learning_Multiple_Adverse_Weather_Removal_via_Two-Stage_Knowledge_Learning_and_CVPR_2022_paper.pdf
-- Code: https://github.com/fingerk28/Two-stage-Knowledge-For-Multiple-Adverse-Weather-Removal
-- Tags: Also do dehazing, desnowing
-
 
 <a name="Dehazing"></a>
 # Dehazing - 去雾
