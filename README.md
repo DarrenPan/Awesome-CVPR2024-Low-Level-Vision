@@ -497,6 +497,11 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/dvlab-research/VFIformer
 - Tags: Transformer
 
+**Video Frame Interpolation Transformer**
+- Paper: https://arxiv.org/abs/2111.13817
+- Code: https://github.com/zhshi0816/Video-Frame-Interpolation-Transformer
+- Tags: Transformer
+
 **IFRNet: Intermediate Feature Refine Network for Efficient Frame Interpolation**
 - Paper: https://arxiv.org/abs/2205.14620
 - Code: https://github.com/ltkong218/IFRNet
