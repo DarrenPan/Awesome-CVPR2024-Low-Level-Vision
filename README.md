@@ -201,6 +201,21 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/csjliang/LDL
 - Tags: Real SR
 
+**Dual Adversarial Adaptation for Cross-Device Real-World Image Super-Resolution**
+- Paper: https://arxiv.org/abs/2205.03524
+- Code: https://github.com/lonelyhope/DADA
+- Tags: Real SR
+
+**LAR-SR: A Local Autoregressive Model for Image Super-Resolution**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Guo_LAR-SR_A_Local_Autoregressive_Model_for_Image_Super-Resolution_CVPR_2022_paper.html
+
+**Texture-Based Error Analysis for Image Super-Resolution**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Magid_Texture-Based_Error_Analysis_for_Image_Super-Resolution_CVPR_2022_paper.html
+
+**Task Decoupled Framework for Reference-Based Super-Resolution**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Huang_Task_Decoupled_Framework_for_Reference-Based_Super-Resolution_CVPR_2022_paper.html
+- Tags: Reference-Based
+
 **GCFSR: a Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors**
 - Paper: https://arxiv.org/abs/2203.07319
 - Tags: Face SR
@@ -217,6 +232,14 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Transformer-empowered Multi-scale Contextual Matching and Aggregation for Multi-contrast MRI Super-resolution**
 - Paper: https://arxiv.org/abs/2203.09388
 - Tags: MRI SR
+
+**Discrete Cosine Transform Network for Guided Depth Map Super-Resolution**
+- Paper: https://arxiv.org/abs/2104.06977
+- Code: https://github.com/Zhaozixiang1228/GDSR-DCTNet
+- Tags: Guided Depth Map SR
+
+**SphereSR: 360deg Image Super-Resolution With Arbitrary Projection via Continuous Spherical Image Representation**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Yoon_SphereSR_360deg_Image_Super-Resolution_With_Arbitrary_Projection_via_Continuous_Spherical_CVPR_2022_paper.html
 
 **IMDeception: Grouped Information Distilling Super-Resolution Network**
 - Paper: https://arxiv.org/abs/2204.11463
@@ -253,6 +276,12 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2111.12704
 - Code: https://github.com/ckkelvinchan/RealBasicVSR
 - Tags: Real-world, RealBaiscVSR
+
+**Memory-Augmented Non-Local Attention for Video Super-Resolution**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Yu_Memory-Augmented_Non-Local_Attention_for_Video_Super-Resolution_CVPR_2022_paper.html
+
+**Stable Long-Term Recurrent Video Super-Resolution**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Chiche_Stable_Long-Term_Recurrent_Video_Super-Resolution_CVPR_2022_paper.html
 
 **Reference-based Video Super-Resolution Using Multi-Camera Video Triplets**
 - Paper: https://arxiv.org/abs/2203.14537
