@@ -643,7 +643,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Inertia-Guided_Flow_Completion_and_Style_Fusion_for_Video_Inpainting_CVPR_2022_paper.htmll
 
 <a name="ImageMatting"></a>
-# Image Matting
+# Image Matting - 图像抠图
 
 **MatteFormer: Transformer-Based Image Matting via Prior-Tokens**
 - Paper: https://arxiv.org/abs/2203.15662
@@ -658,7 +658,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 
 <a name="ShadowRemoval"></a>
-# Shadow Removal
+# Shadow Removal - 阴影消除
 
 **Bijective Mapping Network for Shadow Removal**
 - Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Bijective_Mapping_Network_for_Shadow_Removal_CVPR_2022_paper.html
@@ -685,7 +685,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Automatic Color Image Stitching Using Quaternion Rank-1 Alignment**
 - Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Li_Automatic_Color_Image_Stitching_Using_Quaternion_Rank-1_Alignment_CVPR_2022_paper.html
 
-**Geometric Structure Preserving Warp for Natural Image Stitching **
+**Geometric Structure Preserving Warp for Natural Image Stitching**
 - Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Du_Geometric_Structure_Preserving_Warp_for_Natural_Image_Stitching_CVPR_2022_paper.html
 
 
