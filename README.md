@@ -572,7 +572,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Wu_URetinex-Net_Retinex-Based_Deep_Unfolding_Network_for_Low-Light_Image_Enhancement_CVPR_2022_paper.html
 
 <a name="Harmonization"></a>
-# Image Harmonization/Composition - 图像协调/图像合成
+# Image Harmonization - 图像协调
 
 **High-Resolution Image Harmonization via Collaborative Dual Transformationsg**
 - Paper: https://arxiv.org/abs/2109.06671
@@ -581,6 +581,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **SCS-Co: Self-Consistent Style Contrastive Learning for Image Harmonization**
 - Paper: https://arxiv.org/abs/2204.13962
 - Code: https://github.com/YCHang686/SCS-Co-CVPR2022
+
+**Deep Image-based Illumination Harmonization**
+- Paper: https://arxiv.org/abs/2108.00150
+- Dataset: https://github.com/zhongyunbao/Dataset
 
 <a name="Inpainting"></a>
 # Image Completion/Inpainting - 图像修复
