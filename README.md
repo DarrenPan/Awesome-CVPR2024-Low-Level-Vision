@@ -45,7 +45,11 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 - [Image Completion/Inpainting](#Inpainting)
   - [Video Inpainting](#VideoInpainting)
-  
+ 
+- [Image Matting](#ImageMatting)
+ 
+- [Shadow Removal](#ShadowRemoval)
+
 - [Relighting](#Relighting)
 
 - [Image Stitching](#Stitching)
@@ -637,6 +641,27 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 **Inertia-Guided Flow Completion and Style Fusion for Video Inpainting**
 - Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Inertia-Guided_Flow_Completion_and_Style_Fusion_for_Video_Inpainting_CVPR_2022_paper.htmll
+
+<a name="ImageMatting"></a>
+# Image Matting
+
+**MatteFormer: Transformer-Based Image Matting via Prior-Tokens**
+- Paper: https://arxiv.org/abs/2203.15662
+- Code: https://github.com/webtoon/matteformer
+
+**Human Instance Matting via Mutual Guidance and Multi-Instance Refinement**
+- Paper: https://arxiv.org/abs/2205.10767
+- Code: https://github.com/nowsyn/InstMatt
+
+**Boosting Robustness of Image Matting with Context Assembling and Strong Data Augmentation**
+- Paper: https://arxiv.org/abs/2201.06889
+
+
+<a name="ShadowRemoval"></a>
+# Shadow Removal
+
+**Bijective Mapping Network for Shadow Removal**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Bijective_Mapping_Network_for_Shadow_Removal_CVPR_2022_paper.html
 
 
 <a name="Relighting"></a>
