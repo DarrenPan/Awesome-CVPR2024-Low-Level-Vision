@@ -663,6 +663,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Geometric Structure Preserving Warp for Natural Image Stitching **
 - Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Du_Geometric_Structure_Preserving_Warp_for_Natural_Image_Stitching_CVPR_2022_paper.html
 
+
 <a name="ImageCompression"></a>
 # Image Compression - 图像压缩
 
@@ -680,9 +681,30 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.10897
 - Code: https://github.com/xiaosu-zhu/McQuic
 
+**DPICT: Deep Progressive Image Compression Using Trit-Planes**
+- Paper: https://arxiv.org/abs/2112.06334
+- Code: https://github.com/jaehanlee-mcl/DPICT
+
+**Joint Global and Local Hierarchical Priors for Learned Image Compression**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Kim_Joint_Global_and_Local_Hierarchical_Priors_for_Learned_Image_Compression_CVPR_2022_paper.html
+
+**LC-FDNet: Learned Lossless Image Compression With Frequency Decomposition Network**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Rhee_LC-FDNet_Learned_Lossless_Image_Compression_With_Frequency_Decomposition_Network_CVPR_2022_paper.html
+
 **Practical Learned Lossless JPEG Recompression with Multi-Level Cross-Channel Entropy Model in the DCT Domain**
 - Paper: https://arxiv.org/abs/2203.16357
 - Tags: Compress JPEG 
+
+**SASIC: Stereo Image Compression With Latent Shifts and Stereo Attention**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Wodlinger_SASIC_Stereo_Image_Compression_With_Latent_Shifts_and_Stereo_Attention_CVPR_2022_paper.html
+- Tags: Stereo Image Compression
+
+**Deep Stereo Image Compression via Bi-Directional Coding**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Lei_Deep_Stereo_Image_Compression_via_Bi-Directional_Coding_CVPR_2022_paper.html
+- Tags: Stereo Image Compression
+
+**Learning Based Multi-Modality Image and Video Compression**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Lu_Learning_Based_Multi-Modality_Image_and_Video_Compression_CVPR_2022_paper.html
 
 **PO-ELIC: Perception-Oriented Efficient Learned Image Coding**
 - Paper: https://arxiv.org/abs/2205.14501
@@ -692,6 +714,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 **Coarse-to-fine Deep Video Coding with Hyperprior-guided Mode Prediction**
 - Paper: https://arxiv.org/abs/2206.07460
+
+**LSVC: A Learning-Based Stereo Video Compression Framework**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Chen_LSVC_A_Learning-Based_Stereo_Video_Compression_Framework_CVPR_2022_paper.html
+- Tags: Stereo Video Compression
 
 **Enhancing VVC with Deep Learning based Multi-Frame Post-Processing**
 - Paper: https://arxiv.org/abs/2205.09458
