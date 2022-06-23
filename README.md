@@ -115,6 +115,9 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Lee_KNN_Local_Attention_for_Image_Restoration_CVPR_2022_paper.html
 - Code: https://sites.google.com/view/cvpr22-kit
 
+**GIQE: Generic Image Quality Enhancement via Nth Order Iterative Degradation**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Shyam_GIQE_Generic_Image_Quality_Enhancement_via_Nth_Order_Iterative_Degradation_CVPR_2022_paper.html
+
 **TransWeather: Transformer-based Restoration of Images Degraded by Adverse Weather Conditions**
 - Paper: https://arxiv.org/abs/2111.14813
 - Code: https://github.com/jeya-maria-jose/TransWeather
@@ -559,6 +562,14 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2204.10137
 - Code: https://github.com/vis-opt-group/SCI
 
+**Deep Color Consistent Network for Low-Light Image Enhancement**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Deep_Color_Consistent_Network_for_Low-Light_Image_Enhancement_CVPR_2022_paper.html
+
+**SNR-Aware Low-Light Image Enhancement**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Xu_SNR-Aware_Low-Light_Image_Enhancement_CVPR_2022_paper.html
+
+**URetinex-Net: Retinex-Based Deep Unfolding Network for Low-Light Image Enhancement**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Wu_URetinex-Net_Retinex-Based_Deep_Unfolding_Network_for_Low-Light_Image_Enhancement_CVPR_2022_paper.html
 
 <a name="Harmonization"></a>
 # Image Harmonization/Composition - 图像协调/图像合成
