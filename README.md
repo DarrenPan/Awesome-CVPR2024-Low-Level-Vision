@@ -300,6 +300,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Towards Bidirectional Arbitrary Image Rescaling: Joint Optimization and Cycle Idempotence**
 - Paper: https://arxiv.org/abs/2203.00911
 
+**Faithful Extreme Rescaling via Generative Prior Reciprocated Invertible Representations**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Zhong_Faithful_Extreme_Rescaling_via_Generative_Prior_Reciprocated_Invertible_Representations_CVPR_2022_paper.html
+- Code: https://github.com/cszzx/GRAIN
+
 <a name="Denoising"></a>
 # Denoising - 去噪
 
