@@ -789,6 +789,12 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.12835
 - Code: https://github.com/jcyang98/InST
 
+**StyTr2: Image Style Transfer With Transformers**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Deng_StyTr2_Image_Style_Transfer_With_Transformers_CVPR_2022_paper.html
+
+**PCA-Based Knowledge Distillation Towards Lightweight and Content-Style Balanced Photorealistic Style Transfer Models**
+- Paper: https://arxiv.org/abs/2203.13452
+- Code: https://github.com/chiutaiyin/PCA-Knowledge-Distillation
 
 <a name="ImageEditing"></a>
 # Image Editing - 图像编辑
