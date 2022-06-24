@@ -888,6 +888,12 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **ManiTrans: Entity-Level Text-Guided Image Manipulation via Token-wise Semantic Alignment and Generation**
 - Paper: https://arxiv.org/abs/2204.04428
 
+**Text-to-Image Synthesis Based on Object-Guided Joint-Decoding Transformer**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Wu_Text-to-Image_Synthesis_Based_on_Object-Guided_Joint-Decoding_Transformer_CVPR_2022_paper.html
+
+**Vector Quantized Diffusion Model for Text-to-Image Synthesis**
+- Paper: https://arxiv.org/abs/2111.14822
+
 ## Image-to-Image / Image Guided
 
 **Maximum Spatial Perturbation Consistency for Unpaired Image-to-Image Translation**
@@ -915,6 +921,17 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Exploring Patch-wise Semantic Relation for Contrastive Learning in Image-to-Image Translation Tasks**
 - Paper: https://arxiv.org/abs/2203.01532
 - Code: https://github.com/jcy132/Hneg_SRC
+
+**Neural Texture Extraction and Distribution for Controllable Person Image Synthesis**
+- Paper: https://arxiv.org/abs/2204.06160
+- Code: https://github.com/RenYurui/Neural-Texture-Extraction-Distribution
+
+**Unpaired Cartoon Image Synthesis via Gated Cycle Mapping**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Men_Unpaired_Cartoon_Image_Synthesis_via_Gated_Cycle_Mapping_CVPR_2022_paper.html
+
+**Day-to-Night Image Synthesis for Training Nighttime Neural ISPs**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Punnappurath_Day-to-Night_Image_Synthesis_for_Training_Nighttime_Neural_ISPs_CVPR_2022_paper.html
+- Code: https://github.com/SamsungLabs/day-to-night
 
 ## Others for image generation
 
@@ -967,10 +984,6 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2204.02854
 - Code: https://github.com/Shi-Yupeng/RESAIL-For-SIS
 
-**Retrieval-based Spatially Adaptive Normalization for Semantic Image Synthesis**
-- Paper: https://arxiv.org/abs/2204.02854
-- Code: https://github.com/Shi-Yupeng/RESAIL-For-SIS
-
 **A Closer Look at Few-shot Image Generation**
 - Paper: https://arxiv.org/abs/2205.03805
 - Tags: Few-shot
@@ -986,6 +999,31 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Modeling Image Composition for Complex Scene Generation**
 - Paper: https://arxiv.org/abs/2206.00923
 - Code: https://github.com/JohnDreamer/TwFA
+
+**Global Context With Discrete Diffusion in Vector Quantised Modelling for Image Generation**
+- Paper: https://arxiv.org/abs/2112.01799
+
+**Self-supervised Correlation Mining Network for Person Image Generation**
+- Paper: https://arxiv.org/abs/2111.13307
+
+**Learning To Memorize Feature Hallucination for One-Shot Image Generation**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Xie_Learning_To_Memorize_Feature_Hallucination_for_One-Shot_Image_Generation_CVPR_2022_paper.html
+
+**Local Attention Pyramid for Scene Image Generation**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Shim_Local_Attention_Pyramid_for_Scene_Image_Generation_CVPR_2022_paper.html
+
+**High-Resolution Image Synthesis with Latent Diffusion Models**
+- Paper: https://arxiv.org/abs/2112.10752
+- Code: https://github.com/CompVis/latent-diffusion
+
+**Cluster-guided Image Synthesis with Unconditional Models**
+- Paper: https://arxiv.org/abs/2112.12911
+
+**SphericGAN: Semi-Supervised Hyper-Spherical Generative Adversarial Networks for Fine-Grained Image Synthesis**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Chen_SphericGAN_Semi-Supervised_Hyper-Spherical_Generative_Adversarial_Networks_for_Fine-Grained_Image_Synthesis_CVPR_2022_paper.html
+
+**DPGEN: Differentially Private Generative Energy-Guided Network for Natural Image Synthesis**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Chen_DPGEN_Differentially_Private_Generative_Energy-Guided_Network_for_Natural_Image_Synthesis_CVPR_2022_paper.html
 
 **On Conditioning the Input Noise for Controlled Image Generation with Diffusion Models**
 - Paper: https://arxiv.org/abs/2205.03859
