@@ -819,7 +819,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Blended Diffusion for Text-driven Editing of Natural Images**
 - Paper: https://arxiv.org/abs/2111.14818
 - Code: https://github.com/omriav/blended-diffusion
-- Tags: CLIP
+- Tags: CLIP, Diffusion Model
 
 **FlexIT: Towards Flexible Semantic Image Translation**
 - Paper: https://arxiv.org/abs/2203.04705 
@@ -842,6 +842,15 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Spatially-Adaptive Multilayer Selection for GAN Inversion and Editing**
 - Paper: https://arxiv.org/abs/2206.08357
 - Code: https://github.com/adobe-research/sam_inversion
+
+**Brain-Supervised Image Editing**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Davis_Brain-Supervised_Image_Editing_CVPR_2022_paper.html
+
+**SpaceEdit: Learning a Unified Editing Space for Open-Domain Image Color Editing**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Shi_SpaceEdit_Learning_a_Unified_Editing_Space_for_Open-Domain_Image_Color_CVPR_2022_paper.html
+
+**M3L: Language-based Video Editing via Multi-Modal Multi-Level Transformers**
+- Paper: https://arxiv.org/abs/2104.01122
 
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
