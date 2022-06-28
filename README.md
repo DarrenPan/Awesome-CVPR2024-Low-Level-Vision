@@ -898,6 +898,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 **Maximum Spatial Perturbation Consistency for Unpaired Image-to-Image Translation**
 - Paper: https://arxiv.org/abs/2203.12707
+- Code: https://github.com/batmanlab/MSPC
 
 **A Style-aware Discriminator for Controllable Image Translation**
 - Paper: https://arxiv.org/abs/2203.15375
@@ -932,6 +933,23 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Day-to-Night Image Synthesis for Training Nighttime Neural ISPs**
 - Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Punnappurath_Day-to-Night_Image_Synthesis_for_Training_Nighttime_Neural_ISPs_CVPR_2022_paper.html
 - Code: https://github.com/SamsungLabs/day-to-night
+
+**Alleviating Semantics Distortion in Unsupervised Low-Level Image-to-Image Translation via Structure Consistency Constraint**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Guo_Alleviating_Semantics_Distortion_in_Unsupervised_Low-Level_Image-to-Image_Translation_via_Structure_CVPR_2022_paper.html
+
+**Wavelet Knowledge Distillation: Towards Efficient Image-to-Image Translation**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Wavelet_Knowledge_Distillation_Towards_Efficient_Image-to-Image_Translation_CVPR_2022_paper.html
+
+**Self-Supervised Dense Consistency Regularization for Image-to-Image Translation**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Ko_Self-Supervised_Dense_Consistency_Regularization_for_Image-to-Image_Translation_CVPR_2022_paper.html
+
+**Drop the GAN: In Defense of Patches Nearest Neighbors as Single Image Generative Model**
+- Paper: https://arxiv.org/abs/2103.15545
+- Project Web: https://www.wisdom.weizmann.ac.il/~vision/gpnn/
+- Tags: Image manipulation
+
+**HairMapper: Removing Hair From Portraits Using GANs**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Wu_HairMapper_Removing_Hair_From_Portraits_Using_GANs_CVPR_2022_paper.html
 
 ## Others for image generation
 
@@ -1025,6 +1043,23 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **DPGEN: Differentially Private Generative Energy-Guided Network for Natural Image Synthesis**
 - Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Chen_DPGEN_Differentially_Private_Generative_Energy-Guided_Network_for_Natural_Image_Synthesis_CVPR_2022_paper.html
 
+**DO-GAN: A Double Oracle Framework for Generative Adversarial Networks**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Aung_DO-GAN_A_Double_Oracle_Framework_for_Generative_Adversarial_Networks_CVPR_2022_paper.html
+
+**Improving GAN Equilibrium by Raising Spatial Awareness**
+- Paper: https://arxiv.org/abs/2112.00718
+- Code: https://github.com/genforce/eqgan-sa
+
+**Polymorphic-GAN: Generating Aligned Samples Across Multiple Domains With Learned Morph Maps **
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Kim_Polymorphic-GAN_Generating_Aligned_Samples_Across_Multiple_Domains_With_Learned_Morph_CVPR_2022_paper.html
+
+**Manifold Learning Benefits GANs**
+- Paper: https://arxiv.org/abs/2112.12618
+
+**Commonality in Natural Images Rescues GANs: Pretraining GANs with Generic and Privacy-free Synthetic Data**
+- Paper: https://arxiv.org/abs/2204.04950
+- Code: https://github.com/FriedRonaldo/Primitives-PS
+
 **On Conditioning the Input Noise for Controlled Image Generation with Diffusion Models**
 - Paper: https://arxiv.org/abs/2205.03859
 - Tags: [Workshop]
@@ -1082,6 +1117,18 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Style-Structure Disentangled Features and Normalizing Flows for Diverse Icon Colorization**
 - Paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Style-Structure_Disentangled_Features_and_Normalizing_Flows_for_Diverse_Icon_Colorization_CVPR_2022_paper.pdf
 - Code: https://github.com/djosix/IconFlow
+
+**Unsupervised Homography Estimation with Coplanarity-Aware GAN**
+- Paper: https://arxiv.org/abs/2205.03821
+- Code: https://github.com/megvii-research/HomoGAN
+
+**Diverse Image Outpainting via GAN Inversion**
+- Paper: https://arxiv.org/abs/2104.00675
+- Code: https://github.com/yccyenchicheng/InOut
+
+**On Aliased Resizing and Surprising Subtleties in GAN Evaluation**
+- Paper: https://arxiv.org/abs/2104.11222
+- Code: https://github.com/GaParmar/clean-fid
 
 **Patch-wise Contrastive Style Learning for Instagram Filter Removal**
 - Paper: https://arxiv.org/abs/2204.07486
