@@ -3,6 +3,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 
 ## Related collections for low-level vision
+- [Awesome-ECCV2022-Low-Level-Vision](https://github.com/DarrenPan/Awesome-ECCV2022-Low-Level-Vision)
 - [Awesome-AAAI2022-Low-Level-Vision](https://github.com/DarrenPan/Awesome-AAAI2022-Low-Level-Vision)
 - [Awesome-NeurIPS2021-Low-Level-Vision](https://github.com/DarrenPan/Awesome-NeurIPS2021-Low-Level-Vision)
 - [Awesome-ICCV2021-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Vision)
@@ -57,6 +58,8 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - [Image Compression](#ImageCompression)
 
 - [Image Quality Assessment](#ImageQualityAssessment)
+
+- [Image Decomposition](#Decomposition)
 
 - [Style Transfer](#StyleTransfer)
 
@@ -764,6 +767,16 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2205.04264
 - Tags: [Workshop], compressed IQA
 
+<a name="Decomposition"></a>
+# Image Decomposition
+
+**PIE-Net: Photometric Invariant Edge Guided Network for Intrinsic Image Decomposition**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Das_PIE-Net_Photometric_Invariant_Edge_Guided_Network_for_Intrinsic_Image_Decomposition_CVPR_2022_paper.html
+- Code: https://github.com/Morpheus3000/PIE-Net
+
+**Deformable Sprites for Unsupervised Video Decomposition**
+- Paper: https://arxiv.org/abs/2204.07151
+- Code: https://github.com/vye16/deformable-sprites
 
 <a name="StyleTransfer"></a>
 # Style Transfer - 风格迁移
@@ -893,6 +906,9 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 **Vector Quantized Diffusion Model for Text-to-Image Synthesis**
 - Paper: https://arxiv.org/abs/2111.14822
+
+**AnyFace: Free-style Text-to-Face Synthesis and Manipulation**
+- Paper: https://arxiv.org/abs/2203.15334
 
 ## Image-to-Image / Image Guided
 
@@ -1094,6 +1110,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Thin-Plate Spline Motion Model for Image Animation**
 - Paper: https://arxiv.org/abs/2203.14367
 - Code: https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model
+
+**Make It Move: Controllable Image-to-Video Generation with Text Descriptions**
+- Paper: https://arxiv.org/abs/2112.02815
+- Code: https://github.com/Youncy-Hu/MAGE
 
 **Diverse Video Generation from a Single Video**
 - Paper: https://arxiv.org/abs/2205.05725
