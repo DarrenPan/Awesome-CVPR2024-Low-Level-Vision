@@ -196,6 +196,8 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **E2V-SDE: From Asynchronous Events to Fast and Continuous Video Reconstruction via Neural Stochastic Differential Equations**
 - Paper: https://arxiv.org/abs/2206.07578
 - Tags: Event camera
+- **Withdrawal due to plagiarism**
+
 
 <a name="HSIR"></a>
 ## Hyperspectral Image Reconstruction
