@@ -255,6 +255,10 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 **Texture-Based Error Analysis for Image Super-Resolution**
 - Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Magid_Texture-Based_Error_Analysis_for_Image_Super-Resolution_CVPR_2022_paper.html
 
+**Learning to Zoom Inside Camera Imaging Pipeline**
+- Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Tang_Learning_To_Zoom_Inside_Camera_Imaging_Pipeline_CVPR_2022_paper.html
+- Tags: Raw-to-Raw domain
+
 **Task Decoupled Framework for Reference-Based Super-Resolution**
 - Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Huang_Task_Decoupled_Framework_for_Reference-Based_Super-Resolution_CVPR_2022_paper.html
 - Tags: Reference-Based
