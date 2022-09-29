@@ -273,11 +273,12 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Tags: Text SR
 
 **Learning Graph Regularisation for Guided Super-Resolution**
-- Paper: https://arxiv.org/abs/2203.09388
+- Paper: https://arxiv.org/abs/2203.14297
 - Tags: Guided SR
 
 **Transformer-empowered Multi-scale Contextual Matching and Aggregation for Multi-contrast MRI Super-resolution**
-- Paper: https://arxiv.org/abs/2203.09388
+- Paper: https://arxiv.org/abs/2203.13963
+- Code: https://github.com/XAIMI-Lab/McMRSR
 - Tags: MRI SR
 
 **Discrete Cosine Transform Network for Guided Depth Map Super-Resolution**
