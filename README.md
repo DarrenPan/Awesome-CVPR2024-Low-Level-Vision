@@ -15,7 +15,6 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 ## Catalogue
 
 - [Image Restoration](#ImageRetoration)
-  - [Burst Restoration](#BurstRestoration)
   - [Video Restoration](#VideoRestoration)
 
 - [Super Resolution](#SuperResolution)
@@ -67,12 +66,22 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - [Image Generation/Synthesis/ Image-to-Image Translation](#ImageGeneration)
   - [Video Generation](#VideoGeneration)
 
+- [Others](#Others)
 
-<!-- 
 <a name="ImageRetoration"></a>
 # Image Restoration - 图像恢复
 
+## Image Reconstruction
 
+**Raw Image Reconstruction with Learned Compact Metadata**
+- Paper: https://arxiv.org/abs/2302.12995
+- Code: https://github.com/wyf0912/R2LCM
+
+**High-resolution image reconstruction with latent diffusion models from human brain activity**
+- Paper: https://www.biorxiv.org/content/10.1101/2022.11.18.517004v2
+- Code: https://github.com/yu-takagi/StableDiffusionReconstruction
+
+<!-- 
 <a name="BurstRestoration"></a>
 ## Burst Restoration
 
@@ -173,13 +182,20 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 <a name="Stitching"></a>
 # Image Stitching - 图像拼接
 
-
+-->
 
 <a name="ImageCompression"></a>
 # Image Compression - 图像压缩
 
+**Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger**
+- Paper: https://arxiv.org/abs/2302.14677
+
+**Neural Video Compression with Diverse Contexts**
+- Paper: https://github.com/microsoft/DCVC
+- Code: https://arxiv.org/abs/2302.14402
 
 
+<!--
 <a name="ImageQualityAssessment"></a>
 # Image Quality Assessment - 图像质量评价
 
@@ -195,7 +211,19 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
+## Text-to-Image / Text Guided / Multi-Modal
 
+**Multi-Concept Customization of Text-to-Image Diffusion**
+- Paper: https://arxiv.org/abs/2212.04488
+- Code: https://github.com/adobe-research/custom-diffusion
+
+## Image-to-Image / Image Guided
+
+**LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data**
+- Paper: https://arxiv.org/abs/2208.14889
+- Code: https://github.com/KU-CVLAB/LANIT
+
+## Others for image generation
 
 <a name="VideoGeneration"></a>
 ## Video Generation
@@ -204,5 +232,16 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper:
 - Code: https://github.com/nihaomiao/CVPR2023_LFDM
 
+**Video Probabilistic Diffusion Models in Projected Latent Space**
+- Paper: https://arxiv.org/abs/2302.07685
+- Code: https://github.com/sihyun-yu/PVDM
+
+
+<a name="Others"></a>
+## Others
+
+**mages Speak in Images: A Generalist Painter for In-Context Visual Learning**
+- Paper: https://arxiv.org/abs/2212.02499
+- Code: https://github.com/baaivision/Painter
 
 
