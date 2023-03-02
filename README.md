@@ -49,12 +49,6 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 - [Image Matting](#Matting)
 
-- [Shadow Removal](#ShadowRemoval)
-
-- [Relighting](#Relighting)
-
-- [Image Stitching](#Stitching)
-
 - [Image Compression](#ImageCompression)
 
 - [Image Quality Assessment](#ImageQualityAssessment)
@@ -70,6 +64,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 <a name="ImageRetoration"></a>
 # Image Restoration - 图像恢复
+
+**Efficient and Explicit Modelling of Image Hierarchies for Image Restoration**
+- Paper: https://arxiv.org/abs/2303.00748
+- Code: https://github.com/ofsoundof/GRL-Image-Restoration
 
 ## Image Reconstruction
 
@@ -100,6 +98,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/XPixelGroup/HAT
 - Tags: Transformer
 
+**N-Gram in Swin Transformers for Efficient Lightweight Image Super-Resolution**
+- Paper:
+- Code: https://github.com/rami0205/NGramSwin
+
 <!-- 
 <a name="VideoSuperResolution"></a>
 ## Video Super Resolution
@@ -127,11 +129,17 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 <a name="VideoDeblurring"></a>
 ## Video Deblurring
 
+-->
 
 <a name="Deraining"></a>
 # Deraining - 去雨
 
+**Learning A Sparse Transformer Network for Effective Image Deraining**
+- Paper:
+- Code: https://github.com/cschenxiang/DRSformer
 
+
+<!--
 <a name="Dehazing"></a>
 # Dehazing - 去雾
 
@@ -143,10 +151,15 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
  <a name="HDR"></a>
 # HDR Imaging / Multi-Exposure Image Fusion - HDR图像生成 / 多曝光图像融合
 
-
+-->
 <a name="FrameInterpolation"></a>
 # Frame Interpolation - 插帧
 
+**Extracting Motion and Appearance via Inter-Frame Attention for Efficient Video Frame Interpolation**
+- Paper: https://arxiv.org/abs/2303.00440
+- Code: https://github.com/MCG-NJU/EMA-VFI
+
+<!--
 <a name="Enhancement"></a>
 # Image Enhancement - 图像增强
 
@@ -195,19 +208,24 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://arxiv.org/abs/2302.14402
 
 
-<!--
 <a name="ImageQualityAssessment"></a>
 # Image Quality Assessment - 图像质量评价
 
+**Quality-aware Pre-trained Models for Blind Image Quality Assessment**
+- Paper: https://arxiv.org/abs/2303.00521
 
+<!--
 <a name="StyleTransfer"></a>
 # Style Transfer - 风格迁移
 
 
+-->
+
 <a name="ImageEditing"></a>
 # Image Editing - 图像编辑
 
--->
+**Imagic: Text-Based Real Image Editing with Diffusion Models**
+- Paper: https://arxiv.org/abs/2210.09276
 
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
@@ -235,6 +253,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Video Probabilistic Diffusion Models in Projected Latent Space**
 - Paper: https://arxiv.org/abs/2302.07685
 - Code: https://github.com/sihyun-yu/PVDM
+
+**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**
+- Paper: https://arxiv.org/abs/2301.06281
+- Code: https://github.com/Carlyx/DPE
 
 
 <a name="Others"></a>
