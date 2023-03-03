@@ -99,8 +99,11 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Tags: Transformer
 
 **N-Gram in Swin Transformers for Efficient Lightweight Image Super-Resolution**
-- Paper:
+- Paper: https://arxiv.org/abs/2211.11436
 - Code: https://github.com/rami0205/NGramSwin
+
+**OPE-SR: Orthogonal Position Encoding for Designing a Parameter-free Upsampling Module in Arbitrary-scale Image Super-Resolution**
+- Paper: https://arxiv.org/abs/2303.01091
 
 <!-- 
 <a name="VideoSuperResolution"></a>
@@ -226,6 +229,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 **Imagic: Text-Based Real Image Editing with Diffusion Models**
 - Paper: https://arxiv.org/abs/2210.09276
+
+**SINE: SINgle Image Editing with Text-to-Image Diffusion Models**
+- Paper: https://arxiv.org/abs/2212.04489
+- Code: https://github.com/zhang-zx/SINE
 
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
