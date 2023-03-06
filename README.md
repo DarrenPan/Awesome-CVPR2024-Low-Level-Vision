@@ -49,6 +49,8 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 - [Image Matting](#Matting)
 
+- [Shadow Removal](#ShadowRemoval)
+
 - [Image Compression](#ImageCompression)
 
 - [Image Quality Assessment](#ImageQualityAssessment)
@@ -186,11 +188,15 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2206.05149
 - Code: https://github.com/JizhiziLi/RIM
 
-<!--
+
 <a name="ShadowRemoval"></a>
 # Shadow Removal - 阴影消除
 
+**ShadowDiffusion: When Degradation Prior Meets Diffusion Model for Shadow Removal**
+- Paper: https://arxiv.org/abs/2212.04711
+- Code: https://github.com/GuoLanqing/ShadowDiffusion
 
+<!--
 <a name="Relighting"></a>
 # Relighting
 
@@ -242,6 +248,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2212.04488
 - Code: https://github.com/adobe-research/custom-diffusion
 
+**GALIP: Generative Adversarial CLIPs for Text-to-Image Synthesis**
+- Paper: https://arxiv.org/abs/2301.12959
+- Code: https://github.com/tobran/GALIP
+
 ## Image-to-Image / Image Guided
 
 **LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data**
@@ -249,6 +259,11 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/KU-CVLAB/LANIT
 
 ## Others for image generation
+
+**AdaptiveMix: Robust Feature Representation via Shrinking Feature Space**
+- Paper: https://arxiv.org/abs/2303.01559
+- Code: https://github.com/WentianZhang-ML/AdaptiveMix
+
 
 <a name="VideoGeneration"></a>
 ## Video Generation
