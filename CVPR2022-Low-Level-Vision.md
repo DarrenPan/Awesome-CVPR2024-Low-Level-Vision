@@ -265,6 +265,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 **GCFSR: a Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors**
 - Paper: https://arxiv.org/abs/2203.07319
+- Code: https://github.com/hejingwenhejingwen/GCFSR
 - Tags: Face SR
 
 **A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution**
