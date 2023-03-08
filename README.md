@@ -107,6 +107,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **OPE-SR: Orthogonal Position Encoding for Designing a Parameter-free Upsampling Module in Arbitrary-scale Image Super-Resolution**
 - Paper: https://arxiv.org/abs/2303.01091
 
+**Super-Resolution Neural Operator**
+- Paper: https://arxiv.org/abs/2303.02584
+- Code: https://github.com/2y7c3/Super-Resolution-Neural-Operator
+
 <!-- 
 <a name="VideoSuperResolution"></a>
 ## Video Super Resolution
@@ -216,6 +220,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://github.com/microsoft/DCVC
 - Code: https://arxiv.org/abs/2302.14402
 
+**Context-based Trit-Plane Coding for Progressive Image Compression**
+- Paper:
+- Code: https://github.com/seungminjeon-github/CTC
 
 <a name="ImageQualityAssessment"></a>
 # Image Quality Assessment - 图像质量评价
