@@ -271,6 +271,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.01559
 - Code: https://github.com/WentianZhang-ML/AdaptiveMix
 
+**MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis**
+- Paper: https://arxiv.org/abs/2211.09117
+- Code: https://github.com/LTH14/mage
 
 <a name="VideoGeneration"></a>
 ## Video Generation
