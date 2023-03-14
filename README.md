@@ -71,6 +71,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.00748
 - Code: https://github.com/ofsoundof/GRL-Image-Restoration
 
+**Learning Distortion Invariant Representation for Image Restoration from A Causality Perspective**
+- Paper: https://arxiv.org/abs/2303.06859
+- Code: https://github.com/lixinustc/Casual-IRDIL
+
 ## Image Reconstruction
 
 **Raw Image Reconstruction with Learned Compact Metadata**
@@ -80,6 +84,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **High-resolution image reconstruction with latent diffusion models from human brain activity**
 - Paper: https://www.biorxiv.org/content/10.1101/2022.11.18.517004v2
 - Code: https://github.com/yu-takagi/StableDiffusionReconstruction
+
+**DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration**
+- Paper: https://arxiv.org/abs/2303.06885
 
 <!-- 
 <a name="BurstRestoration"></a>
@@ -269,6 +276,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **CoralStyleCLIP: Co-optimized Region and Layer Selection for Image Editing**
 - Paper: https://arxiv.org/abs/2303.05031
 
+**DeltaEdit: Exploring Text-free Training for Text-Driven Image Manipulation**
+- Paper: https://arxiv.org/abs/2303.06285
+- Code: https://arxiv.org/abs/2303.06285
+
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
 ## Text-to-Image / Text Guided / Multi-Modal
@@ -304,6 +315,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis**
 - Paper: https://arxiv.org/abs/2211.09117
 - Code: https://github.com/LTH14/mage
+
+**Regularized Vector Quantization for Tokenized Image Synth**
+- Paper: https://arxiv.org/abs/2303.06424
 
 <a name="VideoGeneration"></a>
 ## Video Generation
