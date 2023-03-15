@@ -345,4 +345,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Unifying Layout Generation with a Decoupled Diffusion Model**
 - Paper: https://arxiv.org/abs/2303.05049
 
-
+**Blind Video Deflickering by Neural Filtering with a Flawed Atlas**
+- Paper: https://arxiv.org/abs/2303.08120
+- Code: https://github.com/ChenyangLEI/All-In-One-Deflicker
+- Tags: Deflickering 
