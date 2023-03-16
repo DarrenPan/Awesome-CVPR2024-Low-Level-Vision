@@ -125,13 +125,14 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.02584
 - Code: https://github.com/2y7c3/Super-Resolution-Neural-Operator
 
-
-
-<!-- 
 <a name="VideoSuperResolution"></a>
 ## Video Super Resolution
 
+**Towards High-Quality and Efficient Video Super-Resolution via Spatial-Temporal Data Overfitting**
+- Paper: https://arxiv.org/abs/2303.08331
+- Code: https://github.com/coulsonlee/STDO-CVPR2023
 
+<!-- 
 <a name="Rescaling"></a>
 # Image Rescaling - 图像缩放
 
@@ -333,6 +334,13 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**
 - Paper: https://arxiv.org/abs/2301.06281
 - Code: https://github.com/Carlyx/DPE
+
+**Decomposed Diffusion Models for High-Quality Video Generation**
+- Paper: https://arxiv.org/abs/2303.08320
+
+**Diffusion Video Autoencoders: Toward Temporally Consistent Face Video Editing via Disentangled Video Encoding**
+- Paper: https://arxiv.org/abs/2212.02802
+- Code: https://github.com/man805/Diffusion-Video-Autoencoders
 
 
 <a name="Others"></a>
