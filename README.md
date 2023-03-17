@@ -125,6 +125,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.02584
 - Code: https://github.com/2y7c3/Super-Resolution-Neural-Operator
 
+**Zero-Shot Dual-Lens Super-Resolution**
+- Paper:
+- Code: https://github.com/XrKang/ZeDuSR
+
 <a name="VideoSuperResolution"></a>
 ## Video Super Resolution
 
@@ -317,8 +321,17 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2211.09117
 - Code: https://github.com/LTH14/mage
 
-**Regularized Vector Quantization for Tokenized Image Synth**
-- Paper: https://arxiv.org/abs/2303.06424
+**Regularized Vector Quantization for Tokenized Image Synthesis**
+- Paper: https://arxiv.org/abs/2303.06424  
+
+**Towards Accurate Image Coding: Improved Autoregressive Image Generation with Dynamic Vector Quantization**
+- Paper:
+- Code: https://github.com/CrossmodalGroup/DynamicVectorQuantization
+
+**Not All Image Regions Matter: Masked Vector Quantization for Autoregressive Image Generation**
+- Paper:
+- Code: https://github.com/CrossmodalGroup/MaskedVectorQuantization
+
 
 <a name="VideoGeneration"></a>
 ## Video Generation
