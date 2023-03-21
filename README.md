@@ -70,10 +70,17 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Efficient and Explicit Modelling of Image Hierarchies for Image Restoration**
 - Paper: https://arxiv.org/abs/2303.00748
 - Code: https://github.com/ofsoundof/GRL-Image-Restoration
+- Tags: Transformer
 
 **Learning Distortion Invariant Representation for Image Restoration from A Causality Perspective**
 - Paper: https://arxiv.org/abs/2303.06859
 - Code: https://github.com/lixinustc/Casual-IRDIL
+
+**Contrastive Semi-supervised Learning for Underwater Image Restoration via Reliable Bank**
+- Paper: https://arxiv.org/abs/2303.09101
+- Code: https://github.com/Huang-ShiRui/Semi-UIR
+- Tags: Underwater Image Restoration
+
 
 ## Image Reconstruction
 
@@ -143,7 +150,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 <!-- 
 <a name="Rescaling"></a>
 # Image Rescaling - 图像缩放
-
+-->
 
 <a name="Denoising"></a>
 # Denoising - 去噪
@@ -151,6 +158,11 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 <a name="ImageDenoising"></a>
 ## Image Denoising
 
+**Masked Image Training for Generalizable Deep Image Denoising**
+- Paper:
+- Code: https://github.com/haoyuc/MaskedDenoising
+
+<!-- 
 <a name="VideoDenoising"></a>
 ## Video Denoising
 
@@ -325,6 +337,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2211.12500
 - Code: https://github.com/ankanbhunia/PIDM
 
+**Picture that Sketch: Photorealistic Image Generation from Abstract Sketches**
+- Paper: https://arxiv.org/abs/2303.11162
+
 ## Others for image generation
 
 **AdaptiveMix: Robust Feature Representation via Shrinking Feature Space**
@@ -388,3 +403,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Make-A-Story: Visual Memory Conditioned Consistent Story Generation**
 - Paper: https://arxiv.org/abs/2211.13319
 - Code: https://github.com/ubc-vision/Make-A-Story
+
+**Cross-GAN Auditing: Unsupervised Identification of Attribute Level Similarities and Differences between Pretrained Generative Models**
+- Paper: https://arxiv.org/abs/2303.10774
+- Code: https://github.com/mattolson93/cross_gan_auditing
