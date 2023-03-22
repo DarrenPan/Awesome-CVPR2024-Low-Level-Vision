@@ -162,6 +162,11 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper:
 - Code: https://github.com/haoyuc/MaskedDenoising
 
+**Spatially Adaptive Self-Supervised Learning for Real-World Image Denoising**
+- Paper:
+- Cdoe: https://github.com/nagejacob/SpatiallyAdaptiveSSID
+- Tags: Self-Supervised
+
 <!-- 
 <a name="VideoDenoising"></a>
 ## Video Denoising
@@ -191,11 +196,15 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 # Deraining - 去雨
 
 **Learning A Sparse Transformer Network for Effective Image Deraining**
-- Paper:
+- Paper: https://arxiv.org/abs/2303.11950
 - Code: https://github.com/cschenxiang/DRSformer
 
 <a name="Dehazing"></a>
 # Dehazing - 去雾
+
+**RIDCP: Revitalizing Real Image Dehazing via High-Quality Codebook Priors**
+- Paper:
+- Code: https://github.com/RQ-Wu/RIDCP
 
 **Video Dehazing via a Multi-Range Temporal Alignment Network with Physical Prior**
 - Paper: https://arxiv.org/abs/2303.09757
@@ -206,11 +215,16 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 <a name="Demosaicing"></a>
 # Demosaicing - 去马赛克
 
+-->
 
  <a name="HDR"></a>
 # HDR Imaging / Multi-Exposure Image Fusion - HDR图像生成 / 多曝光图像融合
 
--->
+**Learning a Practical SDR-to-HDRTV Up-conversion using New Dataset and Degradation Models**
+- Paper:
+- Code: https://github.com/AndreGuo/HDRTVDM
+
+
 <a name="FrameInterpolation"></a>
 # Frame Interpolation - 插帧
 
@@ -231,6 +245,12 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Learning Semantic-Aware Knowledge Guidance for Low-Light Image Enhancement**
 - Paper:
 - Code: https://github.com/langmanbusi/Semantic-Aware-Low-Light-Image-Enhancement
+
+**Visibility Constrained Wide-band Illumination Spectrum Design for Seeing-in-the-Dark**
+- Paper: https://arxiv.org/abs/2303.11642
+- Code: https://github.com/MyNiuuu/VCSD
+- Tags: NIR2RGB
+
 
 <!--
 <a name="Harmonization"></a>
@@ -287,12 +307,13 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Quality-aware Pre-trained Models for Blind Image Quality Assessment**
 - Paper: https://arxiv.org/abs/2303.00521
 
-<!--
+
 <a name="StyleTransfer"></a>
 # Style Transfer - 风格迁移
 
-
--->
+**Fix the Noise: Disentangling Source Feature for Controllable Domain Translation**
+- Paper: https://arxiv.org/abs/2303.11545
+- Code: https://github.com/LeeDongYeun/FixNoise
 
 <a name="ImageEditing"></a>
 # Image Editing - 图像编辑
