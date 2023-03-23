@@ -186,6 +186,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2211.11423
 - Code: https://github.com/zzh-tech/BiT
 
+**Neumann Network with Recursive Kernels for Single Image Defocus Deblurring**
+- Paper:
+- Code: https://github.com/csZcWu/NRKNet
+
 <!--
 <a name="VideoDeblurring"></a>
 ## Video Deblurring
@@ -232,9 +236,23 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.00440
 - Code: https://github.com/MCG-NJU/EMA-VFI
 
+**A Unified Pyramid Recurrent Network for Video Frame Interpolation**
+- Paper: https://arxiv.org/abs/2211.03456
+- Code: https://github.com/srcn-ivl/UPR-Net
+
+**BiFormer: Learning Bilateral Motion Estimation via Bilateral Transformer for 4K Video Frame Interpolation**
+- Paper:
+- Code: https://github.com/JunHeum/BiFormer
+
 **Event-based Video Frame Interpolation with Cross-Modal Asymmetric Bidirectional Motion Fields**
 - Paper:
 - Code: https://github.com/intelpro/C-ABMF
+- Tags: Event-based
+
+**Event-based Blurry Frame Interpolation under Blind Exposure**
+- Paper:
+- Code: https://github.com/WarranWeng/EBFI-BE
+- Tags: Event-based
 
 <a name="Enhancement"></a>
 # Image Enhancement - 图像增强
@@ -346,7 +364,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 **Scaling up GANs for Text-to-Image Synthesis**
 - Paper: https://arxiv.org/abs/2303.05511
-- Code: 
+- Project: https://mingukkang.github.io/GigaGAN/
+
+**MAGVLT: Masked Generative Vision-and-Language Transformer**
+- Paper: https://arxiv.org/abs/2303.12208
 
 ## Image-to-Image / Image Guided
 
@@ -405,6 +426,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2212.02802
 - Code: https://github.com/man805/Diffusion-Video-Autoencoders
 
+**MoStGAN: Video Generation with Temporal Motion Styles**
+- Paper:
+- Code: https://github.com/xiaoqian-shen/MoStGAN
 
 <a name="Others"></a>
 ## Others
