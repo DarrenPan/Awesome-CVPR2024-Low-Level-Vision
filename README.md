@@ -133,7 +133,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/2y7c3/Super-Resolution-Neural-Operator
 
 **Human Guided Ground-truth Generation for Realistic Image Super-resolution**
-- Paper:
+- Paper: https://arxiv.org/abs/2303.13069
 - Code: https://github.com/ChrisDud0257/PosNegGT
 
 **Zero-Shot Dual-Lens Super-Resolution**
@@ -159,7 +159,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 ## Image Denoising
 
 **Masked Image Training for Generalizable Deep Image Denoising**
-- Paper:
+- Paper: https://arxiv.org/abs/2303.13132
 - Code: https://github.com/haoyuc/MaskedDenoising
 
 **Spatially Adaptive Self-Supervised Learning for Real-World Image Denoising**
@@ -210,6 +210,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper:
 - Code: https://github.com/RQ-Wu/RIDCP
 
+**Curricular Contrastive Regularization for Physics-aware Single Image Dehazing **
+- Paper:
+- Code: https://github.com/YuZheng9/C2PNet
+
 **Video Dehazing via a Multi-Range Temporal Alignment Network with Physical Prior**
 - Paper: https://arxiv.org/abs/2303.09757
 - Code: https://github.com/jiaqixuac/MAP-Net
@@ -225,7 +229,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 # HDR Imaging / Multi-Exposure Image Fusion - HDR图像生成 / 多曝光图像融合
 
 **Learning a Practical SDR-to-HDRTV Up-conversion using New Dataset and Degradation Models**
-- Paper:
+- Paper: https://arxiv.org/abs/2303.13031
 - Code: https://github.com/AndreGuo/HDRTVDM
 
 
@@ -246,13 +250,18 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 **Event-based Video Frame Interpolation with Cross-Modal Asymmetric Bidirectional Motion Fields**
 - Paper:
-- Code: https://github.com/intelpro/C-ABMF
+- Code: https://github.com/intelpro/CBMNet
 - Tags: Event-based
 
 **Event-based Blurry Frame Interpolation under Blind Exposure**
 - Paper:
 - Code: https://github.com/WarranWeng/EBFI-BE
 - Tags: Event-based
+
+**Joint Video Multi-Frame Interpolation and Deblurring under Unknown Exposure Time**
+- Paper: https://github.com/shangwei5/VIDUE/blob/main/paper/main.pdf
+- Code: https://github.com/shangwei5/VIDUE
+- Tags: Frame Interpolation and Deblurring
 
 <a name="Enhancement"></a>
 # Image Enhancement - 图像增强
@@ -333,6 +342,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.11545
 - Code: https://github.com/LeeDongYeun/FixNoise
 
+**Neural Preset: Faithful 4K Color Style Transfer in Real Time**
+- Paper:
+- Code: https://github.com/ZHKKKe/NeuralPreset
+
 <a name="ImageEditing"></a>
 # Image Editing - 图像编辑
 
@@ -349,6 +362,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **DeltaEdit: Exploring Text-free Training for Text-Driven Image Manipulation**
 - Paper: https://arxiv.org/abs/2303.06285
 - Code: https://arxiv.org/abs/2303.06285
+
+**SIEDOB: Semantic Image Editing by Disentangling Object and Background**
+- Paper: https://arxiv.org/abs/2303.13062
+- Code: https://github.com/WuyangLuo/SIEDOB
 
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
@@ -403,6 +420,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper:
 - Code: https://github.com/CrossmodalGroup/MaskedVectorQuantization
 
+**Exploring Incompatible Knowledge Transfer in Few-shot Image Generation**
+- Paper: 
+- Code: https://github.com/yunqing-me/RICK
+
 
 <a name="VideoGeneration"></a>
 ## Video Generation
@@ -452,3 +473,12 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Cross-GAN Auditing: Unsupervised Identification of Attribute Level Similarities and Differences between Pretrained Generative Models**
 - Paper: https://arxiv.org/abs/2303.10774
 - Code: https://github.com/mattolson93/cross_gan_auditing
+
+**LightPainter: Interactive Portrait Relighting with Freehand Scribble**
+- Paper: https://arxiv.org/abs/2303.12950
+- Tags: Portrait Relighting
+
+**Neural Texture Synthesis with Guided Correspondence**
+- Paper:
+- Code: https://github.com/EliotChenKJ/Guided-Correspondence-Loss
+- Tags: Texture Synthesis
