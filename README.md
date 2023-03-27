@@ -342,8 +342,8 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.11545
 - Code: https://github.com/LeeDongYeun/FixNoise
 
-**Neural Preset: Faithful 4K Color Style Transfer in Real Time**
-- Paper:
+**Neural Preset for Color Style Transfer**
+- Paper: https://arxiv.org/abs/2303.13511
 - Code: https://github.com/ZHKKKe/NeuralPreset
 
 <a name="ImageEditing"></a>
@@ -429,7 +429,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 ## Video Generation
 
 **Conditional Image-to-Video Generation with Latent Flow Diffusion Models**
-- Paper:
+- Paper: https://arxiv.org/abs/2303.13744
 - Code: https://github.com/nihaomiao/CVPR2023_LFDM
 
 **Video Probabilistic Diffusion Models in Projected Latent Space**
@@ -482,3 +482,8 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper:
 - Code: https://github.com/EliotChenKJ/Guided-Correspondence-Loss
 - Tags: Texture Synthesis
+
+**CF-Font: Content Fusion for Few-shot Font Generation**
+- Paper: https://arxiv.org/abs/2303.14017
+- Code: https://github.com/wangchi95/CF-Font
+- Tags: Font Generation
