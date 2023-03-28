@@ -81,6 +81,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/Huang-ShiRui/Semi-UIR
 - Tags: Underwater Image Restoration
 
+**Nighttime Smartphone Reflective Flare Removal Using Optical Center Symmetry Prior**
+- Paper: https://arxiv.org/abs/2303.15046
+- Code: https://github.com/ykdai/BracketFlare
+- Tags: Reflective Flare Removal
 
 ## Image Reconstruction
 
@@ -140,6 +144,12 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper:
 - Code: https://github.com/XrKang/ZeDuSR
 
+**Learning Generative Structure Prior for Blind Text Image Super-resolution**
+- Paper: https://arxiv.org/abs/2303.14726
+- Code: https://github.com/csxmli2016/MARCONet
+- Tags: Text SR
+
+
 <a name="VideoSuperResolution"></a>
 ## Video Super Resolution
 
@@ -163,7 +173,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/haoyuc/MaskedDenoising
 
 **Spatially Adaptive Self-Supervised Learning for Real-World Image Denoising**
-- Paper:
+- Paper: https://arxiv.org/abs/2303.14934
 - Cdoe: https://github.com/nagejacob/SpatiallyAdaptiveSSID
 - Tags: Self-Supervised
 
@@ -210,8 +220,8 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper:
 - Code: https://github.com/RQ-Wu/RIDCP
 
-**Curricular Contrastive Regularization for Physics-aware Single Image Dehazing **
-- Paper:
+**Curricular Contrastive Regularization for Physics-aware Single Image Dehazing**
+- Paper: https://arxiv.org/abs/2303.14218
 - Code: https://github.com/YuZheng9/C2PNet
 
 **Video Dehazing via a Multi-Range Temporal Alignment Network with Physical Prior**
@@ -259,7 +269,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Tags: Event-based
 
 **Joint Video Multi-Frame Interpolation and Deblurring under Unknown Exposure Time**
-- Paper: https://github.com/shangwei5/VIDUE/blob/main/paper/main.pdf
+- Paper: https://arxiv.org/abs/2303.15043
 - Code: https://github.com/shangwei5/VIDUE
 - Tags: Frame Interpolation and Deblurring
 
@@ -320,19 +330,34 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger**
 - Paper: https://arxiv.org/abs/2302.14677
 
+**Context-based Trit-Plane Coding for Progressive Image Compression**
+- Paper: https://arxiv.org/abs/2303.05715
+- Code: https://github.com/seungminjeon-github/CTC
+
+**Learned Image Compression with Mixed Transformer-CNN Architectures**
+- Paper: https://arxiv.org/abs/2303.14978
+- Code: https://github.com/jmliu206/LIC_TCM
+
+## Video Compression
+
 **Neural Video Compression with Diverse Contexts**
 - Paper: https://github.com/microsoft/DCVC
 - Code: https://arxiv.org/abs/2302.14402
 
-**Context-based Trit-Plane Coding for Progressive Image Compression**
-- Paper: https://arxiv.org/abs/2303.05715
-- Code: https://github.com/seungminjeon-github/CTC
 
 <a name="ImageQualityAssessment"></a>
 # Image Quality Assessment - 图像质量评价
 
 **Quality-aware Pre-trained Models for Blind Image Quality Assessment**
 - Paper: https://arxiv.org/abs/2303.00521
+
+**Blind Image Quality Assessment via Vision-Language Correspondence: A Multitask Learning Perspective**
+- Paper: https://arxiv.org/abs/2303.14968
+- Code: https://github.com/zwx8981/LIQE
+
+**Towards Artistic Image Aesthetics Assessment: a Large-scale Dataset and a New Method**
+- Paper: https://arxiv.org/abs/2303.15166
+- Code: https://github.com/Dreemurr-T/BAID
 
 
 <a name="StyleTransfer"></a>
@@ -385,6 +410,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 **MAGVLT: Masked Generative Vision-and-Language Transformer**
 - Paper: https://arxiv.org/abs/2303.12208
+
+**Freestyle Layout-to-Image Synthesis**
+- Paper: https://arxiv.org/abs/2303.14412
+- Code: https://github.com/essunny310/FreestyleNet
 
 ## Image-to-Image / Image Guided
 
@@ -461,6 +490,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Unifying Layout Generation with a Decoupled Diffusion Model**
 - Paper: https://arxiv.org/abs/2303.05049
 
+**Unsupervised Domain Adaption with Pixel-level Discriminator for Image-aware Layout Generation**
+- Paper: https://arxiv.org/abs/2303.14377
+
 **Blind Video Deflickering by Neural Filtering with a Flawed Atlas**
 - Paper: https://arxiv.org/abs/2303.08120
 - Code: https://github.com/ChenyangLEI/All-In-One-Deflicker
@@ -487,3 +519,16 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.14017
 - Code: https://github.com/wangchi95/CF-Font
 - Tags: Font Generation
+
+**DeepVecFont-v2: Exploiting Transformers to Synthesize Vector Fonts with Higher Quality**
+- Paper: https://arxiv.org/abs/2303.14585
+- Code: https://github.com/yizhiwang96/deepvecfont-v2
+
+**Handwritten Text Generation from Visual Archetypes**
+- Paper: https://arxiv.org/abs/2303.15269
+- Tags: Handwriting Generation
+
+**Disentangling Writer and Character Styles for Handwriting Generation**
+- Paper: https://arxiv.org/abs/2303.14736
+- Code: https://github.com/dailenson/SDT
+- Tags: Handwriting Generation
