@@ -70,7 +70,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 - [Others](#Others)
 
-- [NITRE](#NTIRE)
+- [NTIRE](#NTIRE)
 
 <a name="ImageRetoration"></a>
 # Image Restoration - 图像恢复
