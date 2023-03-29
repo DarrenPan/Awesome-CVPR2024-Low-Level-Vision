@@ -149,6 +149,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/csxmli2016/MARCONet
 - Tags: Text SR
 
+**Guided Depth Super-Resolution by Deep Anisotropic Diffusion**
+- Paper: https://arxiv.org/abs/2211.11592
+- Code: https://github.com/prs-eth/Diffusion-Super-Resolution
+- Tags: Guided Depth SR
 
 <a name="VideoSuperResolution"></a>
 ## Video Super Resolution
@@ -415,6 +419,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.14412
 - Code: https://github.com/essunny310/FreestyleNet
 
+**Variational Distribution Learning for Unsupervised Text-to-Image Generation**
+- Paper: https://arxiv.org/abs/2303.16105
+
 ## Image-to-Image / Image Guided
 
 **LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data**
@@ -492,6 +499,14 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 **Unsupervised Domain Adaption with Pixel-level Discriminator for Image-aware Layout Generation**
 - Paper: https://arxiv.org/abs/2303.14377
+
+**PosterLayout: A New Benchmark and Approach for Content-aware Visual-Textual Presentation Layout**
+- Paper: https://arxiv.org/abs/2303.15937
+- Code: https://github.com/PKU-ICST-MIPL/PosterLayout-CVPR2023
+
+**LayoutDM: Discrete Diffusion Model for Controllable Layout Generation**
+- Paper: https://arxiv.org/abs/2303.08137
+- Code: https://github.com/CyberAgentAILab/layout-dm
 
 **Blind Video Deflickering by Neural Filtering with a Flawed Atlas**
 - Paper: https://arxiv.org/abs/2303.08120
