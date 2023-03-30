@@ -140,6 +140,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.13069
 - Code: https://github.com/ChrisDud0257/PosNegGT
 
+**Implicit Diffusion Models for Continuous Super-Resolution**
+- Paper: https://arxiv.org/abs/2303.16491
+- Code: https://github.com/Ree1s/IDM
+
 **Zero-Shot Dual-Lens Super-Resolution**
 - Paper:
 - Code: https://github.com/XrKang/ZeDuSR
@@ -180,6 +184,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.14934
 - Cdoe: https://github.com/nagejacob/SpatiallyAdaptiveSSID
 - Tags: Self-Supervised
+
+**Real-time Controllable Denoising for Image and Video**
+- Paper: https://arxiv.org/pdf/2303.16425.pdf
+
 
 <!-- 
 <a name="VideoDenoising"></a>
@@ -435,6 +443,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Picture that Sketch: Photorealistic Image Generation from Abstract Sketches**
 - Paper: https://arxiv.org/abs/2303.11162
 
+**Fine-Grained Face Swapping via Regional GAN Inversion**
+- Paper: https://arxiv.org/abs/2211.14068
+- Code: https://github.com/e4s2022/e4s
+
 ## Others for image generation
 
 **AdaptiveMix: Robust Feature Representation via Shrinking Feature Space**
@@ -460,6 +472,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: 
 - Code: https://github.com/yunqing-me/RICK
 
+**Post-training Quantization on Diffusion Models**
+- Paper: https://arxiv.org/abs/2211.15736
+- Code: https://github.com/42Shawn/PTQ4DM
 
 <a name="VideoGeneration"></a>
 ## Video Generation
