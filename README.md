@@ -144,6 +144,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.16491
 - Code: https://github.com/Ree1s/IDM
 
+**Structured Sparsity Learning for Efficient Video Super-Resolution**
+- Paper: https://github.com/Zj-BinXia/SSL
+- Code: https://arxiv.org/abs/2206.07687
+
 **Zero-Shot Dual-Lens Super-Resolution**
 - Paper:
 - Code: https://github.com/XrKang/ZeDuSR
@@ -211,6 +215,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Neumann Network with Recursive Kernels for Single Image Defocus Deblurring**
 - Paper:
 - Code: https://github.com/csZcWu/NRKNet
+
+**Efficient Frequency Domain-based Transformers for High-Quality Image Deblurring**
+- Paper: https://arxiv.org/abs/2211.12250
+- Code: https://github.com/kkkls/FFTformer
 
 <!--
 <a name="VideoDeblurring"></a>
@@ -383,6 +391,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.13511
 - Code: https://github.com/ZHKKKe/NeuralPreset
 
+**CAP-VSTNet: Content Affinity Preserved Versatile Style Transfer**
+- Paper: https://arxiv.org/abs/2303.17867
+
 <a name="ImageEditing"></a>
 # Image Editing - 图像编辑
 
@@ -430,6 +441,11 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Variational Distribution Learning for Unsupervised Text-to-Image Generation**
 - Paper: https://arxiv.org/abs/2303.16105
 
+**Sound to Visual Scene Generation by Audio-to-Visual Latent Alignment**
+- Paper: https://arxiv.org/abs/2303.17490
+- Project: https://sound2scene.github.io/
+
+
 ## Image-to-Image / Image Guided
 
 **LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data**
@@ -446,6 +462,11 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Fine-Grained Face Swapping via Regional GAN Inversion**
 - Paper: https://arxiv.org/abs/2211.14068
 - Code: https://github.com/e4s2022/e4s
+
+**Masked and Adaptive Transformer for Exemplar Based Image Translation**
+- Paper: https://arxiv.org/abs/2303.17123
+- Code: https://github.com/AiArt-HDU/MATEBIT
+
 
 ## Others for image generation
 
@@ -475,6 +496,15 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Post-training Quantization on Diffusion Models**
 - Paper: https://arxiv.org/abs/2211.15736
 - Code: https://github.com/42Shawn/PTQ4DM
+
+**LayoutDiffusion: Controllable Diffusion Model for Layout-to-image Generation**
+- Paper: https://arxiv.org/abs/2303.17189
+- Code: https://github.com/ZGCTroy/LayoutDiffusion
+
+**DiffCollage: Parallel Generation of Large Content with Diffusion Models**
+- Paper: https://arxiv.org/abs/2303.17076
+- Project: https://research.nvidia.com/labs/dir/diffcollage/
+
 
 <a name="VideoGeneration"></a>
 ## Video Generation
@@ -562,3 +592,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.14736
 - Code: https://github.com/dailenson/SDT
 - Tags: Handwriting Generation
+
+**Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert**
+- Paper: https://arxiv.org/abs/2303.17480
+- Code: https://github.com/Sxjdwang/TalkLip
