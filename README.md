@@ -99,10 +99,15 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration**
 - Paper: https://arxiv.org/abs/2303.06885
 
-<!-- 
 <a name="BurstRestoration"></a>
 ## Burst Restoration
 
+**Burstormer: Burst Image Restoration and Enhancement Transformer**
+- Paper: https://arxiv.org/abs/2304.01194
+- Code: https://github.com/akshaydudhane16/Burstormer
+
+
+<!-- 
 <a name="VideoRestoration"></a>
 ## Video Restoration
 
@@ -144,10 +149,6 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.16491
 - Code: https://github.com/Ree1s/IDM
 
-**Structured Sparsity Learning for Efficient Video Super-Resolution**
-- Paper: https://github.com/Zj-BinXia/SSL
-- Code: https://arxiv.org/abs/2206.07687
-
 **Zero-Shot Dual-Lens Super-Resolution**
 - Paper:
 - Code: https://github.com/XrKang/ZeDuSR
@@ -169,10 +170,17 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.08331
 - Code: https://github.com/coulsonlee/STDO-CVPR2023
 
-<!-- 
+**Structured Sparsity Learning for Efficient Video Super-Resolution**
+- Paper: https://github.com/Zj-BinXia/SSL
+- Code: https://arxiv.org/abs/2206.07687
+
 <a name="Rescaling"></a>
 # Image Rescaling - 图像缩放
--->
+
+**HyperThumbnail: Real-time 6K Image Rescaling with Rate-distortion Optimization**
+- Paper: https://arxiv.org/abs/2304.01064
+- Code: https://github.com/AbnerVictor/HyperThumbnail
+
 
 <a name="Denoising"></a>
 # Denoising - 去噪
@@ -187,6 +195,11 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Spatially Adaptive Self-Supervised Learning for Real-World Image Denoising**
 - Paper: https://arxiv.org/abs/2303.14934
 - Cdoe: https://github.com/nagejacob/SpatiallyAdaptiveSSID
+- Tags: Self-Supervised
+
+**LG-BPN: Local and Global Blind-Patch Network for Self-Supervised Real-World Denoising**
+- Paper: https://arxiv.org/abs/2304.00534
+- Code: https://github.com/Wang-XIaoDingdd/LGBPN
 - Tags: Self-Supervised
 
 **Real-time Controllable Denoising for Image and Video**
@@ -378,6 +391,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Towards Artistic Image Aesthetics Assessment: a Large-scale Dataset and a New Method**
 - Paper: https://arxiv.org/abs/2303.15166
 - Code: https://github.com/Dreemurr-T/BAID
+
+**Re-IQA: Unsupervised Learning for Image Quality Assessment in the Wild**
+- Paper: https://arxiv.org/abs/2304.00451
 
 
 <a name="StyleTransfer"></a>
