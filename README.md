@@ -76,6 +76,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.06859
 - Code: https://github.com/lixinustc/Casual-IRDIL
 
+**Generative Diffusion Prior for Unified Image Restoration and Enhancement**
+- Paper: https://arxiv.org/abs/2304.01247
+- Code: https://github.com/Fayeben/GenerativeDiffusionPrior
+
 **Contrastive Semi-supervised Learning for Underwater Image Restoration via Reliable Bank**
 - Paper: https://arxiv.org/abs/2303.09101
 - Code: https://github.com/Huang-ShiRui/Semi-UIR
@@ -288,7 +292,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/srcn-ivl/UPR-Net
 
 **BiFormer: Learning Bilateral Motion Estimation via Bilateral Transformer for 4K Video Frame Interpolation**
-- Paper:
+- Paper: https://arxiv.org/abs/2304.02225
 - Code: https://github.com/JunHeum/BiFormer
 
 **Event-based Video Frame Interpolation with Cross-Modal Asymmetric Bidirectional Motion Fields**
@@ -461,6 +465,8 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.17490
 - Project: https://sound2scene.github.io/
 
+**Toward Verifiable and Reproducible Human Evaluation for Text-to-Image Generation**
+- Paper: https://arxiv.org/abs/2304.01816
 
 ## Image-to-Image / Image Guided
 
@@ -482,7 +488,6 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Masked and Adaptive Transformer for Exemplar Based Image Translation**
 - Paper: https://arxiv.org/abs/2303.17123
 - Code: https://github.com/AiArt-HDU/MATEBIT
-
 
 ## Others for image generation
 
@@ -520,6 +525,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **DiffCollage: Parallel Generation of Large Content with Diffusion Models**
 - Paper: https://arxiv.org/abs/2303.17076
 - Project: https://research.nvidia.com/labs/dir/diffcollage/
+
+**Few-shot Semantic Image Synthesis with Class Affinity Transfer**
+- Paper: https://arxiv.org/abs/2304.02321
 
 
 <a name="VideoGeneration"></a>
