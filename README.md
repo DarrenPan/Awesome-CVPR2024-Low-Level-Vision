@@ -90,6 +90,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/ykdai/BracketFlare
 - Tags: Reflective Flare Removal
 
+
 ## Image Reconstruction
 
 **Raw Image Reconstruction with Learned Compact Metadata**
@@ -110,12 +111,14 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2304.01194
 - Code: https://github.com/akshaydudhane16/Burstormer
 
-
-<!-- 
 <a name="VideoRestoration"></a>
 ## Video Restoration
 
--->
+**Blind Video Deflickering by Neural Filtering with a Flawed Atlas**
+- Paper: https://arxiv.org/abs/2303.08120
+- Code: https://github.com/ChenyangLEI/All-In-One-Deflicker
+- Tags: Deflickering 
+
 
 <a name="SuperResolution"></a>
 # Super Resolution - 超分辨率
@@ -414,6 +417,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **CAP-VSTNet: Content Affinity Preserved Versatile Style Transfer**
 - Paper: https://arxiv.org/abs/2303.17867
 
+**StyleGAN Salon: Multi-View Latent Optimization for Pose-Invariant Hairstyle Transfer**
+- Paper: https://arxiv.org/abs/2304.02744
+- Project: https://stylegan-salon.github.io/
+
 <a name="ImageEditing"></a>
 # Image Editing - 图像编辑
 
@@ -489,6 +496,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.17123
 - Code: https://github.com/AiArt-HDU/MATEBIT
 
+**Zero-shot Generative Model Adaptation via Image-specific Prompt Learning**
+- Paper: https://arxiv.org/abs/2304.03119
+- Code: https://github.com/Picsart-AI-Research/IPL-Zero-Shot-Generative-Model-Adaptation
+
 ## Others for image generation
 
 **AdaptiveMix: Robust Feature Representation via Shrinking Feature Space**
@@ -559,6 +570,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 <a name="Others"></a>
 ## Others
 
+**DC2: Dual-Camera Defocus Control by Learning to Refocus**
+- Paper: https://arxiv.org/abs/2304.03285
+- Project: https://defocus-control.github.io/
+
 **Images Speak in Images: A Generalist Painter for In-Context Visual Learning**
 - Paper: https://arxiv.org/abs/2212.02499
 - Code: https://github.com/baaivision/Painter
@@ -576,11 +591,6 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **LayoutDM: Discrete Diffusion Model for Controllable Layout Generation**
 - Paper: https://arxiv.org/abs/2303.08137
 - Code: https://github.com/CyberAgentAILab/layout-dm
-
-**Blind Video Deflickering by Neural Filtering with a Flawed Atlas**
-- Paper: https://arxiv.org/abs/2303.08120
-- Code: https://github.com/ChenyangLEI/All-In-One-Deflicker
-- Tags: Deflickering 
 
 **Make-A-Story: Visual Memory Conditioned Consistent Story Generation**
 - Paper: https://arxiv.org/abs/2211.13319
@@ -620,3 +630,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert**
 - Paper: https://arxiv.org/abs/2303.17480
 - Code: https://github.com/Sxjdwang/TalkLip
+
+**Uncurated Image-Text Datasets: Shedding Light on Demographic Bias**
+- Paper: https://arxiv.org/abs/2304.02828
+- Code: https://github.com/noagarcia/phase
