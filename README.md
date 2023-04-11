@@ -261,7 +261,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 # Dehazing - 去雾
 
 **RIDCP: Revitalizing Real Image Dehazing via High-Quality Codebook Priors**
-- Paper:
+- Paper: https://arxiv.org/abs/2304.03994
 - Code: https://github.com/RQ-Wu/RIDCP
 
 **Curricular Contrastive Regularization for Physics-aware Single Image Dehazing**
@@ -424,6 +424,11 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **StyleGAN Salon: Multi-View Latent Optimization for Pose-Invariant Hairstyle Transfer**
 - Paper: https://arxiv.org/abs/2304.02744
 - Project: https://stylegan-salon.github.io/
+
+**Modernizing Old Photos Using Multiple References via Photorealistic Style Transfer**
+- Paper: https://arxiv.org/abs/2304.04461
+- Project: https://kaist-viclab.github.io/old-photo-modernization/
+
 
 <a name="ImageEditing"></a>
 # Image Editing - 图像编辑
