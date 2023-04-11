@@ -80,6 +80,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2304.01247
 - Code: https://github.com/Fayeben/GenerativeDiffusionPrior
 
+**DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration**
+- Paper: https://arxiv.org/abs/2303.06885
+
 **Contrastive Semi-supervised Learning for Underwater Image Restoration via Reliable Bank**
 - Paper: https://arxiv.org/abs/2303.09101
 - Code: https://github.com/Huang-ShiRui/Semi-UIR
@@ -100,9 +103,6 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **High-resolution image reconstruction with latent diffusion models from human brain activity**
 - Paper: https://www.biorxiv.org/content/10.1101/2022.11.18.517004v2
 - Code: https://github.com/yu-takagi/StableDiffusionReconstruction
-
-**DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration**
-- Paper: https://arxiv.org/abs/2303.06885
 
 <a name="BurstRestoration"></a>
 ## Burst Restoration
