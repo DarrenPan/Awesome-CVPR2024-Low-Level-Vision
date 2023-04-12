@@ -484,6 +484,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Toward Verifiable and Reproducible Human Evaluation for Text-to-Image Generation**
 - Paper: https://arxiv.org/abs/2304.01816
 
+**Shifted Diffusion for Text-to-image Generation**
+- Paper: https://arxiv.org/abs/2211.15388
+- Code: https://github.com/drboog/Shifted_Diffusion
+
 ## Image-to-Image / Image Guided
 
 **LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data**
