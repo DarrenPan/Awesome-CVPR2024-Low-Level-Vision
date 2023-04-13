@@ -93,6 +93,15 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/ykdai/BracketFlare
 - Tags: Reflective Flare Removal
 
+**Generating Aligned Pseudo-Supervision from Non-Aligned Data for Image Restoration in Under-Display Camera**
+- Paper: https://arxiv.org/abs/2304.06019
+- Code: https://github.com/jnjaby/AlignFormer
+
+**GamutMLP - A Lightweight MLP for Color Loss Recovery**
+- Paper:
+- Code: https://github.com/hminle/gamut-mlp
+- Tags: restore wide-gamut color values
+
 
 ## Image Reconstruction
 
@@ -349,6 +358,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Referring Image Matting**
 - Paper: https://arxiv.org/abs/2206.05149
 - Code: https://github.com/JizhiziLi/RIM
+
+**Adaptive Human Matting for Dynamic Videos**
+- Paper: https://arxiv.org/abs/2304.06018
+- Code: https://github.com/microsoft/AdaM
 
 
 <a name="ShadowRemoval"></a>
