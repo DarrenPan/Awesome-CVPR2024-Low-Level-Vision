@@ -120,6 +120,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2304.01194
 - Code: https://github.com/akshaydudhane16/Burstormer
 
+**Gated Multi-Resolution Transfer Network for Burst Restoration and Enhancement**
+- Paper: https://arxiv.org/abs/2304.06703
+
 <a name="VideoRestoration"></a>
 ## Video Restoration
 
@@ -172,6 +175,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Zero-Shot Dual-Lens Super-Resolution**
 - Paper:
 - Code: https://github.com/XrKang/ZeDuSR
+
+**CABM: Content-Aware Bit Mapping for Single Image Super-Resolution Network with Large Input**
+- Paper: https://arxiv.org/abs/2304.06454
 
 **Learning Generative Structure Prior for Blind Text Image Super-resolution**
 - Paper: https://arxiv.org/abs/2303.14726
@@ -464,6 +470,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.13062
 - Code: https://github.com/WuyangLuo/SIEDOB
 
+**DiffusionRig: Learning Personalized Priors for Facial Appearance Editing**
+- Paper: https://arxiv.org/abs/2304.06711
+- Code: https://github.com/adobe-research/diffusion-rig
+
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
 ## Text-to-Image / Text Guided / Multi-Modal
@@ -565,6 +575,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 **Few-shot Semantic Image Synthesis with Class Affinity Transfer**
 - Paper: https://arxiv.org/abs/2304.02321
+
+**NoisyTwins: Class-Consistent and Diverse Image Generation through StyleGANs**
+- Paper: https://arxiv.org/abs/2304.05866
+- Code: https://github.com/val-iisc/NoisyTwins
 
 
 <a name="VideoGeneration"></a>
