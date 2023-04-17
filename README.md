@@ -83,6 +83,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration**
 - Paper: https://arxiv.org/abs/2303.06885
 
+**Bitstream-Corrupted JPEG Images are Restorable: Two-stage Compensation and Alignment Framework for Image Restoration**
+- Paper: https://arxiv.org/abs/2304.06976
+- Code: https://github.com/wenyang001/Two-ACIR
+
 **Contrastive Semi-supervised Learning for Underwater Image Restoration via Reliable Bank**
 - Paper: https://arxiv.org/abs/2303.09101
 - Code: https://github.com/Huang-ShiRui/Semi-UIR
@@ -301,6 +305,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.13031
 - Code: https://github.com/AndreGuo/HDRTVDM
 
+**SMAE: Few-shot Learning for HDR Deghosting with Saturation-Aware Masked Autoencoders**
+- Paper: https://arxiv.org/abs/2304.06914
+
 
 <a name="FrameInterpolation"></a>
 # Frame Interpolation - 插帧
@@ -339,7 +346,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 ## Low-Light Image Enhancement
 
 **Learning Semantic-Aware Knowledge Guidance for Low-Light Image Enhancement**
-- Paper:
+- Paper: https://arxiv.org/abs/2304.07039
 - Code: https://github.com/langmanbusi/Semantic-Aware-Low-Light-Image-Enhancement
 
 **Visibility Constrained Wide-band Illumination Spectrum Design for Seeing-in-the-Dark**
@@ -447,6 +454,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Modernizing Old Photos Using Multiple References via Photorealistic Style Transfer**
 - Paper: https://arxiv.org/abs/2304.04461
 - Project: https://kaist-viclab.github.io/old-photo-modernization/
+
+**QuantArt: Quantizing Image Style Transfer Towards High Visual Fidelity**
+- Paper: https://arxiv.org/abs/2212.10431
+- Code: https://github.com/siyuhuang/QuantArt
 
 
 <a name="ImageEditing"></a>
@@ -580,6 +591,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2304.05866
 - Code: https://github.com/val-iisc/NoisyTwins
 
+**DCFace: Synthetic Face Generation with Dual Condition Diffusion Model**
+- Paper: https://arxiv.org/abs/2304.07060
+- Code: https://github.com/mk-minchul/dcface
 
 <a name="VideoGeneration"></a>
 ## Video Generation
@@ -604,11 +618,15 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/man805/Diffusion-Video-Autoencoders
 
 **MoStGAN: Video Generation with Temporal Motion Styles**
-- Paper:
+- Paper: https://arxiv.org/abs/2304.02777
 - Code: https://github.com/xiaoqian-shen/MoStGAN
 
 <a name="Others"></a>
 ## Others
+
+**Perspective Fields for Single Image Camera Calibration**
+- Paper: https://arxiv.org/abs/2212.03239
+- Code: https://github.com/jinlinyi/PerspectiveFields
 
 **DC2: Dual-Camera Defocus Control by Learning to Refocus**
 - Paper: https://arxiv.org/abs/2304.03285
