@@ -291,6 +291,11 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.09757
 - Code: https://github.com/jiaqixuac/MAP-Net
 
+**SCANet: Self-Paced Semi-Curricular Attention Network for Non-Homogeneous Image Dehazing**
+ - Paper: https://arxiv.org/abs/2304.08444
+ - Code: https://github.com/gy65896/SCANet
+ - Tags: [Workshop]
+
 <!--
 
 <a name="Demosaicing"></a>
@@ -308,6 +313,8 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **SMAE: Few-shot Learning for HDR Deghosting with Saturation-Aware Masked Autoencoders**
 - Paper: https://arxiv.org/abs/2304.06914
 
+**A Unified HDR Imaging Method with Pixel and Patch Level**
+- Paper: https://arxiv.org/abs/2304.06943
 
 <a name="FrameInterpolation"></a>
 # Frame Interpolation - 插帧
@@ -594,6 +601,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **DCFace: Synthetic Face Generation with Dual Condition Diffusion Model**
 - Paper: https://arxiv.org/abs/2304.07060
 - Code: https://github.com/mk-minchul/dcface
+
+**Exploring Incompatible Knowledge Transfer in Few-shot Image Generation**
+- Paper: https://arxiv.org/abs/2304.07574
+- Code: https://github.com/yunqing-me/RICK
 
 <a name="VideoGeneration"></a>
 ## Video Generation
