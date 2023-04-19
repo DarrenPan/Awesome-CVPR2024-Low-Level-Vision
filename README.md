@@ -193,6 +193,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/prs-eth/Diffusion-Super-Resolution
 - Tags: Guided Depth SR
 
+**Quantum Annealing for Single Image Super-Resolution**
+- Paper: https://arxiv.org/abs/2304.08924
+- Tags: [Workshop]
+
 <a name="VideoSuperResolution"></a>
 ## Video Super Resolution
 
@@ -631,6 +635,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **MoStGAN: Video Generation with Temporal Motion Styles**
 - Paper: https://arxiv.org/abs/2304.02777
 - Code: https://github.com/xiaoqian-shen/MoStGAN
+
+**Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models**
+- Paper: https://arxiv.org/abs/2304.08818
+
 
 <a name="Others"></a>
 ## Others
