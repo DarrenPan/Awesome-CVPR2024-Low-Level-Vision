@@ -335,6 +335,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2304.02225
 - Code: https://github.com/JunHeum/BiFormer
 
+**AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation**
+- Paper: https://arxiv.org/abs/2304.09790
+- Code: https://github.com/MCG-NKU/AMT
+
 **Event-based Video Frame Interpolation with Cross-Modal Asymmetric Bidirectional Motion Fields**
 - Paper:
 - Code: https://github.com/intelpro/CBMNet
