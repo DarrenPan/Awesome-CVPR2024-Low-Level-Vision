@@ -151,7 +151,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/rami0205/NGramSwin
 
 **Omni Aggregation Networks for Lightweight Image Super-Resolution**
-- Paper: 
+- Paper: https://arxiv.org/abs/2304.10244
 - Code: https://github.com/Francis0625/Omni-SR
 
 **OPE-SR: Orthogonal Position Encoding for Designing a Parameter-free Upsampling Module in Arbitrary-scale Image Super-Resolution**
@@ -537,6 +537,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2211.15388
 - Code: https://github.com/drboog/Shifted_Diffusion
 
+**Collaborative Diffusion for Multi-Modal Face Generation and Editing**
+- Paper: https://arxiv.org/abs/2304.10530
+- Code: https://github.com/ziqihuangg/Collaborative-Diffusion
+
 ## Image-to-Image / Image Guided
 
 **LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data**
@@ -659,20 +663,6 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2212.02499
 - Code: https://github.com/baaivision/Painter
 
-**Unifying Layout Generation with a Decoupled Diffusion Model**
-- Paper: https://arxiv.org/abs/2303.05049
-
-**Unsupervised Domain Adaption with Pixel-level Discriminator for Image-aware Layout Generation**
-- Paper: https://arxiv.org/abs/2303.14377
-
-**PosterLayout: A New Benchmark and Approach for Content-aware Visual-Textual Presentation Layout**
-- Paper: https://arxiv.org/abs/2303.15937
-- Code: https://github.com/PKU-ICST-MIPL/PosterLayout-CVPR2023
-
-**LayoutDM: Discrete Diffusion Model for Controllable Layout Generation**
-- Paper: https://arxiv.org/abs/2303.08137
-- Code: https://github.com/CyberAgentAILab/layout-dm
-
 **Make-A-Story: Visual Memory Conditioned Consistent Story Generation**
 - Paper: https://arxiv.org/abs/2211.13319
 - Code: https://github.com/ubc-vision/Make-A-Story
@@ -689,6 +679,32 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper:
 - Code: https://github.com/EliotChenKJ/Guided-Correspondence-Loss
 - Tags: Texture Synthesis
+
+**Uncurated Image-Text Datasets: Shedding Light on Demographic Bias**
+- Paper: https://arxiv.org/abs/2304.02828
+- Code: https://github.com/noagarcia/phase
+
+## Talking Head Generation
+
+**Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert**
+- Paper: https://arxiv.org/abs/2303.17480
+- Code: https://github.com/Sxjdwang/TalkLip
+
+**High-Fidelity and Freely Controllable Talking Head Video Generation**
+- Paper: https://arxiv.org/abs/2304.10168
+- Code: https://github.com/hologerry/PECHead
+
+**MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation**
+- Paper: https://arxiv.org/abs/2212.08062
+- Code: https://github.com/Meta-Portrait/MetaPortrait
+
+## Virtual Try-on
+
+**GP-VTON: Towards General Purpose Virtual Try-on via Collaborative Local-Flow Global-Parsing Learning**
+- Paper: https://arxiv.org/abs/2303.13756
+- Code: https://github.com/xiezhy6/GP-VTON
+
+## Handwriting/Font Generation
 
 **CF-Font: Content Fusion for Few-shot Font Generation**
 - Paper: https://arxiv.org/abs/2303.14017
@@ -708,10 +724,18 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/dailenson/SDT
 - Tags: Handwriting Generation
 
-**Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert**
-- Paper: https://arxiv.org/abs/2303.17480
-- Code: https://github.com/Sxjdwang/TalkLip
+## Layout Generation
 
-**Uncurated Image-Text Datasets: Shedding Light on Demographic Bias**
-- Paper: https://arxiv.org/abs/2304.02828
-- Code: https://github.com/noagarcia/phase
+**Unifying Layout Generation with a Decoupled Diffusion Model**
+- Paper: https://arxiv.org/abs/2303.05049
+
+**Unsupervised Domain Adaption with Pixel-level Discriminator for Image-aware Layout Generation**
+- Paper: https://arxiv.org/abs/2303.14377
+
+**PosterLayout: A New Benchmark and Approach for Content-aware Visual-Textual Presentation Layout**
+- Paper: https://arxiv.org/abs/2303.15937
+- Code: https://github.com/PKU-ICST-MIPL/PosterLayout-CVPR2023
+
+**LayoutDM: Discrete Diffusion Model for Controllable Layout Generation**
+- Paper: https://arxiv.org/abs/2303.08137
+- Code: https://github.com/CyberAgentAILab/layout-dm
