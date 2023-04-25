@@ -102,10 +102,14 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/jnjaby/AlignFormer
 
 **GamutMLP - A Lightweight MLP for Color Loss Recovery**
-- Paper:
+- Paper: https://arxiv.org/abs/2304.11743
 - Code: https://github.com/hminle/gamut-mlp
 - Tags: restore wide-gamut color values
 
+**ABCD : Arbitrary Bitwise Coefficient for De-quantization**
+- Paper: https://ipl.dgist.ac.kr/ABCD_cvpr23.pdf
+- Code: https://github.com/WooKyoungHan/ABCD
+- Tags: De-quantization/Bit depth expansion
 
 ## Image Reconstruction
 
@@ -474,6 +478,8 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2212.10431
 - Code: https://github.com/siyuhuang/QuantArt
 
+**Master: Meta Style Transformer for Controllable Zero-Shot and Few-Shot Artistic Style Transfer**
+- Paper: https://arxiv.org/abs/2304.11818
 
 <a name="ImageEditing"></a>
 # Image Editing - 图像编辑
@@ -683,6 +689,12 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Uncurated Image-Text Datasets: Shedding Light on Demographic Bias**
 - Paper: https://arxiv.org/abs/2304.02828
 - Code: https://github.com/noagarcia/phase
+
+**Large-capacity and Flexible Video Steganography via Invertible Neural Network**
+- Paper: https://arxiv.org/abs/2304.12300
+- Code: https://github.com/MC-E/LF-VSN
+- Tags: Steganography 
+
 
 ## Talking Head Generation
 
