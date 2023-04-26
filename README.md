@@ -324,6 +324,11 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **A Unified HDR Imaging Method with Pixel and Patch Level**
 - Paper: https://arxiv.org/abs/2304.06943
 
+**Inverting the Imaging Process by Learning an Implicit Camera Model**
+- Paper: https://arxiv.org/abs/2304.12748
+- Code: https://github.com/xhuangcv/neucam
+- Tags: generating all-in-focus photos & HDR imaging
+
 <a name="FrameInterpolation"></a>
 # Frame Interpolation - 插帧
 
