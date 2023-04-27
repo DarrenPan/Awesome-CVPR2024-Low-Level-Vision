@@ -4,11 +4,11 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 ## Related collections for low-level vision
 - [Awesome-CVPR2022-Low-Level-Vision](https://github.com/DarrenPan/Awesome-CVPR2023-Low-Level-Vision/blob/main/CVPR2022-Low-Level-Vision.md)
+- [Awesome-NeurIPS2022/2021-Low-Level-Vision](https://github.com/DarrenPan/Awesome-NeurIPS2022-Low-Level-Vision)
 - [Awesome-ECCV2022-Low-Level-Vision](https://github.com/DarrenPan/Awesome-ECCV2022-Low-Level-Vision)
 - [Awesome-AAAI2022-Low-Level-Vision](https://github.com/DarrenPan/Awesome-AAAI2022-Low-Level-Vision)
-- [Awesome-NeurIPS2021-Low-Level-Vision](https://github.com/DarrenPan/Awesome-NeurIPS2021-Low-Level-Vision)
 - [Awesome-ICCV2021-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Vision)
-- [Awesome-CVPR2021/CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2021-CVPR2020-Low-Level-Vision)
+- [Awesome-CVPR2021/2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2021-CVPR2020-Low-Level-Vision)
 - [Awesome-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2020-Low-Level-Vision)
 
 
@@ -65,7 +65,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - [Others](#Others)
 
 <a name="ImageRetoration"></a>
-# Image Restoration - 图像恢复
+# Image Restoration - 图像恢复 [[back](#catalogue)]
 
 **Efficient and Explicit Modelling of Image Hierarchies for Image Restoration**
 - Paper: https://arxiv.org/abs/2303.00748
@@ -141,7 +141,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 
 <a name="SuperResolution"></a>
-# Super Resolution - 超分辨率
+# Super Resolution - 超分辨率 [[back](#catalogue)]
 <a name="ImageSuperResolution"></a>
 ## Image Super Resolution
 
@@ -213,7 +213,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://arxiv.org/abs/2206.07687
 
 <a name="Rescaling"></a>
-# Image Rescaling - 图像缩放
+# Image Rescaling - 图像缩放 [[back](#catalogue)]
 
 **HyperThumbnail: Real-time 6K Image Rescaling with Rate-distortion Optimization**
 - Paper: https://arxiv.org/abs/2304.01064
@@ -221,7 +221,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 
 <a name="Denoising"></a>
-# Denoising - 去噪
+# Denoising - 去噪 [[back](#catalogue)]
 
 <a name="ImageDenoising"></a>
 ## Image Denoising
@@ -251,7 +251,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 -->
 
 <a name="Deblurring"></a>
-# Deblurring - 去模糊
+# Deblurring - 去模糊 [[back](#catalogue)]
 <a name="ImageDeblurring"></a>
 ## Image Deblurring
 
@@ -278,14 +278,14 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 -->
 
 <a name="Deraining"></a>
-# Deraining - 去雨
+# Deraining - 去雨 [[back](#catalogue)]
 
 **Learning A Sparse Transformer Network for Effective Image Deraining**
 - Paper: https://arxiv.org/abs/2303.11950
 - Code: https://github.com/cschenxiang/DRSformer
 
 <a name="Dehazing"></a>
-# Dehazing - 去雾
+# Dehazing - 去雾 [[back](#catalogue)]
 
 **RIDCP: Revitalizing Real Image Dehazing via High-Quality Codebook Priors**
 - Paper: https://arxiv.org/abs/2304.03994
@@ -304,15 +304,19 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
  - Code: https://github.com/gy65896/SCANet
  - Tags: [Workshop]
 
+**Streamlined Global and Local Features Combinator (SGLC) for High Resolution Image Dehazing**
+- Paper: https://arxiv.org/abs/2304.13375
+- Tags: [Workshop]
+
 <!--
 
 <a name="Demosaicing"></a>
-# Demosaicing - 去马赛克
+# Demosaicing - 去马赛克 [[back](#catalogue)]
 
 -->
 
  <a name="HDR"></a>
-# HDR Imaging / Multi-Exposure Image Fusion - HDR图像生成 / 多曝光图像融合
+# HDR Imaging / Multi-Exposure Image Fusion - HDR图像生成 / 多曝光图像融合 [[back](#catalogue)]
 
 **Learning a Practical SDR-to-HDRTV Up-conversion using New Dataset and Degradation Models**
 - Paper: https://arxiv.org/abs/2303.13031
@@ -330,7 +334,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Tags: generating all-in-focus photos & HDR imaging
 
 <a name="FrameInterpolation"></a>
-# Frame Interpolation - 插帧
+# Frame Interpolation - 插帧 [[back](#catalogue)]
 
 **Extracting Motion and Appearance via Inter-Frame Attention for Efficient Video Frame Interpolation**
 - Paper: https://arxiv.org/abs/2303.00440
@@ -364,7 +368,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Tags: Frame Interpolation and Deblurring
 
 <a name="Enhancement"></a>
-# Image Enhancement - 图像增强
+# Image Enhancement - 图像增强 [[back](#catalogue)]
 
 <a name="LowLight"></a>
 ## Low-Light Image Enhancement
@@ -379,18 +383,20 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Tags: NIR2RGB
 
 
-<!--
 <a name="Harmonization"></a>
-# Image Harmonization/Composition - 图像协调/图像合成
+# Image Harmonization/Composition - 图像协调/图像合成 [[back](#catalogue)]
 
+**LEMaRT: Label-Efficient Masked Region Transform for Image Harmonization**
+- Paper: https://arxiv.org/abs/2304.13166
 
+<!--
 <a name="Inpainting"></a>
-# Image Completion/Inpainting - 图像修复
+# Image Completion/Inpainting - 图像修复 [[back](#catalogue)]
 
 -->
 
 <a name="Matting"></a>
-# Image Matting - 图像抠图
+# Image Matting - 图像抠图 [[back](#catalogue)]
 
 **Referring Image Matting**
 - Paper: https://arxiv.org/abs/2206.05149
@@ -402,7 +408,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 
 <a name="ShadowRemoval"></a>
-# Shadow Removal - 阴影消除
+# Shadow Removal - 阴影消除 [[back](#catalogue)]
 
 **ShadowDiffusion: When Degradation Prior Meets Diffusion Model for Shadow Removal**
 - Paper: https://arxiv.org/abs/2212.04711
@@ -414,12 +420,12 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 
 <a name="Stitching"></a>
-# Image Stitching - 图像拼接
+# Image Stitching - 图像拼接 
 
 -->
 
 <a name="ImageCompression"></a>
-# Image Compression - 图像压缩
+# Image Compression - 图像压缩 [[back](#catalogue)]
 
 **Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger**
 - Paper: https://arxiv.org/abs/2302.14677
@@ -440,7 +446,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 
 <a name="ImageQualityAssessment"></a>
-# Image Quality Assessment - 图像质量评价
+# Image Quality Assessment - 图像质量评价 [[back](#catalogue)]
 
 **Quality-aware Pre-trained Models for Blind Image Quality Assessment**
 - Paper: https://arxiv.org/abs/2303.00521
@@ -458,7 +464,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 
 <a name="StyleTransfer"></a>
-# Style Transfer - 风格迁移
+# Style Transfer - 风格迁移 [[back](#catalogue)]
 
 **Fix the Noise: Disentangling Source Feature for Controllable Domain Translation**
 - Paper: https://arxiv.org/abs/2303.11545
@@ -487,7 +493,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2304.11818
 
 <a name="ImageEditing"></a>
-# Image Editing - 图像编辑
+# Image Editing - 图像编辑 [[back](#catalogue)]
 
 **Imagic: Text-Based Real Image Editing with Diffusion Models**
 - Paper: https://arxiv.org/abs/2210.09276
@@ -512,7 +518,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/adobe-research/diffusion-rig
 
 <a name=ImageGeneration></a>
-# Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
+# Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换 [[back](#catalogue)]
 ## Text-to-Image / Text Guided / Multi-Modal
 
 **Multi-Concept Customization of Text-to-Image Diffusion**
@@ -660,7 +666,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 
 <a name="Others"></a>
-## Others
+## Others [[back](#catalogue)]
 
 **Perspective Fields for Single Image Camera Calibration**
 - Paper: https://arxiv.org/abs/2212.03239
