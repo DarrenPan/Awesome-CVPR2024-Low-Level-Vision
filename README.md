@@ -121,6 +121,11 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://www.biorxiv.org/content/10.1101/2022.11.18.517004v2
 - Code: https://github.com/yu-takagi/StableDiffusionReconstruction
 
+**Optimization-Inspired Cross-Attention Transformer for Compressive Sensing**
+- Paper: https://arxiv.org/abs/2304.13986
+- Code: https://github.com/songjiechong/OCTUF
+- Tags: Compressive Sensing
+
 <a name="BurstRestoration"></a>
 ## Burst Restoration
 
@@ -706,6 +711,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/MC-E/LF-VSN
 - Tags: Steganography 
 
+**Putting People in Their Place: Affordance-Aware Human Insertion into Scenes**
+- Paper: https://arxiv.org/abs/2304.14406
+- Code: https://github.com/adobe-research/affordance-insertion
 
 ## Talking Head Generation
 
