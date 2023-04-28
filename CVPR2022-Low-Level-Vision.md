@@ -73,7 +73,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - [NTIRE](#NTIRE)
 
 <a name="ImageRetoration"></a>
-# Image Restoration - 图像恢复
+# Image Restoration - 图像恢复 [[back](#catalogue)]
 
 **Restormer: Efficient Transformer for High-Resolution Image Restoration**
 - Paper: https://arxiv.org/abs/2111.09881
@@ -148,6 +148,11 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Blind_Face_Restoration_via_Integrating_Face_Shape_and_Generative_Priors_CVPR_2022_paper.html
 - Tags: Face
 
+**Global Sensing and Measurements Reuse for Image Compressed Sensing**
+- Paper: https://arxiv.org/abs/2206.11629
+- Code: https://github.com/fze0012/MR-CCSNet
+- Tags: Compressed Sensing
+
 **End-to-End Rubbing Restoration Using Generative Adversarial Networks**
 - Paper: https://arxiv.org/abs/2205.03743
 - Code: https://github.com/qingfengtommy/RubbingGAN
@@ -210,8 +215,8 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2203.02149
 
 
-<a name="SuperResolution"></a>
-# Super Resolution - 超分辨率
+<a name="SuperResolution"></a> 
+# Super Resolution - 超分辨率 [[back](#catalogue)]
 <a name="ImageSuperResolution"></a>
 ## Image Super Resolution
 
@@ -344,7 +349,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 
 <a name="Rescaling"></a>
-# Image Rescaling - 图像缩放
+# Image Rescaling - 图像缩放 [[back](#catalogue)]
 
 **Towards Bidirectional Arbitrary Image Rescaling: Joint Optimization and Cycle Idempotence**
 - Paper: https://arxiv.org/abs/2203.00911
@@ -354,7 +359,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/cszzx/GRAIN
 
 <a name="Denoising"></a>
-# Denoising - 去噪
+# Denoising - 去噪 [[back](#catalogue)]
 
 <a name="ImageDenoising"></a>
 ## Image Denoising
@@ -416,7 +421,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 
 <a name="Deblurring"></a>
-# Deblurring - 去模糊
+# Deblurring - 去模糊 [[back](#catalogue)]
 <a name="ImageDeblurring"></a>
 ## Image Deblurring
 
@@ -452,7 +457,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/jibo27/MemDeblur
 
 <a name="Deraining"></a>
-# Deraining - 去雨
+# Deraining - 去雨 [[back](#catalogue)]
 
 **Towards Robust Rain Removal Against Adversarial Attacks: A Comprehensive Benchmark Analysis and Beyond**
 - Paper: https://arxiv.org/abs/2203.16931
@@ -471,7 +476,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 
 <a name="Dehazing"></a>
-# Dehazing - 去雾
+# Dehazing - 去雾 [[back](#catalogue)]
 
 **Self-augmented Unpaired Image Dehazing via Density and Depth Decomposition**
 - Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Yang_Self-Augmented_Unpaired_Image_Dehazing_via_Density_and_Depth_Decomposition_CVPR_2022_paper.html
@@ -489,7 +494,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 
 <a name="Demoireing"></a>
-# Demoireing - 去摩尔纹
+# Demoireing - 去摩尔纹 [[back](#catalogue)]
 
 **Video Demoireing with Relation-Based Temporal Consistency**
 - Paper: https://arxiv.org/abs/2204.02957
@@ -497,7 +502,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 
 <a name="FrameInterpolation"></a>
-# Frame Interpolation - 插帧
+# Frame Interpolation - 插帧 [[back](#catalogue)]
 
 **ST-MFNet: A Spatio-Temporal Multi-Flow Network for Frame Interpolation**
 - Paper: https://arxiv.org/abs/2111.15483
@@ -555,7 +560,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/Picsart-AI-Research/VideoINR-Continuous-Space-Time-Super-Resolution
 
 <a name="Enhancement"></a>
-# Image Enhancement - 图像增强
+# Image Enhancement - 图像增强 [[back](#catalogue)]
 
 **AdaInt: Learning Adaptive Intervals for 3D Lookup Tables on Real-time Image Enhancement**
 - Paper: https://arxiv.org/abs/2204.13983
@@ -588,7 +593,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Wu_URetinex-Net_Retinex-Based_Deep_Unfolding_Network_for_Low-Light_Image_Enhancement_CVPR_2022_paper.html
 
 <a name="Harmonization"></a>
-# Image Harmonization - 图像协调
+# Image Harmonization - 图像协调 [[back](#catalogue)]
 
 **High-Resolution Image Harmonization via Collaborative Dual Transformationsg**
 - Paper: https://arxiv.org/abs/2109.06671
@@ -603,7 +608,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Dataset: https://github.com/zhongyunbao/Dataset
 
 <a name="Inpainting"></a>
-# Image Completion/Inpainting - 图像修复
+# Image Completion/Inpainting - 图像修复 [[back](#catalogue)]
 
 **Bridging Global Context Interactions for High-Fidelity Image Completion**
 - Paper: https://arxiv.org/abs/2104.00845
@@ -655,7 +660,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Inertia-Guided_Flow_Completion_and_Style_Fusion_for_Video_Inpainting_CVPR_2022_paper.htmll
 
 <a name="ImageMatting"></a>
-# Image Matting - 图像抠图
+# Image Matting - 图像抠图 [[back](#catalogue)]
 
 **MatteFormer: Transformer-Based Image Matting via Prior-Tokens**
 - Paper: https://arxiv.org/abs/2203.15662
@@ -670,7 +675,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 
 <a name="ShadowRemoval"></a>
-# Shadow Removal - 阴影消除
+# Shadow Removal - 阴影消除 [[back](#catalogue)]
 
 **Bijective Mapping Network for Shadow Removal**
 - Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Bijective_Mapping_Network_for_Shadow_Removal_CVPR_2022_paper.html
@@ -688,7 +693,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2204.00644
 
 <a name="Stitching"></a>
-# Image Stitching - 图像拼接
+# Image Stitching - 图像拼接 [[back](#catalogue)]
 
 **Deep Rectangling for Image Stitching: A Learning Baseline**
 - Paper: https://arxiv.org/abs/2203.03831
@@ -702,7 +707,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 
 
 <a name="ImageCompression"></a>
-# Image Compression - 图像压缩
+# Image Compression - 图像压缩 [[back](#catalogue)]
 
 **Neural Data-Dependent Transform for Learned Image Compression**
 - Paper: https://arxiv.org/abs/2203.04963v1
@@ -761,7 +766,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Tags: [Workshop]
 
 <a name="ImageQualityAssessment"></a>
-# Image Quality Assessment - 图像质量评价
+# Image Quality Assessment - 图像质量评价 [[back](#catalogue)]
 
 **Personalized Image Aesthetics Assessment with Rich Attributes**
 - Paper: https://arxiv.org/abs/2203.16754
@@ -777,7 +782,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Tags: [Workshop], compressed IQA
 
 <a name="Decomposition"></a>
-# Image Decomposition
+# Image Decomposition [[back](#catalogue)]
 
 **PIE-Net: Photometric Invariant Edge Guided Network for Intrinsic Image Decomposition**
 - Paper: https://openaccess.thecvf.com/content/CVPR2022/html/Das_PIE-Net_Photometric_Invariant_Edge_Guided_Network_for_Intrinsic_Image_Decomposition_CVPR_2022_paper.html
@@ -788,7 +793,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/vye16/deformable-sprites
 
 <a name="StyleTransfer"></a>
-# Style Transfer - 风格迁移
+# Style Transfer - 风格迁移 [[back](#catalogue)]
 
 **CLIPstyler: Image Style Transfer with a Single Text Condition**
 - Paper: https://arxiv.org/abs/2112.00374
@@ -819,7 +824,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Code: https://github.com/chiutaiyin/PCA-Knowledge-Distillation
 
 <a name="ImageEditing"></a>
-# Image Editing - 图像编辑
+# Image Editing - 图像编辑 [[back](#catalogue)]
 
 **High-Fidelity GAN Inversion for Image Attribute Editing**
 - Paper: https://arxiv.org/abs/2109.06590
@@ -875,7 +880,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2104.01122
 
 <a name=ImageGeneration></a>
-# Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换
+# Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换 [[back](#catalogue)]
 
 ## Text-to-Image / Text Guided / Multi-Modal
 
@@ -1129,7 +1134,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - Tags: [Workshop]
 
 <a name="Others"></a>
-# Others
+# Others [[back](#catalogue)]
 
 **GAN-Supervised Dense Visual Alignment**
 - Paper: https://arxiv.org/abs/2112.05143
