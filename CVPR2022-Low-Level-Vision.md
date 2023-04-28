@@ -11,7 +11,7 @@ A Collection of Papers and Codes in CVPR2022 related to Low-Level Vision
 - [Awesome-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2020-Low-Level-Vision)
 
 
-## 
+## Catalogue
 
 - [Image Restoration](#ImageRetoration)
   - [Burst Restoration](#BurstRestoration)
