@@ -276,6 +276,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2211.12250
 - Code: https://github.com/kkkls/FFTformer
 
+**Hybrid Neural Rendering for Large-Scale Scenes with Motion Blur**
+- Paper: https://arxiv.org/abs/2304.12652
+- Code: https://github.com/CVMI-Lab/HybridNeuralRendering
+
 <!--
 <a name="VideoDeblurring"></a>
 ## Video Deblurring
@@ -639,6 +643,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Exploring Incompatible Knowledge Transfer in Few-shot Image Generation**
 - Paper: https://arxiv.org/abs/2304.07574
 - Code: https://github.com/yunqing-me/RICK
+
+**Class-Balancing Diffusion Models**
+- Paper: https://arxiv.org/abs/2305.00562
 
 <a name="VideoGeneration"></a>
 ## Video Generation
