@@ -206,6 +206,11 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2304.08924
 - Tags: [Workshop]
 
+**Bicubic++: Slim, Slimmer, Slimmest -- Designing an Industry-Grade Super-Resolution Network**
+- Paper: https://arxiv.org/abs/2305.02126
+- Code: https://github.com/aselsan-research-imaging-team/bicubic-plusplus
+- Tags: [Workshop]
+
 <a name="VideoSuperResolution"></a>
 ## Video Super Resolution
 
@@ -360,6 +365,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation**
 - Paper: https://arxiv.org/abs/2304.09790
 - Code: https://github.com/MCG-NKU/AMT
+
+**Exploring Discontinuity for Video Frame Interpolation**
+- Paper: https://arxiv.org/abs/2202.07291
+- Code: https://github.com/pandatimo/Exploring-Discontinuity-for-VFI
 
 **Event-based Video Frame Interpolation with Cross-Modal Asymmetric Bidirectional Motion Fields**
 - Paper:
