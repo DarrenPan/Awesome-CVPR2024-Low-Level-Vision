@@ -121,6 +121,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://www.biorxiv.org/content/10.1101/2022.11.18.517004v2
 - Code: https://github.com/yu-takagi/StableDiffusionReconstruction
 
+**Catch Missing Details: Image Reconstruction with Frequency Augmented Variational Autoencoder**
+- Paper: https://arxiv.org/abs/2305.02541
+
 **Optimization-Inspired Cross-Attention Transformer for Compressive Sensing**
 - Paper: https://arxiv.org/abs/2304.13986
 - Code: https://github.com/songjiechong/OCTUF
@@ -786,3 +789,6 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **LayoutDM: Discrete Diffusion Model for Controllable Layout Generation**
 - Paper: https://arxiv.org/abs/2303.08137
 - Code: https://github.com/CyberAgentAILab/layout-dm
+
+**ayoutDM: Transformer-based Diffusion Model for Layout Generation**
+- Paper: https://arxiv.org/abs/2305.02567
