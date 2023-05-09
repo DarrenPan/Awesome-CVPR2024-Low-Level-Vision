@@ -734,6 +734,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2304.14406
 - Code: https://github.com/adobe-research/affordance-insertion
 
+**Controllable Light Diffusion for Portraits**
+- Paper: https://arxiv.org/abs/2305.04745
+- Tags: Relighting
+
 ## Talking Head Generation
 
 **Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert**
