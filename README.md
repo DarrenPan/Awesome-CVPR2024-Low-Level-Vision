@@ -214,6 +214,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/aselsan-research-imaging-team/bicubic-plusplus
 - Tags: [Workshop]
 
+**Hybrid Transformer and CNN Attention Network for Stereo Image Super-resolution**
+- Paper: https://arxiv.org/abs/2305.05177
+- Tags: [Workshop]
+
 <a name="VideoSuperResolution"></a>
 ## Video Super Resolution
 
