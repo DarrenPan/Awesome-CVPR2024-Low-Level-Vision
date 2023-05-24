@@ -205,6 +205,11 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/prs-eth/Diffusion-Super-Resolution
 - Tags: Guided Depth SR
 
+**Probability-based Global Cross-modal Upsampling for Pansharpening**
+- Paper: https://arxiv.org/abs/2303.13659
+- Code: https://github.com/Zeyu-Zhu/PGCU
+- Tags: Pansharpening(for remote sensing image)
+
 **Quantum Annealing for Single Image Super-Resolution**
 - Paper: https://arxiv.org/abs/2304.08924
 - Tags: [Workshop]
@@ -487,6 +492,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Re-IQA: Unsupervised Learning for Image Quality Assessment in the Wild**
 - Paper: https://arxiv.org/abs/2304.00451
 
+**SB-VQA: A Stack-Based Video Quality Assessment Framework for Video Enhancement**
+- Paper: https://arxiv.org/abs/2305.08408
+- Tags: [Workshop]
 
 <a name="StyleTransfer"></a>
 # Style Transfer - 风格迁移 [[back](#catalogue)]
@@ -662,6 +670,21 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 **Class-Balancing Diffusion Models**
 - Paper: https://arxiv.org/abs/2305.00562
+
+**Spider GAN: Leveraging Friendly Neighbors to Accelerate GAN Training**
+- Paper: https://arxiv.org/abs/2305.07613
+
+**Towards Accurate Image Coding: Improved Autoregressive Image Generation with Dynamic Vector Quantization**
+- Paper: https://arxiv.org/abs/2305.11718
+- Code: https://github.com/CrossmodalGroup/DynamicVectorQuantization
+
+**Not All Image Regions Matter: Masked Vector Quantization for Autoregressive Image Generation**
+- Paper: https://arxiv.org/abs/2305.13607
+- Code: https://github.com/CrossmodalGroup/MaskedVectorQuantization
+
+**Efficient Scale-Invariant Generator with Column-Row Entangled Pixel Synthesis**
+- Paper: https://arxiv.org/abs/2303.14157
+- Code: https://github.com/VinAIResearch/CREPS
 
 <a name="VideoGeneration"></a>
 ## Video Generation
