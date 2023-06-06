@@ -107,7 +107,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Tags: restore wide-gamut color values
 
 **ABCD : Arbitrary Bitwise Coefficient for De-quantization**
-- Paper: https://ipl.dgist.ac.kr/ABCD_cvpr23.pdf
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Han_ABCD_Arbitrary_Bitwise_Coefficient_for_De-Quantization_CVPR_2023_paper.pdf
 - Code: https://github.com/WooKyoungHan/ABCD
 - Tags: De-quantization/Bit depth expansion
 
@@ -141,6 +141,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 <a name="VideoRestoration"></a>
 ## Video Restoration
+
+**A Simple Baseline for Video Restoration with Grouped Spatial-temporal Shift**
+- Paper: https://arxiv.org/abs/2206.10810
+- Code: https://github.com/dasongli1/Shift-Net
 
 **Blind Video Deflickering by Neural Filtering with a Flawed Atlas**
 - Paper: https://arxiv.org/abs/2303.08120
@@ -265,6 +269,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Real-time Controllable Denoising for Image and Video**
 - Paper: https://arxiv.org/pdf/2303.16425.pdf
 
+**sRGB Real Noise Synthesizing with Neighboring Correlation-Aware Noise Model**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Fu_sRGB_Real_Noise_Synthesizing_With_Neighboring_Correlation-Aware_Noise_Model_CVPR_2023_paper.pdf
+- Code: https://github.com/xuan611/sRGB-Real-Noise-Synthesizing
+- Tags: Real Noise Synthesizing
 
 <!-- 
 <a name="VideoDenoising"></a>
@@ -321,10 +329,6 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.14218
 - Code: https://github.com/YuZheng9/C2PNet
 
-**Video Dehazing via a Multi-Range Temporal Alignment Network with Physical Prior**
-- Paper: https://arxiv.org/abs/2303.09757
-- Code: https://github.com/jiaqixuac/MAP-Net
-
 **SCANet: Self-Paced Semi-Curricular Attention Network for Non-Homogeneous Image Dehazing**
  - Paper: https://arxiv.org/abs/2304.08444
  - Code: https://github.com/gy65896/SCANet
@@ -333,6 +337,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Streamlined Global and Local Features Combinator (SGLC) for High Resolution Image Dehazing**
 - Paper: https://arxiv.org/abs/2304.13375
 - Tags: [Workshop]
+ 
+**Video Dehazing via a Multi-Range Temporal Alignment Network with Physical Prior**
+- Paper: https://arxiv.org/abs/2303.09757
+- Code: https://github.com/jiaqixuac/MAP-Net
 
 <!--
 
@@ -412,6 +420,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/MyNiuuu/VCSD
 - Tags: NIR2RGB
 
+**DNF: Decouple and Feedback Network for Seeing in the Dark**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Jin_DNF_Decouple_and_Feedback_Network_for_Seeing_in_the_Dark_CVPR_2023_paper.html
+- Code: https://github.com/Srameo/DNF
 
 <a name="Harmonization"></a>
 # Image Harmonization/Composition - 图像协调/图像合成 [[back](#catalogue)]
@@ -467,6 +478,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Learned Image Compression with Mixed Transformer-CNN Architectures**
 - Paper: https://arxiv.org/abs/2303.14978
 - Code: https://github.com/jmliu206/LIC_TCM
+
+**NVTC: Nonlinear Vector Transform Coding**
+- Paper: https://arxiv.org/abs/2305.16025
+- Code: https://github.com/USTC-IMCL/NVTC
 
 ## Video Compression
 
@@ -616,6 +631,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2304.03119
 - Code: https://github.com/Picsart-AI-Research/IPL-Zero-Shot-Generative-Model-Adaptation
 
+**StyleGene: Crossover and Mutation of Region-Level Facial Genes for Kinship Face Synthesis**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Li_StyleGene_Crossover_and_Mutation_of_Region-Level_Facial_Genes_for_Kinship_CVPR_2023_paper.html
+- Code: https://github.com/CVI-SZU/StyleGene
+
 ## Others for image generation
 
 **AdaptiveMix: Robust Feature Representation via Shrinking Feature Space**
@@ -628,14 +647,6 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 **Regularized Vector Quantization for Tokenized Image Synthesis**
 - Paper: https://arxiv.org/abs/2303.06424  
-
-**Towards Accurate Image Coding: Improved Autoregressive Image Generation with Dynamic Vector Quantization**
-- Paper:
-- Code: https://github.com/CrossmodalGroup/DynamicVectorQuantization
-
-**Not All Image Regions Matter: Masked Vector Quantization for Autoregressive Image Generation**
-- Paper:
-- Code: https://github.com/CrossmodalGroup/MaskedVectorQuantization
 
 **Exploring Incompatible Knowledge Transfer in Few-shot Image Generation**
 - Paper: 
@@ -685,6 +696,15 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Efficient Scale-Invariant Generator with Column-Row Entangled Pixel Synthesis**
 - Paper: https://arxiv.org/abs/2303.14157
 - Code: https://github.com/VinAIResearch/CREPS
+
+**Inferring and Leveraging Parts from Object Shape for Improving Semantic Image Synthesis**
+- Paper: https://arxiv.org/abs/2305.19547
+- Code: https://github.com/csyxwei/iPOSE
+
+**GLeaD: Improving GANs with A Generator-Leading Task**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Bai_GLeaD_Improving_GANs_With_a_Generator-Leading_Task_CVPR_2023_paper.html
+- Code: https://github.com/EzioBy/glead
+
 
 <a name="VideoGeneration"></a>
 ## Video Generation
