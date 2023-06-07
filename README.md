@@ -25,7 +25,6 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 - [Denoising](#Denoising)
   - [Image Denoising](#ImageDenoising)
-  - [Video Denoising](#VideoDenoising)
 
 - [Deblurring](#Deblurring)
   - [Image Deblurring](#ImageDeblurring)
@@ -270,16 +269,38 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Real-time Controllable Denoising for Image and Video**
 - Paper: https://arxiv.org/pdf/2303.16425.pdf
 
+**Zero-Shot Noise2Noise: Efficient Image Denoising without any Data**
+- Paper: https://arxiv.org/abs/2303.11253
+- Code: https://colab.research.google.com/drive/1i82nyizTdszyHkaHBuKPbWnTzao8HF9b
+- Tags: Zero-Shot
+
+**Patch-Craft Self-Supervised Training for Correlated Image Denoising**
+- Paper: https://arxiv.org/abs/2211.09919
+- Tags: Self-Supervised
+
 **sRGB Real Noise Synthesizing with Neighboring Correlation-Aware Noise Model**
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Fu_sRGB_Real_Noise_Synthesizing_With_Neighboring_Correlation-Aware_Noise_Model_CVPR_2023_paper.pdf
 - Code: https://github.com/xuan611/sRGB-Real-Noise-Synthesizing
 - Tags: Real Noise Synthesizing
 
-<!-- 
-<a name="VideoDenoising"></a>
-## Video Denoising
+**Spectral Enhanced Rectangle Transformer for Hyperspectral Image Denoising**
+- Paper: https://arxiv.org/abs/2304.00844
+- Code: https://github.com/MyuLi/SERT
+- Tags: Hyperspectral
 
--->
+**Efficient View Synthesis and 3D-based Multi-Frame Denoising with Multiplane Feature Representations**
+- Paper: https://arxiv.org/abs/2303.18139
+- Tags: 3D
+
+**Structure Aggregation for Cross-Spectral Stereo Image Guided Denoising**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Sheng_Structure_Aggregation_for_Cross-Spectral_Stereo_Image_Guided_Denoising_CVPR_2023_paper.html
+- Code: https://github.com/lustrouselixir/SANet
+- Tags: Stereo Image
+
+**Polarized Color Image Denoising**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Li_Polarized_Color_Image_Denoising_CVPR_2023_paper.html
+- Code: https://github.com/bandasyou/pcdenoise
+- Tags: Polarized Color Image
 
 <a name="Deblurring"></a>
 # Deblurring - 去模糊 [[back](#catalogue)]
