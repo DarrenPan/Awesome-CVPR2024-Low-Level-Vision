@@ -389,6 +389,16 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/xhuangcv/neucam
 - Tags: generating all-in-focus photos & HDR imaging
 
+**Joint HDR Denoising and Fusion: A Real-World Mobile HDR Image Dataset**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Joint_HDR_Denoising_and_Fusion_A_Real-World_Mobile_HDR_Image_CVPR_2023_paper.html
+- Code: https://github.com/shuaizhengliu/Joint-HDRDN
+
+**HDR Imaging with Spatially Varying Signal-to-Noise Ratios**
+- Paper: https://arxiv.org/abs/2303.17253
+
+**1000 FPS HDR Video with a Spike-RGB Hybrid Camera**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Chang_1000_FPS_HDR_Video_With_a_Spike-RGB_Hybrid_Camera_CVPR_2023_paper.html
+
 <a name="FrameInterpolation"></a>
 # Frame Interpolation - 插帧 [[back](#catalogue)]
 
