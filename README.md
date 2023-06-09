@@ -316,7 +316,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/zzh-tech/BiT
 
 **Neumann Network with Recursive Kernels for Single Image Defocus Deblurring**
-- Paper:
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Quan_Neumann_Network_With_Recursive_Kernels_for_Single_Image_Defocus_Deblurring_CVPR_2023_paper.html
 - Code: https://github.com/csZcWu/NRKNet
 
 **Efficient Frequency Domain-based Transformers for High-Quality Image Deblurring**
@@ -327,11 +327,34 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2304.12652
 - Code: https://github.com/CVMI-Lab/HybridNeuralRendering
 
-<!--
+**Self-Supervised Non-Uniform Kernel Estimation With Flow-Based Motion Prior for Blind Image Deblurring**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Fang_Self-Supervised_Non-Uniform_Kernel_Estimation_With_Flow-Based_Motion_Prior_for_Blind_CVPR_2023_paper.html
+- Code: https://github.com/Fangzhenxuan/UFPDeblur
+- Tag: Self-Supervised
+
+**Uncertainty-Aware Unsupervised Image Deblurring with Deep Residual Prior**
+- Paper: https://arxiv.org/abs/2210.05361
+- Code: https://github.com/xl-tang01/UAUDeblur
+- Tags: Unsupervised
+
+**K3DN: Disparity-Aware Kernel Estimation for Dual-Pixel Defocus Deblurring**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Yang_K3DN_Disparity-Aware_Kernel_Estimation_for_Dual-Pixel_Defocus_Deblurring_CVPR_2023_paper.html
+
+**Self-Supervised Blind Motion Deblurring With Deep Expectation Maximization**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Li_Self-Supervised_Blind_Motion_Deblurring_With_Deep_Expectation_Maximization_CVPR_2023_paper.html
+- Tags: Self-Supervised
+
+**HyperCUT: Video Sequence from a Single Blurry Image using Unsupervised Ordering**
+- Paper: https://arxiv.org/abs/2304.01686
+- Code: https://github.com/VinAIResearch/HyperCUT
+
 <a name="VideoDeblurring"></a>
 ## Video Deblurring
 
--->
+**Deep Discriminative Spatial and Temporal Network for Efficient Video Deblurring**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Pan_Deep_Discriminative_Spatial_and_Temporal_Network_for_Efficient_Video_Deblurring_CVPR_2023_paper.html
+- Code: https://github.com/xuboming8/DSTNet
+
 
 <a name="Deraining"></a>
 # Deraining - 去雨 [[back](#catalogue)]
