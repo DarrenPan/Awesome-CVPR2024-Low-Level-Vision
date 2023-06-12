@@ -172,9 +172,25 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 **OPE-SR: Orthogonal Position Encoding for Designing a Parameter-free Upsampling Module in Arbitrary-scale Image Super-Resolution**
 - Paper: https://arxiv.org/abs/2303.01091
+- Tags: Arbitrary-Scale SR
 
 **Local Implicit Normalizing Flow for Arbitrary-Scale Image Super-Resolution**
 - Paper: https://arxiv.org/abs/2303.05156
+- Tags: Normalizing Flow, Arbitrary-Scale SR
+
+**Cascaded Local Implicit Transformer for Arbitrary-Scale Super-Resolution**
+- Paper: https://arxiv.org/abs/2303.16513
+- Code: https://github.com/jaroslaw1007/CLIT
+- Tags: Arbitrary-Scale SR, Transformer
+
+**Deep Arbitrary-Scale Image Super-Resolution via Scale-Equivariance Pursuit**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Deep_Arbitrary-Scale_Image_Super-Resolution_via_Scale-Equivariance_Pursuit_CVPR_2023_paper.html
+- Code: https://github.com/neuralchen/EQSR
+- Tags: Arbitrary-Scale SR
+
+**CiaoSR: Continuous Implicit Attention-in-Attention Network for Arbitrary-Scale Image Super-Resolution**
+- Paper: https://arxiv.org/abs/2212.04362
+- Tags: Arbitrary-Scale SR
 
 **Super-Resolution Neural Operator**
 - Paper: https://arxiv.org/abs/2303.02584
@@ -191,13 +207,44 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Implicit Diffusion Models for Continuous Super-Resolution**
 - Paper: https://arxiv.org/abs/2303.16491
 - Code: https://github.com/Ree1s/IDM
-
-**Zero-Shot Dual-Lens Super-Resolution**
-- Paper:
-- Code: https://github.com/XrKang/ZeDuSR
+- Tags: Diffusion
 
 **CABM: Content-Aware Bit Mapping for Single Image Super-Resolution Network with Large Input**
 - Paper: https://arxiv.org/abs/2304.06454
+
+**Spectral Bayesian Uncertainty for Image Super-Resolution**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Spectral_Bayesian_Uncertainty_for_Image_Super-Resolution_CVPR_2023_paper.html
+
+**Cross-Guided Optimization of Radiance Fields With Multi-View Image Super-Resolution for High-Resolution Novel View Synthesis**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Yoon_Cross-Guided_Optimization_of_Radiance_Fields_With_Multi-View_Image_Super-Resolution_for_CVPR_2023_paper.html
+
+**Image Super-Resolution Using T-Tetromino Pixels**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Grosche_Image_Super-Resolution_Using_T-Tetromino_Pixels_CVPR_2023_paper.html
+
+**Memory-Friendly Scalable Super-Resolution via Rewinding Lottery Ticket Hypothesis**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Lin_Memory-Friendly_Scalable_Super-Resolution_via_Rewinding_Lottery_Ticket_Hypothesis_CVPR_2023_paper.html
+
+**Equivalent Transformation and Dual Stream Network Construction for Mobile Image Super-Resolution**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Chao_Equivalent_Transformation_and_Dual_Stream_Network_Construction_for_Mobile_Image_CVPR_2023_paper.html
+- Code: https://github.com/ECNUSR/ETDS 
+
+**Perception-Oriented Single Image Super-Resolution using Optimal Objective Estimation**
+- Paper: https://arxiv.org/abs/2211.13676
+- Code: https://github.com/seungho-snu/SROOE
+
+**OSRT: Omnidirectional Image Super-Resolution with Distortion-aware Transformer**
+- Paper: https://arxiv.org/abs/2302.03453
+- Code: https://github.com/Fanghua-Yu/OSRT
+- Tags: Transformer, Omnidirectional SR
+
+**B-Spline Texture Coefficients Estimator for Screen Content Image Super-Resolution**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Pak_B-Spline_Texture_Coefficients_Estimator_for_Screen_Content_Image_Super-Resolution_CVPR_2023_paper.html
+- Code: https://github.com/ByeongHyunPak/btc
+
+**Spatial-Frequency Mutual Learning for Face Super-Resolution**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Spatial-Frequency_Mutual_Learning_for_Face_Super-Resolution_CVPR_2023_paper.html
+- Code: https://github.com/wcy-cs/SFMNet
+- Tags: Face SR
 
 **Learning Generative Structure Prior for Blind Text Image Super-resolution**
 - Paper: https://arxiv.org/abs/2303.14726
@@ -209,10 +256,24 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/prs-eth/Diffusion-Super-Resolution
 - Tags: Guided Depth SR
 
+**Toward Stable, Interpretable, and Lightweight Hyperspectral Super-Resolution**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Xie_Toward_Stable_Interpretable_and_Lightweight_Hyperspectral_Super-Resolution_CVPR_2023_paper.html
+- Code: https://github.com/WenjinGuo/DAEM
+- Tags: Hyperspectral SR
+
+**Zero-Shot Dual-Lens Super-Resolution**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Xu_Zero-Shot_Dual-Lens_Super-Resolution_CVPR_2023_paper.html
+- Code: https://github.com/XrKang/ZeDuSR
+
 **Probability-based Global Cross-modal Upsampling for Pansharpening**
 - Paper: https://arxiv.org/abs/2303.13659
 - Code: https://github.com/Zeyu-Zhu/PGCU
 - Tags: Pansharpening(for remote sensing image)
+
+**CutMIB: Boosting Light Field Super-Resolution via Multi-View Image Blending**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Xiao_CutMIB_Boosting_Light_Field_Super-Resolution_via_Multi-View_Image_Blending_CVPR_2023_paper.html
+- Code: https://github.com/zeyuxiao1997/CutMIB
+- Tags: Light Field SR
 
 **Quantum Annealing for Single Image Super-Resolution**
 - Paper: https://arxiv.org/abs/2304.08924
@@ -238,6 +299,20 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://github.com/Zj-BinXia/SSL
 - Code: https://arxiv.org/abs/2206.07687
 
+**Compression-Aware Video Super-Resolution**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Compression-Aware_Video_Super-Resolution_CVPR_2023_paper.html
+
+**Learning Spatial-Temporal Implicit Neural Representations for Event-Guided Video Super-Resolution**
+- Paper: https://arxiv.org/abs/2303.13767
+- Project: https://vlis2022.github.io/cvpr23/egvsr 
+- Tags: Event
+
+**Consistent Direct Time-of-Flight Video Depth Super-Resolution**
+- Paper: https://arxiv.org/abs/2211.08658
+- Code: https://github.com/facebookresearch/DVSR/
+- Tags: Depth SR
+
+
 <a name="Rescaling"></a>
 # Image Rescaling - 图像缩放 [[back](#catalogue)]
 
@@ -245,6 +320,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2304.01064
 - Code: https://github.com/AbnerVictor/HyperThumbnail
 
+**DINN360: Deformable Invertible Neural Network for Latitude-Aware 360deg Image Rescaling**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Guo_DINN360_Deformable_Invertible_Neural_Network_for_Latitude-Aware_360deg_Image_Rescaling_CVPR_2023_paper.html
+- Code: https://github.com/gyc9709/DINN360
 
 <a name="Denoising"></a>
 # Denoising - 去噪 [[back](#catalogue)]
