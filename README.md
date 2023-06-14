@@ -49,8 +49,6 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 - [Image Matting](#Matting)
 
-- [Shadow Removal](#ShadowRemoval)
-
 - [Image Compression](#ImageCompression)
 
 - [Image Quality Assessment](#ImageQualityAssessment)
@@ -72,6 +70,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/ofsoundof/GRL-Image-Restoration
 - Tags: Transformer
 
+**Comprehensive and Delicate: An Efficient Transformer for Image Restoration**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Zhao_Comprehensive_and_Delicate_An_Efficient_Transformer_for_Image_Restoration_CVPR_2023_paper.html
+- Tags: Transformer
+
 **Learning Distortion Invariant Representation for Image Restoration from A Causality Perspective**
 - Paper: https://arxiv.org/abs/2303.06859
 - Code: https://github.com/lixinustc/Casual-IRDIL
@@ -82,10 +84,30 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 **DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration**
 - Paper: https://arxiv.org/abs/2303.06885
+- Tags: Diffusion, Blind Face
 
 **Bitstream-Corrupted JPEG Images are Restorable: Two-stage Compensation and Alignment Framework for Image Restoration**
 - Paper: https://arxiv.org/abs/2304.06976
 - Code: https://github.com/wenyang001/Two-ACIR
+
+**All-in-One Image Restoration for Unknown Degradations Using Adaptive Discriminative Filters for Specific Degradations**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Park_All-in-One_Image_Restoration_for_Unknown_Degradations_Using_Adaptive_Discriminative_Filters_CVPR_2023_paper.html
+
+**Learning Weather-General and Weather-Specific Features for Image Restoration Under Multiple Adverse Weather Conditions**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_Learning_Weather-General_and_Weather-Specific_Features_for_Image_Restoration_Under_Multiple_CVPR_2023_paper.html
+- Code: https://github.com/zhuyr97/WGWS-Net
+- Tags: Multiple Adverse Weather
+
+**AccelIR: Task-Aware Image Compression for Accelerating Neural Restoration**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Ye_AccelIR_Task-Aware_Image_Compression_for_Accelerating_Neural_Restoration_CVPR_2023_paper.html
+- Tags: Image Compression for Accelerating
+
+**Robust Unsupervised StyleGAN Image Restoration**
+- Paper: https://arxiv.org/abs/2302.06733
+- Tags: StyleGAN
+
+**Ingredient-Oriented Multi-Degradation Learning for Image Restoration**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Ingredient-Oriented_Multi-Degradation_Learning_for_Image_Restoration_CVPR_2023_paper.html
 
 **Contrastive Semi-supervised Learning for Underwater Image Restoration via Reliable Bank**
 - Paper: https://arxiv.org/abs/2303.09101
@@ -97,19 +119,37 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/ykdai/BracketFlare
 - Tags: Reflective Flare Removal
 
+**Robust Single Image Reflection Removal Against Adversarial Attacks**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Song_Robust_Single_Image_Reflection_Removal_Against_Adversarial_Attacks_CVPR_2023_paper.html
+- Tags: Reflection Removal
+
+**ShadowDiffusion: When Degradation Prior Meets Diffusion Model for Shadow Removal**
+- Paper: https://arxiv.org/abs/2212.04711
+- Code: https://github.com/GuoLanqing/ShadowDiffusion
+- Tags: Diffusion, Shadow Removal
+
+**Document Image Shadow Removal Guided by Color-Aware Background**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Document_Image_Shadow_Removal_Guided_by_Color-Aware_Background_CVPR_2023_paper.html
+- Code: https://github.com/hyyh1314/BGShadowNet
+- Tags: Shadow Removal
+
 **Generating Aligned Pseudo-Supervision from Non-Aligned Data for Image Restoration in Under-Display Camera**
 - Paper: https://arxiv.org/abs/2304.06019
 - Code: https://github.com/jnjaby/AlignFormer
 
-**GamutMLP - A Lightweight MLP for Color Loss Recovery**
+**GamutMLP: A Lightweight MLP for Color Loss Recovery**
 - Paper: https://arxiv.org/abs/2304.11743
 - Code: https://github.com/hminle/gamut-mlp
 - Tags: restore wide-gamut color values
 
-**ABCD : Arbitrary Bitwise Coefficient for De-quantization**
+**ABCD: Arbitrary Bitwise Coefficient for De-Quantization**
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Han_ABCD_Arbitrary_Bitwise_Coefficient_for_De-Quantization_CVPR_2023_paper.pdf
 - Code: https://github.com/WooKyoungHan/ABCD
 - Tags: De-quantization/Bit depth expansion
+
+**Visual Recognition-Driven Image Restoration for Multiple Degradation With Intrinsic Semantics Recovery**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Visual_Recognition-Driven_Image_Restoration_for_Multiple_Degradation_With_Intrinsic_Semantics_CVPR_2023_paper.html
+- Tags: Restoration for High-Level Tasks
 
 ## Image Reconstruction
 
@@ -581,12 +621,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/microsoft/AdaM
 
 
-<a name="ShadowRemoval"></a>
-# Shadow Removal - 阴影消除 [[back](#catalogue)]
 
-**ShadowDiffusion: When Degradation Prior Meets Diffusion Model for Shadow Removal**
-- Paper: https://arxiv.org/abs/2212.04711
-- Code: https://github.com/GuoLanqing/ShadowDiffusion
 
 <!--
 <a name="Relighting"></a>
