@@ -34,8 +34,6 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 - [Dehazing](#Dehazing)
 
-- [Demosaicing](#Demosaicing)
-
 - [HDR Imaging / Multi-Exposure Image Fusion](#HDR)
 
 - [Frame Interpolation](#FrameInterpolation)
@@ -481,6 +479,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.11950
 - Code: https://github.com/cschenxiang/DRSformer
 
+**SmartAssign: Learning a Smart Knowledge Assignment Strategy for Deraining and Desnowing**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Wang_SmartAssign_Learning_a_Smart_Knowledge_Assignment_Strategy_for_Deraining_and_CVPR_2023_paper.html
+- Code: https://gitee.com/mindspore/models/tree/master/research/cv/SmartAssign
+
 <a name="Dehazing"></a>
 # Dehazing - 去雾 [[back](#catalogue)]
 
@@ -492,6 +494,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.14218
 - Code: https://github.com/YuZheng9/C2PNet
 
+**Video Dehazing via a Multi-Range Temporal Alignment Network with Physical Prior**
+- Paper: https://arxiv.org/abs/2303.09757
+- Code: https://github.com/jiaqixuac/MAP-Net
+
 **SCANet: Self-Paced Semi-Curricular Attention Network for Non-Homogeneous Image Dehazing**
  - Paper: https://arxiv.org/abs/2304.08444
  - Code: https://github.com/gy65896/SCANet
@@ -501,16 +507,6 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2304.13375
 - Tags: [Workshop]
  
-**Video Dehazing via a Multi-Range Temporal Alignment Network with Physical Prior**
-- Paper: https://arxiv.org/abs/2303.09757
-- Code: https://github.com/jiaqixuac/MAP-Net
-
-<!--
-
-<a name="Demosaicing"></a>
-# Demosaicing - 去马赛克 [[back](#catalogue)]
-
--->
 
  <a name="HDR"></a>
 # HDR Imaging / Multi-Exposure Image Fusion - HDR图像生成 / 多曝光图像融合 [[back](#catalogue)]
