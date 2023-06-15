@@ -559,14 +559,27 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2202.07291
 - Code: https://github.com/pandatimo/Exploring-Discontinuity-for-VFI
 
+**Frame Interpolation Transformer and Uncertainty Guidance**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Plack_Frame_Interpolation_Transformer_and_Uncertainty_Guidance_CVPR_2023_paper.html
+
+**Exploring Motion Ambiguity and Alignment for High-Quality Video Frame Interpolation**
+- Paper: https://arxiv.org/abs/2203.10291
+
+**Range-Nullspace Video Frame Interpolation With Focalized Motion Estimation**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Yu_Range-Nullspace_Video_Frame_Interpolation_With_Focalized_Motion_Estimation_CVPR_2023_paper.html 
+
 **Event-based Video Frame Interpolation with Cross-Modal Asymmetric Bidirectional Motion Fields**
-- Paper:
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Kim_Event-Based_Video_Frame_Interpolation_With_Cross-Modal_Asymmetric_Bidirectional_Motion_Fields_CVPR_2023_paper.html
 - Code: https://github.com/intelpro/CBMNet
 - Tags: Event-based
 
 **Event-based Blurry Frame Interpolation under Blind Exposure**
-- Paper:
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Weng_Event-Based_Blurry_Frame_Interpolation_Under_Blind_Exposure_CVPR_2023_paper.html
 - Code: https://github.com/WarranWeng/EBFI-BE
+- Tags: Event-based
+
+**Event-Based Frame Interpolation with Ad-hoc Deblurring**
+- Paper: https://arxiv.org/abs/2301.05191
 - Tags: Event-based
 
 **Joint Video Multi-Frame Interpolation and Deblurring under Unknown Exposure Time**
