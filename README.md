@@ -590,6 +590,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 <a name="Enhancement"></a>
 # Image Enhancement - 图像增强 [[back](#catalogue)]
 
+**Realistic Saliency Guided Image Enhancement**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Miangoleh_Realistic_Saliency_Guided_Image_Enhancement_CVPR_2023_paper.html
+- Code: https://github.com/compphoto/RealisticImageEnhancement
+
 <a name="LowLight"></a>
 ## Low-Light Image Enhancement
 
@@ -606,11 +610,30 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Jin_DNF_Decouple_and_Feedback_Network_for_Seeing_in_the_Dark_CVPR_2023_paper.html
 - Code: https://github.com/Srameo/DNF
 
+**You Do Not Need Additional Priors or Regularizers in Retinex-Based Low-Light Image Enhancement**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Fu_You_Do_Not_Need_Additional_Priors_or_Regularizers_in_Retinex-Based_CVPR_2023_paper.html
+
+**Low-Light Image Enhancement via Structure Modeling and Guidance**
+- Paper: https://arxiv.org/abs/2305.05839
+
+**Learning a Simple Low-light Image Enhancer from Paired Low-light Instances**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Fu_Learning_a_Simple_Low-Light_Image_Enhancer_From_Paired_Low-Light_Instances_CVPR_2023_paper.html
+- Code: https://github.com/zhenqifu/pairlie
+
+
 <a name="Harmonization"></a>
 # Image Harmonization/Composition - 图像协调/图像合成 [[back](#catalogue)]
 
 **LEMaRT: Label-Efficient Masked Region Transform for Image Harmonization**
 - Paper: https://arxiv.org/abs/2304.13166
+
+**Semi-supervised Parametric Real-world Image Harmonization**
+- Paper: https://arxiv.org/abs/2303.00157
+- Project: https://kewang0622.github.io/sprih/
+
+**PCT-Net: Full Resolution Image Harmonization Using Pixel-Wise Color Transformations**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Guerreiro_PCT-Net_Full_Resolution_Image_Harmonization_Using_Pixel-Wise_Color_Transformations_CVPR_2023_paper.html
+- Code: https://github.com/rakutentech/PCT-Net-Image-Harmonization/
 
 <!--
 <a name="Inpainting"></a>
@@ -629,8 +652,15 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2304.06018
 - Code: https://github.com/microsoft/AdaM
 
+**Mask-Guided Matting in the Wild**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Park_Mask-Guided_Matting_in_the_Wild_CVPR_2023_paper.html
 
+**End-to-End Video Matting With Trimap Propagation**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Huang_End-to-End_Video_Matting_With_Trimap_Propagation_CVPR_2023_paper.html
+- Code: https://github.com/csvt32745/FTP-VM
 
+**Ultrahigh Resolution Image/Video Matting With Spatio-Temporal Sparsity**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Sun_Ultrahigh_Resolution_ImageVideo_Matting_With_Spatio-Temporal_Sparsity_CVPR_2023_paper.html
 
 <!--
 <a name="Relighting"></a>
