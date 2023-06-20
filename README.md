@@ -635,11 +635,24 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Guerreiro_PCT-Net_Full_Resolution_Image_Harmonization_Using_Pixel-Wise_Color_Transformations_CVPR_2023_paper.html
 - Code: https://github.com/rakutentech/PCT-Net-Image-Harmonization/
 
-<!--
 <a name="Inpainting"></a>
 # Image Completion/Inpainting - 图像修复 [[back](#catalogue)]
 
--->
+**NUWA-LIP: Language-Guided Image Inpainting With Defect-Free VQGAN**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Ni_NUWA-LIP_Language-Guided_Image_Inpainting_With_Defect-Free_VQGAN_CVPR_2023_paper.html
+- Code: https://github.com/kodenii/NUWA-LIP
+
+**Imagen Editor and EditBench: Advancing and Evaluating Text-Guided Image Inpainting**
+- Paper: https://arxiv.org/abs/2212.06909
+
+**SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model**
+- Paper: https://arxiv.org/abs/2212.05034
+
+**Semi-Supervised Video Inpainting with Cycle Consistency Constraints**
+- Paper: https://arxiv.org/abs/2208.06807
+
+**Deep Stereo Video Inpainting**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Wu_Deep_Stereo_Video_Inpainting_CVPR_2023_paper.html
 
 <a name="Matting"></a>
 # Image Matting - 图像抠图 [[back](#catalogue)]
@@ -662,15 +675,6 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Ultrahigh Resolution Image/Video Matting With Spatio-Temporal Sparsity**
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Sun_Ultrahigh_Resolution_ImageVideo_Matting_With_Spatio-Temporal_Sparsity_CVPR_2023_paper.html
 
-<!--
-<a name="Relighting"></a>
-# Relighting
-
-
-<a name="Stitching"></a>
-# Image Stitching - 图像拼接 
-
--->
 
 <a name="ImageCompression"></a>
 # Image Compression - 图像压缩 [[back](#catalogue)]
@@ -942,6 +946,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models**
 - Paper: https://arxiv.org/abs/2304.08818
 
+**Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation**
+- Paper: https://arxiv.org/abs/2211.12824
+- Code: https://github.com/tsujuifu/pytorch_tvc
 
 <a name="Others"></a>
 ## Others [[back](#catalogue)]
