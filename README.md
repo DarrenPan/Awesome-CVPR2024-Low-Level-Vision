@@ -694,11 +694,33 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2305.16025
 - Code: https://github.com/USTC-IMCL/NVTC
 
+**Multi-Realism Image Compression with a Conditional Generator**
+- Paper: https://arxiv.org/abs/2212.13824
+
+**LVQAC: Lattice Vector Quantization Coupled with Spatially Adaptive Companding for Efficient Learned Image Compression**
+- Paper: https://arxiv.org/abs/2304.12319
+
 ## Video Compression
 
 **Neural Video Compression with Diverse Contexts**
 - Paper: https://github.com/microsoft/DCVC
 - Code: https://arxiv.org/abs/2302.14402
+
+**Video Compression With Entropy-Constrained Neural Representations**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Gomes_Video_Compression_With_Entropy-Constrained_Neural_Representations_CVPR_2023_paper.html
+
+**Complexity-Guided Slimmable Decoder for Efficient Deep Video Compression**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Complexity-Guided_Slimmable_Decoder_for_Efficient_Deep_Video_Compression_CVPR_2023_paper.html
+
+**MMVC: Learned Multi-Mode Video Compression with Block-based Prediction Mode Selection and Density-Adaptive Entropy Coding**
+- Paper: https://arxiv.org/abs/2304.02273
+
+**Motion Information Propagation for Neural Video Compression**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Qi_Motion_Information_Propagation_for_Neural_Video_Compression_CVPR_2023_paper.html
+
+**Hierarchical B-Frame Video Coding Using Two-Layer CANF Without Motion Coding**
+- Paper:https://openaccess.thecvf.com/content/CVPR2023/html/Alexandre_Hierarchical_B-Frame_Video_Coding_Using_Two-Layer_CANF_Without_Motion_Coding_CVPR_2023_paper.html
+- Code: https://github.com/nycu-clab/tlzmc-cvpr
 
 
 <a name="ImageQualityAssessment"></a>
