@@ -740,6 +740,18 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Re-IQA: Unsupervised Learning for Image Quality Assessment in the Wild**
 - Paper: https://arxiv.org/abs/2304.00451
 
+**An Image Quality Assessment Dataset for Portraits**
+- Paper: https://arxiv.org/abs/2304.05772
+- Code: https://github.com/DXOMARK-Research/PIQ2023
+
+**MD-VQA: Multi-Dimensional Quality Assessment for UGC Live Videos**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_MD-VQA_Multi-Dimensional_Quality_Assessment_for_UGC_Live_Videos_CVPR_2023_paper.html
+- Code: https://github.com/zzc-1998/MD-VQA
+
+**CR-FIQA: Face Image Quality Assessment by Learning Sample Relative Classifiability**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Boutros_CR-FIQA_Face_Image_Quality_Assessment_by_Learning_Sample_Relative_Classifiability_CVPR_2023_paper.html
+- Code: https://github.com/fdbtrs/CR-FIQA
+
 **SB-VQA: A Stack-Based Video Quality Assessment Framework for Video Enhancement**
 - Paper: https://arxiv.org/abs/2305.08408
 - Tags: [Workshop]
