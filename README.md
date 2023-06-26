@@ -785,6 +785,14 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Master: Meta Style Transformer for Controllable Zero-Shot and Few-Shot Artistic Style Transfer**
 - Paper: https://arxiv.org/abs/2304.11818
 
+**Learning Dynamic Style Kernels for Artistic Style Transfer**
+- Paper: https://arxiv.org/abs/2304.00414
+
+**Inversion-Based Style Transfer with Diffusion Models**
+- Paper: https://arxiv.org/abs/2211.13203
+- Code: https://github.com/zyxElsa/InST
+
+
 <a name="ImageEditing"></a>
 # Image Editing - 图像编辑 [[back](#catalogue)]
 
