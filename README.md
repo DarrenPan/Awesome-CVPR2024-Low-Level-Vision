@@ -805,10 +805,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 **CoralStyleCLIP: Co-optimized Region and Layer Selection for Image Editing**
 - Paper: https://arxiv.org/abs/2303.05031
-
-**DeltaEdit: Exploring Text-free Training for Text-Driven Image Manipulation**
-- Paper: https://arxiv.org/abs/2303.06285
-- Code: https://arxiv.org/abs/2303.06285
+- Code: https://github.com/JiauZhang/CoralStyleCLIP
 
 **SIEDOB: Semantic Image Editing by Disentangling Object and Background**
 - Paper: https://arxiv.org/abs/2303.13062
@@ -817,6 +814,51 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **DiffusionRig: Learning Personalized Priors for Facial Appearance Editing**
 - Paper: https://arxiv.org/abs/2304.06711
 - Code: https://github.com/adobe-research/diffusion-rig
+
+**Paint by Example: Exemplar-based Image Editing with Diffusion Models**
+- Paper: https://arxiv.org/abs/2211.13227
+- Code: https://github.com/Fantasy-Studio/Paint-by-Example
+
+**StyleRes: Transforming the Residuals for Real Image Editing With StyleGAN**
+- Paper: https://arxiv.org/abs/2212.14359
+- Code: https://github.com/hamzapehlivan/StyleRes
+
+**Delving StyleGAN Inversion for Image Editing: A Foundation Latent Space Viewpoint**
+- Paper: https://arxiv.org/abs/2211.11448
+- Code: https://github.com/KumapowerLIU/CLCAE
+
+**InstructPix2Pix: Learning to Follow Image Editing Instructions**
+- Paper: https://arxiv.org/abs/2211.09800
+- Code: https://github.com/timothybrooks/instruct-pix2pix
+
+**Deep Curvilinear Editing: Commutative and Nonlinear Image Manipulation for Pretrained Deep Generative Model**
+- Paper: https://arxiv.org/abs/2211.14573
+
+**Null-text Inversion for Editing Real Images using Guided Diffusion Models**
+- Paper: https://arxiv.org/abs/2211.09794
+- Code: https://github.com/google/prompt-to-prompt/#null-text-inversion-for-editing-real-images
+
+**DeltaEdit: Exploring Text-free Training for Text-Driven Image Manipulation**
+- Paper: https://arxiv.org/abs/2303.06285
+- Code: https://github.com/Yueming6568/DeltaEdit
+
+**Text-Guided Unsupervised Latent Transformation for Multi-Attribute Image Manipulation**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Wei_Text-Guided_Unsupervised_Latent_Transformation_for_Multi-Attribute_Image_Manipulation_CVPR_2023_paper.html
+
+## Video Editing
+
+**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**
+- Paper: https://arxiv.org/abs/2301.06281
+- Code: https://github.com/Carlyx/DPE
+
+**Diffusion Video Autoencoders: Toward Temporally Consistent Face Video Editing via Disentangled Video Encoding**
+- Paper: https://arxiv.org/abs/2212.02802
+- Code: https://github.com/man805/Diffusion-Video-Autoencoders
+
+**Shape-aware Text-driven Layered Video Editing**
+- Paper: https://arxiv.org/abs/2301.13173
+- Project: https://text-video-edit.github.io/#
+
 
 <a name=ImageGeneration></a>
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换 [[back](#catalogue)]
@@ -970,16 +1012,8 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2302.07685
 - Code: https://github.com/sihyun-yu/PVDM
 
-**DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**
-- Paper: https://arxiv.org/abs/2301.06281
-- Code: https://github.com/Carlyx/DPE
-
 **Decomposed Diffusion Models for High-Quality Video Generation**
 - Paper: https://arxiv.org/abs/2303.08320
-
-**Diffusion Video Autoencoders: Toward Temporally Consistent Face Video Editing via Disentangled Video Encoding**
-- Paper: https://arxiv.org/abs/2212.02802
-- Code: https://github.com/man805/Diffusion-Video-Autoencoders
 
 **MoStGAN: Video Generation with Temporal Motion Styles**
 - Paper: https://arxiv.org/abs/2304.02777
