@@ -864,10 +864,6 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 # Image Generation/Synthesis / Image-to-Image Translation - 图像生成/合成/转换 [[back](#catalogue)]
 ## Text-to-Image / Text Guided / Multi-Modal
 
-**Multi-Concept Customization of Text-to-Image Diffusion**
-- Paper: https://arxiv.org/abs/2212.04488
-- Code: https://github.com/adobe-research/custom-diffusion
-
 **GALIP: Generative Adversarial CLIPs for Text-to-Image Synthesis**
 - Paper: https://arxiv.org/abs/2301.12959
 - Code: https://github.com/tobran/GALIP
@@ -876,19 +872,8 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.05511
 - Project: https://mingukkang.github.io/GigaGAN/
 
-**MAGVLT: Masked Generative Vision-and-Language Transformer**
-- Paper: https://arxiv.org/abs/2303.12208
-
-**Freestyle Layout-to-Image Synthesis**
-- Paper: https://arxiv.org/abs/2303.14412
-- Code: https://github.com/essunny310/FreestyleNet
-
 **Variational Distribution Learning for Unsupervised Text-to-Image Generation**
 - Paper: https://arxiv.org/abs/2303.16105
-
-**Sound to Visual Scene Generation by Audio-to-Visual Latent Alignment**
-- Paper: https://arxiv.org/abs/2303.17490
-- Project: https://sound2scene.github.io/
 
 **Toward Verifiable and Reproducible Human Evaluation for Text-to-Image Generation**
 - Paper: https://arxiv.org/abs/2304.01816
@@ -896,6 +881,52 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Shifted Diffusion for Text-to-image Generation**
 - Paper: https://arxiv.org/abs/2211.15388
 - Code: https://github.com/drboog/Shifted_Diffusion
+
+**ReCo: Region-Controlled Text-to-Image Generation**
+- Paper: https://arxiv.org/abs/2211.15518
+- Code: https://github.com/microsoft/ReCo
+
+**RIATIG: Reliable and Imperceptible Adversarial Text-to-Image Generation With Natural Prompts**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Liu_RIATIG_Reliable_and_Imperceptible_Adversarial_Text-to-Image_Generation_With_Natural_Prompts_CVPR_2023_paper.html
+- Code: https://github.com/WUSTL-CSPL/RIATIG
+
+**GLIGEN: Open-Set Grounded Text-to-Image Generation**
+- Paper: https://arxiv.org/abs/2301.07093
+- Code: https://github.com/gligen/GLIGEN
+
+**Multi-Concept Customization of Text-to-Image Diffusion**
+- Paper: https://arxiv.org/abs/2212.04488
+- Code: https://github.com/adobe-research/custom-diffusion
+
+**ERNIE-ViLG 2.0: Improving Text-to-Image Diffusion Model With Knowledge-Enhanced Mixture-of-Denoising-Experts**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Feng_ERNIE-ViLG_2.0_Improving_Text-to-Image_Diffusion_Model_With_Knowledge-Enhanced_Mixture-of-Denoising-Experts_CVPR_2023_paper.html
+
+**Uncovering the Disentanglement Capability in Text-to-Image Diffusion Models**
+- Paper: https://arxiv.org/abs/2212.08698
+- Code: https://github.com/UCSB-NLP-Chang/DiffusionDisentanglement
+
+**DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation**
+- Paper: https://arxiv.org/abs/2208.12242
+- Code: https://github.com/google/dreambooth
+
+**Specialist Diffusion: Plug-and-Play Sample-Efficient Fine-Tuning of Text-to-Image Diffusion Models To Learn Any Unseen Style**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Lu_Specialist_Diffusion_Plug-and-Play_Sample-Efficient_Fine-Tuning_of_Text-to-Image_Diffusion_Models_To_CVPR_2023_paper.html
+- Code: https://github.com/Picsart-AI-Research/Specialist-Diffusion
+
+**Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation**
+- Paper: https://arxiv.org/abs/2211.12572
+- Code: https://github.com/MichalGeyer/plug-and-play
+
+**MAGVLT: Masked Generative Vision-and-Language Transformer**
+- Paper: https://arxiv.org/abs/2303.12208
+
+**Freestyle Layout-to-Image Synthesis**
+- Paper: https://arxiv.org/abs/2303.14412
+- Code: https://github.com/essunny310/FreestyleNet
+
+**Sound to Visual Scene Generation by Audio-to-Visual Latent Alignment**
+- Paper: https://arxiv.org/abs/2303.17490
+- Project: https://sound2scene.github.io/
 
 **Collaborative Diffusion for Multi-Modal Face Generation and Editing**
 - Paper: https://arxiv.org/abs/2304.10530
