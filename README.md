@@ -913,10 +913,6 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Lu_Specialist_Diffusion_Plug-and-Play_Sample-Efficient_Fine-Tuning_of_Text-to-Image_Diffusion_Models_To_CVPR_2023_paper.html
 - Code: https://github.com/Picsart-AI-Research/Specialist-Diffusion
 
-**Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation**
-- Paper: https://arxiv.org/abs/2211.12572
-- Code: https://github.com/MichalGeyer/plug-and-play
-
 **MAGVLT: Masked Generative Vision-and-Language Transformer**
 - Paper: https://arxiv.org/abs/2303.12208
 
@@ -932,11 +928,18 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2304.10530
 - Code: https://github.com/ziqihuangg/Collaborative-Diffusion
 
-## Image-to-Image / Image Guided
+**SpaText: Spatio-Textual Representation for Controllable Image Generation**
+- Paper: https://arxiv.org/abs/2211.14305
+
+**Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation**
+- Paper: https://arxiv.org/abs/2211.12572
+- Code: https://github.com/MichalGeyer/plug-and-play
 
 **LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data**
 - Paper: https://arxiv.org/abs/2208.14889
 - Code: https://github.com/KU-CVLAB/LANIT
+
+## Image-to-Image / Image Guided
 
 **Person Image Synthesis via Denoising Diffusion Model**
 - Paper: https://arxiv.org/abs/2211.12500
@@ -961,6 +964,18 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Li_StyleGene_Crossover_and_Mutation_of_Region-Level_Facial_Genes_for_Kinship_CVPR_2023_paper.html
 - Code: https://github.com/CVI-SZU/StyleGene
 
+**Unpaired Image-to-Image Translation With Shortest Path Regularization**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Xie_Unpaired_Image-to-Image_Translation_With_Shortest_Path_Regularization_CVPR_2023_paper.html
+- Code: https://github.com/Mid-Push/santa
+
+**BBDM: Image-to-image Translation with Brownian Bridge Diffusion Models**
+- Paper: https://arxiv.org/abs/2205.07680
+- Code: https://github.com/xuekt98/BBDM
+
+**MaskSketch: Unpaired Structure-guided Masked Image Generation**
+- Paper: https://arxiv.org/abs/2302.05496
+- Code: https://github.com/google-research/masksketch
+
 ## Others for image generation
 
 **AdaptiveMix: Robust Feature Representation via Shrinking Feature Space**
@@ -975,7 +990,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.06424  
 
 **Exploring Incompatible Knowledge Transfer in Few-shot Image Generation**
-- Paper: 
+- Paper: https://arxiv.org/abs/2304.07574
 - Code: https://github.com/yunqing-me/RICK
 
 **Post-training Quantization on Diffusion Models**
@@ -1031,6 +1046,15 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Bai_GLeaD_Improving_GANs_With_a_Generator-Leading_Task_CVPR_2023_paper.html
 - Code: https://github.com/EzioBy/glead
 
+**Where Is My Spot? Few-Shot Image Generation via Latent Subspace Optimization**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_Where_Is_My_Spot_Few-Shot_Image_Generation_via_Latent_Subspace_CVPR_2023_paper.html
+- Code: https://github.com/chansey0529/LSO
+
+**KD-DLGAN: Data Limited Image Generation via Knowledge Distillation**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Cui_KD-DLGAN_Data_Limited_Image_Generation_via_Knowledge_Distillation_CVPR_2023_paper.html
+
+**Private Image Generation With Dual-Purpose Auxiliary Classifier**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Private_Image_Generation_With_Dual-Purpose_Auxiliary_Classifier_CVPR_2023_paper.html
 
 <a name="VideoGeneration"></a>
 ## Video Generation
@@ -1145,6 +1169,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.14736
 - Code: https://github.com/dailenson/SDT
 - Tags: Handwriting Generation
+
+**Conditional Text Image Generation With Diffusion Models**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_Conditional_Text_Image_Generation_With_Diffusion_Models_CVPR_2023_paper.html
 
 ## Layout Generation
 
