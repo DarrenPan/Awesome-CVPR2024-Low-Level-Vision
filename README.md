@@ -939,6 +939,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2208.14889
 - Code: https://github.com/KU-CVLAB/LANIT
 
+**High-Fidelity Guided Image Synthesis with Latent Diffusion Models**
+- Paper: https://arxiv.org/abs/2211.17084
+- Code: https://github.com/1jsingh/GradOP-Guided-Image-Synthesis
+
 ## Image-to-Image / Image Guided
 
 **Person Image Synthesis via Denoising Diffusion Model**
@@ -1055,6 +1059,13 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 **Private Image Generation With Dual-Purpose Auxiliary Classifier**
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Private_Image_Generation_With_Dual-Purpose_Auxiliary_Classifier_CVPR_2023_paper.html
+
+**SceneComposer: Any-Level Semantic Image Synthesis**
+- Paper: https://arxiv.org/abs/2211.11742
+- Code: https://github.com/zengxianyu/scenec
+
+**Exploring Intra-Class Variation Factors With Learnable Cluster Prompts for Semi-Supervised Image Synthesis**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Exploring_Intra-Class_Variation_Factors_With_Learnable_Cluster_Prompts_for_Semi-Supervised_CVPR_2023_paper.html
 
 <a name="VideoGeneration"></a>
 ## Video Generation
