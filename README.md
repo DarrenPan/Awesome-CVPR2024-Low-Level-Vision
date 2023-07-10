@@ -1092,6 +1092,11 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2211.12824
 - Code: https://github.com/tsujuifu/pytorch_tvc
 
+**MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Ruan_MM-Diffusion_Learning_Multi-Modal_Diffusion_Models_for_Joint_Audio_and_Video_CVPR_2023_paper.html
+- Code: https://github.com/researchmm/MM-Diffusion
+
+
 <a name="Others"></a>
 ## Others [[back](#catalogue)]
 
@@ -1120,7 +1125,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Tags: Portrait Relighting
 
 **Neural Texture Synthesis with Guided Correspondence**
-- Paper:
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Zhou_Neural_Texture_Synthesis_With_Guided_Correspondence_CVPR_2023_paper.html
 - Code: https://github.com/EliotChenKJ/Guided-Correspondence-Loss
 - Tags: Texture Synthesis
 
@@ -1155,11 +1160,25 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2212.08062
 - Code: https://github.com/Meta-Portrait/MetaPortrait
 
+**Identity-Preserving Talking Face Generation with Landmark and Appearance Priors**
+- Paper: https://arxiv.org/abs/2305.08293
+- Code: https://github.com/Weizhi-Zhong/IP_LAP
+
+**LipFormer: High-Fidelity and Generalizable Talking Face Generation With a Pre-Learned Facial Codebook**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Wang_LipFormer_High-Fidelity_and_Generalizable_Talking_Face_Generation_With_a_Pre-Learned_CVPR_2023_paper.html
+
+**High-fidelity Generalized Emotional Talking Face Generation with Multi-modal Emotion Space Learning**
+- Paper: https://arxiv.org/abs/2305.02572
+
 ## Virtual Try-on
 
 **GP-VTON: Towards General Purpose Virtual Try-on via Collaborative Local-Flow Global-Parsing Learning**
 - Paper: https://arxiv.org/abs/2303.13756
 - Code: https://github.com/xiezhy6/GP-VTON
+
+**Linking Garment With Person via Semantically Associated Landmarks for Virtual Try-On**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Yan_Linking_Garment_With_Person_via_Semantically_Associated_Landmarks_for_Virtual_CVPR_2023_paper.html
+- Code: https://modelscope.cn/datasets/damo/SAL-HG/summary
 
 ## Handwriting/Font Generation
 
@@ -1167,6 +1186,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.14017
 - Code: https://github.com/wangchi95/CF-Font
 - Tags: Font Generation
+
+**Neural Transformation Fields for Arbitrary-Styled Font Generation**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Fu_Neural_Transformation_Fields_for_Arbitrary-Styled_Font_Generation_CVPR_2023_paper.html
+- Code: https://github.com/fubinfb/NTF
 
 **DeepVecFont-v2: Exploiting Transformers to Synthesize Vector Fonts with Higher Quality**
 - Paper: https://arxiv.org/abs/2303.14585
