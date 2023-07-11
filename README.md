@@ -982,8 +982,8 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 ## Others for image generation
 
-**AdaptiveMix: Robust Feature Representation via Shrinking Feature Space**
-- Paper: https://arxiv.org/abs/2303.01559
+**AdaptiveMix: Improving GAN Training via Feature Space Shrinkage**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Liu_AdaptiveMix_Improving_GAN_Training_via_Feature_Space_Shrinkage_CVPR_2023_paper.html
 - Code: https://github.com/WentianZhang-ML/AdaptiveMix
 
 **MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis**
@@ -1066,6 +1066,14 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 **Exploring Intra-Class Variation Factors With Learnable Cluster Prompts for Semi-Supervised Image Synthesis**
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Exploring_Intra-Class_Variation_Factors_With_Learnable_Cluster_Prompts_for_Semi-Supervised_CVPR_2023_paper.html
+
+**Re-GAN: Data-Efficient GANs Training via Architectural Reconfiguration**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Saxena_Re-GAN_Data-Efficient_GANs_Training_via_Architectural_Reconfiguration_CVPR_2023_paper.html
+- Code: https://github.com/IntellicentAI-Lab/Re-GAN
+
+**Discriminator-Cooperated Feature Map Distillation for GAN Compression**
+- Paper: https://arxiv.org/abs/2212.14169
+- Code: https://github.com/poopit/DCD-official
 
 <a name="VideoGeneration"></a>
 ## Video Generation
