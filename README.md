@@ -845,6 +845,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Text-Guided Unsupervised Latent Transformation for Multi-Attribute Image Manipulation**
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Wei_Text-Guided_Unsupervised_Latent_Transformation_for_Multi-Attribute_Image_Manipulation_CVPR_2023_paper.html
 
+**EDICT: Exact Diffusion Inversion via Coupled Transformations**
+- Paper: https://arxiv.org/abs/2211.12446
+- Code: https://github.com/salesforce/EDICT
+
 ## Video Editing
 
 **DPE: Disentanglement of Pose and Expression for General Video Portrait Editing**
@@ -942,6 +946,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **High-Fidelity Guided Image Synthesis with Latent Diffusion Models**
 - Paper: https://arxiv.org/abs/2211.17084
 - Code: https://github.com/1jsingh/GradOP-Guided-Image-Synthesis
+
+**Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models**
+- Paper: https://arxiv.org/abs/2211.05105
+- Code: https://github.com/ml-research/safe-latent-diffusion
 
 ## Image-to-Image / Image Guided
 
@@ -1075,6 +1083,25 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2212.14169
 - Code: https://github.com/poopit/DCD-official
 
+**Wavelet Diffusion Models are fast and scalable Image Generators**
+- Paper: https://arxiv.org/abs/2211.16152
+- Code: https://github.com/VinAIResearch/WaveDiff
+
+**On Distillation of Guided Diffusion Models**
+- Paper: https://arxiv.org/abs/2210.03142
+
+**Binary Latent Diffusion**
+- Paper: https://arxiv.org/abs/2304.04820
+- Code: https://github.com/JiauZhang/binary-latent-diffusion
+
+**All are Worth Words: A ViT Backbone for Diffusion Models**
+- Paper: https://arxiv.org/abs/2209.12152
+- Code: https://github.com/baofff/U-ViT
+
+**Towards Practical Plug-and-Play Diffusion Models**
+- Paper: https://arxiv.org/abs/2212.05973
+- Code: https://github.com/riiid/PPAP
+
 <a name="VideoGeneration"></a>
 ## Video Generation
 
@@ -1188,6 +1215,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Yan_Linking_Garment_With_Person_via_Semantically_Associated_Landmarks_for_Virtual_CVPR_2023_paper.html
 - Code: https://modelscope.cn/datasets/damo/SAL-HG/summary
 
+**TryOnDiffusion: A Tale of Two UNets**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_TryOnDiffusion_A_Tale_of_Two_UNets_CVPR_2023_paper.html
+
 ## Handwriting/Font Generation
 
 **CF-Font: Content Fusion for Few-shot Font Generation**
@@ -1231,5 +1261,5 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2303.08137
 - Code: https://github.com/CyberAgentAILab/layout-dm
 
-**ayoutDM: Transformer-based Diffusion Model for Layout Generation**
+**LayoutDM: Transformer-based Diffusion Model for Layout Generation**
 - Paper: https://arxiv.org/abs/2305.02567
