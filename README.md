@@ -149,6 +149,11 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Visual_Recognition-Driven_Image_Restoration_for_Multiple_Degradation_With_Intrinsic_Semantics_CVPR_2023_paper.html
 - Tags: Restoration for High-Level Tasks
 
+**Parallel Diffusion Models of Operator and Image for Blind Inverse Problems**
+- Paper: https://arxiv.org/abs/2211.10656
+- Code: https://github.com/BlindDPS/blind-dps
+- Tags: blind deblurring, and imaging through turbulence
+
 ## Image Reconstruction
 
 **Raw Image Reconstruction with Learned Compact Metadata**
@@ -166,6 +171,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2304.13986
 - Code: https://github.com/songjiechong/OCTUF
 - Tags: Compressive Sensing
+
+**Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding**
+- Paper: https://arxiv.org/abs/2211.06956
+- Code: https://github.com/zjc062/mind-vis
 
 <a name="BurstRestoration"></a>
 ## Burst Restoration
@@ -635,6 +644,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Guerreiro_PCT-Net_Full_Resolution_Image_Harmonization_Using_Pixel-Wise_Color_Transformations_CVPR_2023_paper.html
 - Code: https://github.com/rakutentech/PCT-Net-Image-Harmonization/
 
+**ObjectStitch: Object Compositing With Diffusion Model**
+- Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Song_ObjectStitch_Object_Compositing_With_Diffusion_Model_CVPR_2023_paper.html
+
+
 <a name="Inpainting"></a>
 # Image Completion/Inpainting - 图像修复 [[back](#catalogue)]
 
@@ -1102,6 +1115,16 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2212.05973
 - Code: https://github.com/riiid/PPAP
 
+**Lookahead Diffusion Probabilistic Models for Refining Mean Estimation**
+- Paper: https://arxiv.org/abs/2304.11312
+- Code: https://github.com/guoqiang-zhang-x/LA-DPM
+
+**Diffusion Probabilistic Model Made Slim**
+- Paper: https://arxiv.org/abs/2211.17106
+
+**Self-Guided Diffusion Models**
+- Paper: https://arxiv.org/abs/2210.06462
+
 <a name="VideoGeneration"></a>
 ## Video Generation
 
@@ -1131,6 +1154,8 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Ruan_MM-Diffusion_Learning_Multi-Modal_Diffusion_Models_for_Joint_Audio_and_Video_CVPR_2023_paper.html
 - Code: https://github.com/researchmm/MM-Diffusion
 
+**Dimensionality-Varying Diffusion Process**
+- Paper: https://arxiv.org/abs/2211.16032
 
 <a name="Others"></a>
 ## Others [[back](#catalogue)]
@@ -1204,6 +1229,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 **High-fidelity Generalized Emotional Talking Face Generation with Multi-modal Emotion Space Learning**
 - Paper: https://arxiv.org/abs/2305.02572
+
+**DiffTalk: Crafting Diffusion Models for Generalized Audio-Driven Portraits Animation**
+- Paper: https://arxiv.org/abs/2301.03786
+- Code: https://github.com/sstzal/DiffTalk
 
 ## Virtual Try-on
 
