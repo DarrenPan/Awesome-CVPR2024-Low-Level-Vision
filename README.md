@@ -16,7 +16,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 ## Catalogue
 
 - [Image Restoration](#ImageRetoration)
-  - [Video Restoration](#VideoRestoration)
+  - [Video Restoration](#video-restoration)
 
 - [Super Resolution](#SuperResolution)
   - [Image Super Resolution](#ImageSuperResolution)
@@ -61,7 +61,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - [Others](#Others)
 
 <a name="ImageRetoration"></a>
-# Image Restoration - 图像恢复 [[back](#catalogue)]
+# Image Restoration - 图像恢复 
 
 **Efficient and Explicit Modelling of Image Hierarchies for Image Restoration**
 - Paper: https://arxiv.org/abs/2303.00748
@@ -198,6 +198,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/ChenyangLEI/All-In-One-Deflicker
 - Tags: Deflickering 
 
+[[back](#catalogue)]
 
 <a name="SuperResolution"></a>
 # Super Resolution - 超分辨率 [[back](#catalogue)]
