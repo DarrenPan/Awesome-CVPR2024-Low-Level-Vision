@@ -15,33 +15,33 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 ## Overview
 
-- [Image Restoration](#image-retoration---图像恢复)
+- [Image Restoration](#image-restoration)
   - [Video Restoration](#video-restoration)
 
-- [Super Resolution](#SuperResolution)
-  - [Image Super Resolution](#ImageSuperResolution)
-  - [Video Super Resolution](#VideoSuperResolution)
-- [Image Rescaling](#Rescaling)
+- [Super Resolution](#super-resolution)
+  - [Image Super Resolution](#image-super-resolution)
+  - [Video Super Resolution](#video-super-resolution)
+- [Image Rescaling](#image-rescaling)
 
-- [Denoising](#Denoising)
-  - [Image Denoising](#ImageDenoising)
+- [Denoising](#denoising)
+  - [Image Denoising](#image-denoising)
 
-- [Deblurring](#Deblurring)
-  - [Image Deblurring](#ImageDeblurring)
-  - [Video Deblurring](#VideoDeblurring)
+- [Deblurring](#deblurring)
+  - [Image Deblurring](#image-deblurring)
+  - [Video Deblurring](#video-deblurring)
 
-- [Deraining](#Deraining)
+- [Deraining](#deraining)
 
-- [Dehazing](#Dehazing)
+- [Dehazing](#dehazing)
 
-- [HDR Imaging / Multi-Exposure Image Fusion](#HDR)
+- [HDR Imaging / Multi-Exposure Image Fusion](#hdr)
 
-- [Frame Interpolation](#FrameInterpolation)
+- [Frame Interpolation](#frame-interpolation)
 
-- [Image Enhancement](#Enhancement)
+- [Image Enhancement](#image-enhancement)
   - [Low-Light Image Enhancement](#LowLight)
 
-- [Image Harmonization](#Harmonization)
+- [Image Harmonization](#image-harmonization)
 
 - [Image Completion/Inpainting](#Inpainting)
 
@@ -49,7 +49,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 - [Image Compression](#ImageCompression)
 
-- [Image Quality Assessment](#ImageQualityAssessment)
+- [Image Quality Assessment](#image-quality-assessment---图像质量评价)
 
 - [Style Transfer](#StyleTransfer)
 
@@ -61,7 +61,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - [Others](#Others)
 
 <a name="ImageRetoration"></a>
-# Image Restoration - 图像恢复 
+# Image Restoration
 
 **Efficient and Explicit Modelling of Image Hierarchies for Image Restoration**
 - Paper: https://arxiv.org/abs/2303.00748
@@ -201,7 +201,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 [[Back-to-Overview](#overview)]
 
 <a name="SuperResolution"></a>
-# Super Resolution - 超分辨率 [[back](#catalogue)]
+# Super Resolution
 <a name="ImageSuperResolution"></a>
 ## Image Super Resolution
 
@@ -360,9 +360,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/facebookresearch/DVSR/
 - Tags: Depth SR
 
+[[Back-to-Overview](#overview)]
 
 <a name="Rescaling"></a>
-# Image Rescaling - 图像缩放 [[back](#catalogue)]
+# Image Rescaling
 
 **HyperThumbnail: Real-time 6K Image Rescaling with Rate-distortion Optimization**
 - Paper: https://arxiv.org/abs/2304.01064
@@ -372,8 +373,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Guo_DINN360_Deformable_Invertible_Neural_Network_for_Latitude-Aware_360deg_Image_Rescaling_CVPR_2023_paper.html
 - Code: https://github.com/gyc9709/DINN360
 
+[[Back-to-Overview](#overview)]
+
 <a name="Denoising"></a>
-# Denoising - 去噪 [[back](#catalogue)]
+# Denoising
 
 <a name="ImageDenoising"></a>
 ## Image Denoising
@@ -428,8 +431,9 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Code: https://github.com/bandasyou/pcdenoise
 - Tags: Polarized Color Image
 
+[[Back-to-Overview](#overview)]
 <a name="Deblurring"></a>
-# Deblurring - 去模糊 [[back](#catalogue)]
+# Deblurring
 <a name="ImageDeblurring"></a>
 ## Image Deblurring
 
@@ -481,9 +485,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Pan_Deep_Discriminative_Spatial_and_Temporal_Network_for_Efficient_Video_Deblurring_CVPR_2023_paper.html
 - Code: https://github.com/xuboming8/DSTNet
 
+[[Back-to-Overview](#overview)]
 
 <a name="Deraining"></a>
-# Deraining - 去雨 [[back](#catalogue)]
+# Deraining
 
 **Learning A Sparse Transformer Network for Effective Image Deraining**
 - Paper: https://arxiv.org/abs/2303.11950
@@ -493,8 +498,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://openaccess.thecvf.com/content/CVPR2023/html/Wang_SmartAssign_Learning_a_Smart_Knowledge_Assignment_Strategy_for_Deraining_and_CVPR_2023_paper.html
 - Code: https://gitee.com/mindspore/models/tree/master/research/cv/SmartAssign
 
+[[Back-to-Overview](#overview)]
+
 <a name="Dehazing"></a>
-# Dehazing - 去雾 [[back](#catalogue)]
+# Dehazing
 
 **RIDCP: Revitalizing Real Image Dehazing via High-Quality Codebook Priors**
 - Paper: https://arxiv.org/abs/2304.03994
@@ -516,10 +523,11 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Streamlined Global and Local Features Combinator (SGLC) for High Resolution Image Dehazing**
 - Paper: https://arxiv.org/abs/2304.13375
 - Tags: [Workshop]
- 
+
+ [[Back-to-Overview](#overview)]
 
  <a name="HDR"></a>
-# HDR Imaging / Multi-Exposure Image Fusion - HDR图像生成 / 多曝光图像融合 [[back](#catalogue)]
+# HDR Imaging / Multi-Exposure Image Fusion
 
 **Learning a Practical SDR-to-HDRTV Up-conversion using New Dataset and Degradation Models**
 - Paper: https://arxiv.org/abs/2303.13031
@@ -736,9 +744,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper:https://openaccess.thecvf.com/content/CVPR2023/html/Alexandre_Hierarchical_B-Frame_Video_Coding_Using_Two-Layer_CANF_Without_Motion_Coding_CVPR_2023_paper.html
 - Code: https://github.com/nycu-clab/tlzmc-cvpr
 
+[[Back-to-Overview](#overview)]
 
 <a name="ImageQualityAssessment"></a>
-# Image Quality Assessment - 图像质量评价 [[back](#catalogue)]
+# Image Quality Assessment - 图像质量评价
 
 **Quality-aware Pre-trained Models for Blind Image Quality Assessment**
 - Paper: https://arxiv.org/abs/2303.00521
