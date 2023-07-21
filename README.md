@@ -34,16 +34,16 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 - [Dehazing](#dehazing)
 
-- [HDR Imaging / Multi-Exposure Image Fusion](#hdr)
+- [HDR Imaging / Multi-Exposure Image Fusion](#hdr-imaging--multi-exposure-image-fusion)
 
 - [Frame Interpolation](#frame-interpolation)
 
 - [Image Enhancement](#image-enhancement)
-  - [Low-Light Image Enhancement](#low-light)
+  - [Low-Light Image Enhancement](#low-light-image-enhancement)
 
-- [Image Harmonization](#image-harmonization)
+- [Image Harmonization](#image-harmonizationcomposition)
 
-- [Image Completion/Inpainting](#image-completion)
+- [Image Completion/Inpainting](#image-completioninpainting)
 
 - [Image Matting](#image-matting)
 
@@ -55,7 +55,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 - [Image Editing](#image-editing)
 
-- [Image Generation/Synthesis/ Image-to-Image Translation](#image-generation)
+- [Image Generation/Synthesis/ Image-to-Image Translation](#image-generationsynthesis--image-to-image-translation)
   - [Video Generation](#video-generation)
 
 - [Others](#others)
