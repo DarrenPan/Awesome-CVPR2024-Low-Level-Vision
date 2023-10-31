@@ -771,6 +771,7 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 
 **Re-IQA: Unsupervised Learning for Image Quality Assessment in the Wild**
 - Paper: https://arxiv.org/abs/2304.00451
+- Code: https://github.com/avinabsaha/ReIQA
 
 **An Image Quality Assessment Dataset for Portraits**
 - Paper: https://arxiv.org/abs/2304.05772
