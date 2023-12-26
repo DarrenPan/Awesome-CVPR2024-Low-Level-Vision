@@ -193,6 +193,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2206.10810
 - Code: https://github.com/dasongli1/Shift-Net
 
+**HNeRV: A Hybrid Neural Representation for Videos**
+- Paper: https://arxiv.org/abs/2304.02633
+- Code: https://github.com/haochen-rye/HNeRV
+
 **Blind Video Deflickering by Neural Filtering with a Flawed Atlas**
 - Paper: https://arxiv.org/abs/2303.08120
 - Code: https://github.com/ChenyangLEI/All-In-One-Deflicker
@@ -752,6 +756,10 @@ A Collection of Papers and Codes in CVPR2023 related to Low-Level Vision
 **Hierarchical B-Frame Video Coding Using Two-Layer CANF Without Motion Coding**
 - Paper:https://openaccess.thecvf.com/content/CVPR2023/html/Alexandre_Hierarchical_B-Frame_Video_Coding_Using_Two-Layer_CANF_Without_Motion_Coding_CVPR_2023_paper.html
 - Code: https://github.com/nycu-clab/tlzmc-cvpr
+
+**HNeRV: A Hybrid Neural Representation for Videos**
+- Paper: https://arxiv.org/abs/2304.02633
+- Code: https://github.com/haochen-rye/HNeRV
 
 [[Back-to-Overview](#overview)]
 
